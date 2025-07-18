@@ -28,11 +28,11 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA
 
 | Integrantes | Sobre |
 | -- | -- |
-| <img src='/Workspace/Users/vinicius.fialho@databricks.com/Hunter/2025_Evento_AI_Agents/lab_ai_agents/img/flavio_valiati.png' width='90px'></img> | **Flavio Valiati**, Sales Director, Enterprise Latin America. |
-| <img src='/Workspace/Users/vinicius.fialho@databricks.com/Hunter/2025_Evento_AI_Agents/lab_ai_agents/img/clecio_silva.png' width='90px'></img> | **Clecio Silva**, Field Engineering Manager. |
-| <img src='/Workspace/Users/vinicius.fialho@databricks.com/Hunter/2025_Evento_AI_Agents/lab_ai_agents/img/daniel_takao.png' width='90px'></img> | **Daniel Takao**, Account Executive. |
-| <img src='/Workspace/Users/vinicius.fialho@databricks.com/Hunter/2025_Evento_AI_Agents/lab_ai_agents/img/gabriel_caballeria.png' width='90px'></img> | **Gabriel Caballeria**, Sr. Solutions Engineer. |
-| <img src='/Workspace/Users/vinicius.fialho@databricks.com/Hunter/2025_Evento_AI_Agents/lab_ai_agents/img/juliandro_figueiro.png' width='90px'></img> | **Juliandro Figueiró**, Sr. Solutions Architect. |
-| <img src='/Workspace/Users/vinicius.fialho@databricks.com/Hunter/2025_Evento_AI_Agents/lab_ai_agents/img/vinicius_fialho.png' width='90px'></img> | **Vinicius Fialho**, Solutions Engineer. |
+| <img src='https://raw.githubusercontent.com/Databricks-BR/lab_ai_agents/refs/heads/main/img/flavio_valiati.png' width='90px'></img> | **Flavio Valiati**, Sales Director, Enterprise Latin America. |
+| <img src='https://raw.githubusercontent.com/Databricks-BR/lab_ai_agents/refs/heads/main/img/clecio_silva.png' width='90px'></img> | **Clecio Silva**, Field Engineering Manager. |
+| <img src='https://github.com/Databricks-BR/lab_ai_agents/blob/main/img/daniel_takao.png?raw=true' width='90px'></img> | **Daniel Takao**, Account Executive. |
+| <img src='https://github.com/Databricks-BR/lab_ai_agents/blob/main/img/gabriel_caballeria.png?raw=true' width='90px'></img> | **Gabriel Caballeria**, Sr. Solutions Engineer. |
+| <img src='https://github.com/Databricks-BR/lab_ai_agents/blob/main/img/juliandro_figueiro.png?raw=true' width='90px'></img> | **Juliandro Figueiró**, Sr. Solutions Architect. |
+| <img src='https://github.com/Databricks-BR/lab_ai_agents/blob/main/img/vinicius_fialho.png?raw=true' width='90px'></img> | **Vinicius Fialho**, Solutions Engineer. |
 
 </br></br>
