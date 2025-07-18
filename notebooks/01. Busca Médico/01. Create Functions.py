@@ -2,7 +2,7 @@
 # MAGIC %md
 # MAGIC %md <img src="https://github.com/Databricks-BR/lab_genai/blob/main/img/header.png?raw=true" width=100%>
 # MAGIC
-# MAGIC # Hands-On LAB 02 - Criando funções
+# MAGIC # Hands-On LAB 01 - Criando funções
 # MAGIC
 # MAGIC Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA Generativa.
 
