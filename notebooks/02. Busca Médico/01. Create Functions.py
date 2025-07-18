@@ -27,8 +27,8 @@ dbutils.widgets.text("pacientes_table", f"{dbutils.widgets.get('CATALOG')}.{dbut
 
 CATALOG = dbutils.widgets.get("CATALOG")
 SCHEMA = dbutils.widgets.get("SCHEMA")
-medicos_table = f"{dbutils.widgets.get("CATALOG")}.{dbutils.widgets.get("SCHEMA")}.{dbutils.widgets.get("medicos_table")}"
-pacientes_table = f"{dbutils.widgets.get("CATALOG")}.{dbutils.widgets.get("SCHEMA")}.{dbutils.widgets.get("pacientes_table")}"
+medicos_table = dbutils.widgets.get('medicos_table')
+pacientes_table = dbutils.widgets.get('pacientes_table')
 
 # COMMAND ----------
 
