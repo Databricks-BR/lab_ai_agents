@@ -1,17 +1,21 @@
 # Databricks notebook source
+# DBTITLE 1,- Install Databricks Vector Search Library
 # MAGIC %pip install databricks-vectorsearch==0.22
 # MAGIC dbutils.library.restartPython()
 
 # COMMAND ----------
 
+# DBTITLE 1,- Load Environment Configuration
 # MAGIC %run "./env"
 
 # COMMAND ----------
 
+# DBTITLE 1,- Defined Catalog for Current Session
 catalogo
 
 # COMMAND ----------
 
+# DBTITLE 1,String Cleaning Function with Custom Replacement
 def clean_string(value, replacement: str = "_") -> str:
     import re
     replacement_2x = replacement+replacement
@@ -22,17 +26,20 @@ def clean_string(value, replacement: str = "_") -> str:
 
 # COMMAND ----------
 
+# DBTITLE 1,Retrieve Current User, Catalog, and Schema
 def get_username():
   row = spark.sql("SELECT current_user() as username, current_catalog() as catalog, current_database() as schema").first()
   return row["username"]
 
 # COMMAND ----------
 
+# DBTITLE 1,Fetch Workspace ID Using Databricks Utilities
 def get_workspace_id():
   return dbutils.entry_point.getDbutils().notebook().getContext().workspaceId().getOrElse(None)
 
 # COMMAND ----------
 
+# DBTITLE 1,Generate Clean Username-based Identifier
 def unique_name():
   local_part = get_username().split("@")[0]
   hash_basis = f"{get_username()}{get_workspace_id()}"
@@ -44,15 +51,18 @@ def unique_name():
 
 # COMMAND ----------
 
+# DBTITLE 1,Create Database if Not Exists
 schema =  unique_name()
 spark.sql(f"create database if not exists {catalogo}.{schema}")
 
 # COMMAND ----------
 
+# DBTITLE 1,Create Unique Serving Endpoint Name
 serving_endpoint_name = serving_endpoint_name_prefix + unique_name()
 
 # COMMAND ----------
 
+# DBTITLE 1,Set ...
 clear = False
 
 if clear:
@@ -80,6 +90,7 @@ if clear:
 
 # COMMAND ----------
 
+# DBTITLE 1,Set Up Volume and Download Files Function
 spark.sql(f"use {catalogo}.{schema}")
 volume_folder = f"/Volumes/{catalogo}/{schema}/landing"
 
@@ -106,6 +117,7 @@ def download_file(url, destination):
 
 # COMMAND ----------
 
+# DBTITLE 1,Check and Wait for Endpoint to be Ready
 import time
 def wait_for_vs_endpoint_to_be_ready(vsc, vs_endpoint_name):
   for i in range(180):
@@ -130,6 +142,7 @@ def wait_for_vs_endpoint_to_be_ready(vsc, vs_endpoint_name):
 
 # COMMAND ----------
 
+# DBTITLE 1,Check If Index Exists and Wait Until Ready
 def index_exists(vsc, endpoint_name, index_full_name):
     try:
         dict_vsindex = vsc.get_index(endpoint_name, index_full_name).describe()
@@ -160,6 +173,7 @@ def wait_for_index_to_be_ready(vsc, vs_endpoint_name, index_name):
 
 # COMMAND ----------
 
+# DBTITLE 1,Check Endpoint Status and Handle Request Limits
 import time
 
 def endpoint_exists(vsc, vs_endpoint_name):
@@ -197,6 +211,7 @@ def wait_for_vs_endpoint_to_be_ready(vsc, vs_endpoint_name):
 
 # COMMAND ----------
 
+# DBTITLE 1,Custom Quota Exceeded Error Message
 #Display a better quota message 
 def display_quota_error(e, ep_name):
   if "QUOTA_EXCEEDED" in str(e): 
@@ -204,6 +219,7 @@ def display_quota_error(e, ep_name):
 
 # COMMAND ----------
 
+# DBTITLE 1,Switch to Specified Catalog and Schema in Databricks
 print(f"Catálogo que você está usando: {catalogo}")
 print(f"Schema criado para você: {schema}")
 
