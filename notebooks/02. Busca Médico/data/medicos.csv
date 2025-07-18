@@ -1,0 +1,1001 @@
+nome_medico,endereco,cidade,estado,pais,cep,latitude,longitude,especialidade,planos_aceitos,bairro
+Dr(a). Clara Caldeira,"Travessa de Duarte, 82, Vila Tirol",São Paulo,SP,Brasil,37225-402,-23.52818876072995,-46.7552012319136,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Tirol
+Dr(a). Anthony da Conceição,"Núcleo Felipe da Conceição, 46, Sagrada Família",São Paulo,SP,Brasil,17883-637,-23.54012919884935,-46.615186663852334,Ortopedia,"[""Ouro"",""Diamante""]",Sagrada Família
+Dr(a). Marina Rodrigues,"Viaduto de Novaes, 10, Vila Mangueiras",São Paulo,SP,Brasil,51649917,-23.538234424843136,-46.68719907510137,Dermatologia,"[""Diamante""]",Vila Mangueiras
+Dr(a). Hellena Marques,"Viaduto de Silva, 21, Padre Eustáquio",São Paulo,SP,Brasil,31210-615,-23.573028305575995,-46.61662318129726,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Padre Eustáquio
+Dr(a). Luara Pacheco,"Estrada de Novais, 4, Paraíso",São Paulo,SP,Brasil,12548-182,-23.528027228603406,-46.760855139859444,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Paraíso
+Dr(a). Igor da Paz,"Condomínio Fernando da Paz, 17, Vila Santo Antônio",São Paulo,SP,Brasil,62205-433,-23.55944685444564,-46.63762907843358,Cardiologia,"[""Ouro"",""Diamante""]",Vila Santo Antônio
+Dr(a). Daniel Rodrigues,"Trevo de Aragão, 4, Santa Lúcia",São Paulo,SP,Brasil,70848-190,-23.547009266131422,-46.787150157682525,Pediatria,"[""Diamante""]",Santa Lúcia
+Dr(a). Dr. Matheus Vasconcelos,"Vale Aparecida, 39, Pompéia",São Paulo,SP,Brasil,29602767,-23.561137972030036,-46.66811915480161,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Pompéia
+Dr(a). Srta. Isabela Siqueira,"Avenida Marques, 88, Cenaculo",São Paulo,SP,Brasil,58771-416,-23.556885387528112,-46.63338017154651,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Cenaculo
+Dr(a). Lavínia Fonseca,"Viela Maitê Ramos, 18, Nazare",São Paulo,SP,Brasil,11516663,-23.50567875488798,-46.74001167774901,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Nazare
+Dr(a). Nina Moraes,"Rua de das Neves, 476, Vila Minaslandia",São Paulo,SP,Brasil,70582-449,-23.53819003509367,-46.75160124226458,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Minaslandia
+Dr(a). Henrique Cirino,"Lagoa de Dias, 69, Boa União 1ª Seção",São Paulo,SP,Brasil,20284569,-23.56103474444802,-46.78551596774456,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa União 1ª Seção
+Dr(a). Gabriela Campos,"Conjunto Liz da Cunha, 74, Nova Pampulha",São Paulo,SP,Brasil,63357-520,-23.572458491295574,-46.646328572600424,Clínico Geral,"[""Diamante""]",Nova Pampulha
+Dr(a). Maria Sophia da Mata,"Parque Raul Martins, 688, Coqueiros",São Paulo,SP,Brasil,24389-616,-23.525304840546035,-46.68270990706731,Pediatria,"[""Ouro"",""Diamante""]",Coqueiros
+Dr(a). Isabela Cunha,"Recanto Albuquerque, 696, Ermelinda",São Paulo,SP,Brasil,76610-340,-23.50841333515338,-46.666441854088596,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Ermelinda
+Dr(a). Juan da Costa,"Estrada Arthur Gabriel Leão, 22, Vila Da Paz",São Paulo,SP,Brasil,92262369,-23.544972901500348,-46.62847660962567,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Da Paz
+Dr(a). Maria Cecília das Neves,"Núcleo Ana Machado, 33, Pindura Saia",São Paulo,SP,Brasil,20092444,-23.520705444957297,-46.6604192750375,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Pindura Saia
+Dr(a). Juan Viana,"Morro Ribeiro, 53, Jardim Dos Comerciarios",São Paulo,SP,Brasil,31104-388,-23.558596474320463,-46.65061973194034,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Dos Comerciarios
+Dr(a). Lunna Azevedo,"Fazenda Pastor, 605, Varzea Da Palma",São Paulo,SP,Brasil,58185398,-23.54227885749093,-46.77210638589356,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Varzea Da Palma
+Dr(a). Sra. Maria Isis Cavalcante,"Colônia Alexandre Rezende, 61, Vila União",São Paulo,SP,Brasil,77789979,-23.596221851718106,-46.761381495221556,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila União
+Dr(a). Luigi Albuquerque,"Praça de Pereira, 45, Capitão Eduardo",São Paulo,SP,Brasil,39188-090,-23.52668328332491,-46.63338423323084,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Capitão Eduardo
+Dr(a). Nicole Nunes,"Residencial Mendes, 42, Vila Pinho",São Paulo,SP,Brasil,69673050,-23.537723859462556,-46.68690369170014,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Pinho
+Dr(a). Emanuelly da Conceição,"Passarela Gonçalves, 57, Vila Engenho Nogueira",São Paulo,SP,Brasil,93791-914,-23.53285621291712,-46.71070060225414,Cardiologia,"[""Diamante""]",Vila Engenho Nogueira
+Dr(a). Allana Ferreira,"Praça de Viana, 17, Colégio Batista",São Paulo,SP,Brasil,24302-683,-23.5801086953973,-46.75265867929838,Ortopedia,"[""Ouro"",""Diamante""]",Colégio Batista
+Dr(a). Maria Luísa Brito,"Alameda de Sousa, 12, Bonfim",São Paulo,SP,Brasil,02676-164,-23.541468426066455,-46.605463299545356,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Bonfim
+Dr(a). Luiz Henrique Camargo,"Trecho Moreira, 278, Nazare",São Paulo,SP,Brasil,43269253,-23.551227980400153,-46.67023374622945,Cardiologia,"[""Ouro"",""Diamante""]",Nazare
+Dr(a). Sr. Anthony Aparecida,"Largo Albuquerque, 2, Vila Bandeirantes",São Paulo,SP,Brasil,56603152,-23.578893068456615,-46.79510167332503,Dermatologia,"[""Ouro"",""Diamante""]",Vila Bandeirantes
+Dr(a). Ana Júlia Ferreira,"Feira de Gonçalves, 58, Vila Petropolis",São Paulo,SP,Brasil,81817-857,-23.500365642462427,-46.78917853557023,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Petropolis
+Dr(a). Alícia Gonçalves,"Pátio Enzo Pastor, 68, Lourdes",São Paulo,SP,Brasil,28273726,-23.5873635775465,-46.68382263901163,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lourdes
+Dr(a). Clara Moura,"Campo Brito, 83, Sagrada Família",São Paulo,SP,Brasil,80723-712,-23.531348375586173,-46.741165752474984,Cardiologia,"[""Ouro"",""Diamante""]",Sagrada Família
+Dr(a). Vinícius Ramos,"Fazenda de Vasconcelos, 6, Alto Barroca",São Paulo,SP,Brasil,91367-448,-23.507657812692422,-46.73205956770117,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Alto Barroca
+Dr(a). Caroline Silva,"Praça Vicente da Mota, 545, Acaba Mundo",São Paulo,SP,Brasil,17663251,-23.562501943467378,-46.754863902421604,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Acaba Mundo
+Dr(a). Letícia Rocha,"Vale Lorena Siqueira, 40, Barro Preto",São Paulo,SP,Brasil,43512386,-23.558369830698286,-46.64030306941024,Ortopedia,"[""Ouro"",""Diamante""]",Barro Preto
+Dr(a). Davi Fogaça,"Loteamento de da Conceição, 70, São Jorge 1ª Seção",São Paulo,SP,Brasil,40196916,-23.589895841551918,-46.709822411631386,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Jorge 1ª Seção
+Dr(a). Rhavi Souza,"Sítio de Guerra, 20, Sion",São Paulo,SP,Brasil,91131699,-23.529808321117013,-46.71448780955237,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Sion
+Dr(a). Luiza Souza,"Conjunto de Sampaio, 95, São Marcos",São Paulo,SP,Brasil,65960784,-23.584584547914062,-46.684322396224495,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Marcos
+Dr(a). Otávio Freitas,"Alameda Luiz Felipe Melo, 101, Granja De Freitas",São Paulo,SP,Brasil,70404-432,-23.542834571200036,-46.7546962012774,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Granja De Freitas
+Dr(a). Luna Monteiro,"Lago Novaes, 66, Santa Inês",São Paulo,SP,Brasil,38133-761,-23.504693140681066,-46.66502443530334,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Inês
+Dr(a). Alexia Leão,"Estrada da Conceição, 99, Conjunto Lagoa",São Paulo,SP,Brasil,82212688,-23.579184289692606,-46.66183676771572,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Lagoa
+Dr(a). Juan Castro,"Estação de Cardoso, 54, Camargos",São Paulo,SP,Brasil,77331429,-23.582570899446093,-46.72944234068061,Pediatria,"[""Diamante""]",Camargos
+Dr(a). Dante Guerra,"Ladeira Ramos, 38, São Marcos",São Paulo,SP,Brasil,64488489,-23.554597613588314,-46.78291663888447,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Marcos
+Dr(a). Dr. João Pedro Pacheco,"Pátio de da Mota, 7, Vila Vista Alegre",São Paulo,SP,Brasil,64856-191,-23.573254903579954,-46.70313939524965,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Vista Alegre
+Dr(a). Agatha Ramos,"Fazenda Ágatha Silva, 43, Floresta",São Paulo,SP,Brasil,12551-646,-23.505432345674024,-46.71170823801214,Dermatologia,"[""Ouro"",""Diamante""]",Floresta
+Dr(a). Mateus Viana,"Condomínio Pires, 92, Conjunto Taquaril",São Paulo,SP,Brasil,48490848,-23.56532642505755,-46.655630178323285,Dermatologia,"[""Diamante""]",Conjunto Taquaril
+Dr(a). Dom Câmara,"Parque Rios, 14, Acaiaca",São Paulo,SP,Brasil,73603494,-23.560369119969376,-46.66553951813594,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Acaiaca
+Dr(a). José Miguel da Costa,"Parque Montenegro, 64, Mangabeiras",São Paulo,SP,Brasil,97294150,-23.574513442467186,-46.708291830633755,Pediatria,"[""Ouro"",""Diamante""]",Mangabeiras
+Dr(a). Pedro Aragão,"Jardim de Mendes, 9, Vila De Sá",São Paulo,SP,Brasil,26550125,-23.576734730528763,-46.60549878994494,Dermatologia,"[""Diamante""]",Vila De Sá
+Dr(a). Maria Laura Pacheco,"Ladeira Caldeira, 44, Santa Amelia",São Paulo,SP,Brasil,60519-959,-23.58832119002956,-46.76182662205574,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Amelia
+Dr(a). Laura Rodrigues,"Recanto de Macedo, 97, Ademar Maldonado",São Paulo,SP,Brasil,27198-727,-23.568618660587642,-46.63352490119132,Cardiologia,"[""Ouro"",""Diamante""]",Ademar Maldonado
+Dr(a). Sr. Brayan Casa Grande,"Quadra de Nunes, 569, Palmeiras",São Paulo,SP,Brasil,78473-650,-23.576159828818827,-46.66950688934847,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Palmeiras
+Dr(a). Dra. Milena Moraes,"Loteamento Vitor Moreira, 97, Lorena",São Paulo,SP,Brasil,62945-313,-23.574175814167067,-46.66558495379111,Dermatologia,"[""Ouro"",""Diamante""]",Lorena
+Dr(a). Nicole Barbosa,"Ladeira de Rezende, 66, Vila Petropolis",São Paulo,SP,Brasil,96075457,-23.58553053380628,-46.62571996906385,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vila Petropolis
+Dr(a). Sophia Montenegro,"Rodovia Felipe Vieira, 7, Minas Caixa",São Paulo,SP,Brasil,00546936,-23.506170452784055,-46.68766834370731,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Minas Caixa
+Dr(a). Dra. Rebeca Silva,"Viela Mendes, 192, Universo",São Paulo,SP,Brasil,91914906,-23.59304923060152,-46.63028027255737,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Universo
+Dr(a). Daniel Pacheco,"Praia Ana Lívia Nascimento, 3, Ribeiro De Abreu",São Paulo,SP,Brasil,56256-991,-23.54775422208047,-46.633049963823495,Clínico Geral,"[""Ouro"",""Diamante""]",Ribeiro De Abreu
+Dr(a). Lucas Gabriel Araújo,"Feira de Peixoto, 3, Serra Do Curral",São Paulo,SP,Brasil,54519-273,-23.51369298708906,-46.670124511509734,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Serra Do Curral
+Dr(a). Srta. Beatriz Ferreira,"Esplanada Rezende, 2, São Jorge 1ª Seção",São Paulo,SP,Brasil,17209250,-23.546393723200488,-46.63791575616518,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Jorge 1ª Seção
+Dr(a). Maria Alice Barros,"Vereda Maya Fogaça, 98, Glória",São Paulo,SP,Brasil,32185-791,-23.532491535629315,-46.757395523154415,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Glória
+Dr(a). Gabriel Cirino,"Vila de Gomes, 73, Vila Cemig",São Paulo,SP,Brasil,00511-676,-23.565904834168357,-46.69805204537446,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Cemig
+Dr(a). Marina Andrade,"Praia João Vitor Vasconcelos, 25, Grotinha",São Paulo,SP,Brasil,49990-343,-23.50179500703138,-46.64205449727004,Clínico Geral,"[""Diamante""]",Grotinha
+Dr(a). Lucas Gabriel Fogaça,"Praia Teixeira, 43, Vila Copacabana",São Paulo,SP,Brasil,87080012,-23.57869909359318,-46.66114200284523,Clínico Geral,"[""Ouro"",""Diamante""]",Vila Copacabana
+Dr(a). Vinicius Peixoto,"Travessa Benicio Barros, 82, Itapoa",São Paulo,SP,Brasil,77816-287,-23.522404753962807,-46.60442375587657,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Itapoa
+Dr(a). Dra. Júlia Costela,"Trevo Rezende, 596, Rio Branco",São Paulo,SP,Brasil,57217076,-23.504332118293163,-46.70250299172696,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Rio Branco
+Dr(a). Emanuel Porto,"Setor Danilo Aragão, 22, Goiania",São Paulo,SP,Brasil,07911927,-23.54807602130313,-46.779776324213884,Cardiologia,"[""Diamante""]",Goiania
+Dr(a). Agatha Sousa,"Viela Almeida, 68, Vista Do Sol",São Paulo,SP,Brasil,90106551,-23.543849057150616,-46.618008589496874,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vista Do Sol
+Dr(a). Thiago Marques,"Lagoa da Mota, 618, Aarão Reis",São Paulo,SP,Brasil,67910-312,-23.5597202295357,-46.68866671327045,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aarão Reis
+Dr(a). Brenda Freitas,"Residencial de Ferreira, 39, Vila Paris",São Paulo,SP,Brasil,07682-902,-23.57337264864047,-46.652036131673086,Pediatria,"[""Ouro"",""Diamante""]",Vila Paris
+Dr(a). Sr. Antônio Guerra,"Rua Sarah Novais, 798, Santa Rosa",São Paulo,SP,Brasil,11883-390,-23.586437657506718,-46.60513032409429,Pediatria,"[""Ouro"",""Diamante""]",Santa Rosa
+Dr(a). Diogo Ferreira,"Lago Stephany da Rocha, 19, Vila Das Oliveiras",São Paulo,SP,Brasil,10953515,-23.552110926313944,-46.64029658115074,Cardiologia,"[""Ouro"",""Diamante""]",Vila Das Oliveiras
+Dr(a). Noah Alves,"Avenida Davi Lucas Jesus, 55, Vila Jardim Montanhes",São Paulo,SP,Brasil,53908871,-23.51126348684553,-46.66950105503816,Pediatria,"[""Diamante""]",Vila Jardim Montanhes
+Dr(a). Sra. Ana Beatriz Almeida,"Travessa Pereira, 174, Manacas",São Paulo,SP,Brasil,95728275,-23.503113146611994,-46.63333205037629,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Manacas
+Dr(a). Maya Cassiano,"Aeroporto de Vasconcelos, 774, Solimoes",São Paulo,SP,Brasil,02455349,-23.52008405039997,-46.685874508143385,Dermatologia,"[""Diamante""]",Solimoes
+Dr(a). Rafael da Cruz,"Vila Sousa, 2, São Bento",São Paulo,SP,Brasil,45907-424,-23.598389313738604,-46.707797074153774,Dermatologia,"[""Diamante""]",São Bento
+Dr(a). Asafe Nunes,"Residencial Benicio Nascimento, 64, Vila Jardim Alvorada",São Paulo,SP,Brasil,07470153,-23.593948106310766,-46.70186684960493,Cardiologia,"[""Ouro"",""Diamante""]",Vila Jardim Alvorada
+Dr(a). Nicole Teixeira,"Viela Pacheco, 427, Alípio De Melo",São Paulo,SP,Brasil,63612414,-23.573075919244165,-46.623605170038495,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alípio De Melo
+Dr(a). Julia Rodrigues,"Quadra Kevin Nascimento, 20, Pedreira Padro Lopes",São Paulo,SP,Brasil,82976663,-23.556685263044454,-46.600895479482524,Ortopedia,"[""Diamante""]",Pedreira Padro Lopes
+Dr(a). Emanuel Fernandes,"Pátio de Peixoto, 122, Vila Pinho",São Paulo,SP,Brasil,16547665,-23.512194956906182,-46.77799899932303,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Pinho
+Dr(a). Yago Machado,"Parque Azevedo, 10, Vila Trinta E Um De Março",São Paulo,SP,Brasil,76301-458,-23.5158170582358,-46.68550153259908,Pediatria,"[""Diamante""]",Vila Trinta E Um De Março
+Dr(a). Kevin Farias,"Núcleo de Leão, 16, Universitário",São Paulo,SP,Brasil,54571992,-23.520656384066463,-46.66987008617701,Clínico Geral,"[""Ouro"",""Diamante""]",Universitário
+Dr(a). Igor Teixeira,"Travessa Castro, 7, Santa Lúcia",São Paulo,SP,Brasil,91630434,-23.564388986311837,-46.66642993917607,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Lúcia
+Dr(a). Laís Silva,"Vereda Luiz Henrique Teixeira, 15, Beira Linha",São Paulo,SP,Brasil,66410348,-23.510160991913775,-46.67989490032353,Cardiologia,"[""Diamante""]",Beira Linha
+Dr(a). Sra. Lunna Alves,"Conjunto de da Conceição, 308, Tupi A",São Paulo,SP,Brasil,18942333,-23.558936631155994,-46.682194799713805,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Tupi A
+Dr(a). Mateus Gomes,"Jardim de Caldeira, 180, Manacas",São Paulo,SP,Brasil,11371-072,-23.558637822733377,-46.74513606309652,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Manacas
+Dr(a). Dr. Gael Castro,"Alameda Esther Farias, 799, São Jorge 3ª Seção",São Paulo,SP,Brasil,66572-990,-23.513658251268645,-46.67205658126536,Cardiologia,"[""Diamante""]",São Jorge 3ª Seção
+Dr(a). Eloah das Neves,"Estrada João Guilherme Castro, 413, Marieta 3ª Seção",São Paulo,SP,Brasil,63148194,-23.56044239887051,-46.71667943881309,Dermatologia,"[""Ouro"",""Diamante""]",Marieta 3ª Seção
+Dr(a). Sarah Dias,"Vale de Pastor, 7, Jardim Atlântico",São Paulo,SP,Brasil,63631-601,-23.563726295596133,-46.779304888470996,Dermatologia,"[""Diamante""]",Jardim Atlântico
+Dr(a). Luiza Caldeira,"Vila Alice Gomes, 40, Vila Barragem Santa Lúcia",São Paulo,SP,Brasil,54229-031,-23.58940971177775,-46.71075800555944,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Barragem Santa Lúcia
+Dr(a). Davi Luiz Teixeira,"Pátio Costela, 82, Unidas",São Paulo,SP,Brasil,03269-651,-23.574826672335348,-46.74353465191749,Dermatologia,"[""Ouro"",""Diamante""]",Unidas
+Dr(a). Henry Casa Grande,"Via de Novais, 43, Saudade",São Paulo,SP,Brasil,91679-012,-23.500005607539908,-46.72738990853094,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Saudade
+Dr(a). Maria Liz Santos,"Vereda Fogaça, 26, Nova Cachoeirinha",São Paulo,SP,Brasil,64364-211,-23.598031895498455,-46.78922369693306,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Nova Cachoeirinha
+Dr(a). Theodoro Ramos,"Recanto Novaes, 4, Vila Suzana Segunda Seção",São Paulo,SP,Brasil,04226-231,-23.52289035761243,-46.78967080619577,Pediatria,"[""Ouro"",""Diamante""]",Vila Suzana Segunda Seção
+Dr(a). Dr. Diego Moraes,"Alameda Mendonça, 91, Baleia",São Paulo,SP,Brasil,23275-991,-23.589184592280183,-46.60300161510326,Clínico Geral,"[""Diamante""]",Baleia
+Dr(a). Thiago Carvalho,"Distrito de da Cruz, 637, Buritis",São Paulo,SP,Brasil,60644588,-23.570673587264096,-46.60037814601449,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Buritis
+Dr(a). Sr. Diego Costela,"Loteamento Câmara, 22, São Jorge 1ª Seção",São Paulo,SP,Brasil,35150386,-23.562750736258106,-46.6262670099931,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Jorge 1ª Seção
+Dr(a). Kamilly Jesus,"Largo Viana, 71, Conjunto Taquaril",São Paulo,SP,Brasil,91819406,-23.51715512739924,-46.63082148127044,Pediatria,"[""Ouro"",""Diamante""]",Conjunto Taquaril
+Dr(a). Gabriela Barros,"Lago de Fonseca, 801, Santa Tereza",São Paulo,SP,Brasil,98661537,-23.581660333869483,-46.62752921329797,Clínico Geral,"[""Ouro"",""Diamante""]",Santa Tereza
+Dr(a). Maria Isis Lopes,"Estrada de Andrade, 937, Vila Dos Anjos",São Paulo,SP,Brasil,01382849,-23.55368334866367,-46.6931478638037,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Dos Anjos
+Dr(a). Antony Fernandes,"Trecho Sabrina Casa Grande, 44, Lajedo",São Paulo,SP,Brasil,32671-446,-23.501552141748583,-46.63718923132369,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Lajedo
+Dr(a). Valentim Sá,"Estrada da Rocha, 766, Aparecida 7ª Seção",São Paulo,SP,Brasil,88659112,-23.56436571658154,-46.76020698711227,Clínico Geral,"[""Diamante""]",Aparecida 7ª Seção
+Dr(a). Sr. Bento Fernandes,"Núcleo Gael Henrique Silveira, 6, Vila Santa Monica 2ª Seção",São Paulo,SP,Brasil,37933-739,-23.581014596188044,-46.69751751374778,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Santa Monica 2ª Seção
+Dr(a). Ana Vitória Melo,"Largo de Gonçalves, 91, Vila São Geraldo",São Paulo,SP,Brasil,34648834,-23.561107501024793,-46.696803103346596,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila São Geraldo
+Dr(a). Dr. José Cassiano,"Estrada Rodrigues, 91, Granja De Freitas",São Paulo,SP,Brasil,99273-051,-23.512266318023027,-46.796078008005885,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Granja De Freitas
+Dr(a). Sra. Fernanda Abreu,"Morro Sophie Ribeiro, 3, Conjunto Santa Maria",São Paulo,SP,Brasil,62700-733,-23.551150888972327,-46.73212903766136,Cardiologia,"[""Ouro"",""Diamante""]",Conjunto Santa Maria
+Dr(a). Bianca Pimenta,"Via de Melo, 1, Piratininga",São Paulo,SP,Brasil,60373888,-23.570100632174437,-46.652145484233344,Dermatologia,"[""Diamante""]",Piratininga
+Dr(a). Eloah Andrade,"Passarela Duarte, 90, Trevo",São Paulo,SP,Brasil,58710-731,-23.57223951139167,-46.605094721197965,Cardiologia,"[""Diamante""]",Trevo
+Dr(a). Luiz Gustavo Câmara,"Conjunto de Casa Grande, 635, Caiçara - Adelaide",São Paulo,SP,Brasil,87241988,-23.574980519183427,-46.69793110382052,Clínico Geral,"[""Ouro"",""Diamante""]",Caiçara - Adelaide
+Dr(a). Yasmin Moura,"Residencial Fernandes, 513, Conjunto Floramar",São Paulo,SP,Brasil,50429185,-23.51465670756062,-46.74801376755725,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Floramar
+Dr(a). Sra. Maria Helena Teixeira,"Condomínio Jesus, 99, Lourdes",São Paulo,SP,Brasil,87999-411,-23.580239761828455,-46.79734508552504,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lourdes
+Dr(a). Lunna Garcia,"Chácara Cardoso, 36, Vila Paquetá",São Paulo,SP,Brasil,53018-689,-23.59011155549293,-46.680669901225365,Clínico Geral,"[""Diamante""]",Vila Paquetá
+Dr(a). Gustavo Henrique Garcia,"Setor Camila Santos, 19, Olaria",São Paulo,SP,Brasil,95675467,-23.575058271368345,-46.77114505879564,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Olaria
+Dr(a). Samuel Pires,"Distrito de Aparecida, 3, Mirante",São Paulo,SP,Brasil,68433225,-23.57955753598221,-46.716339986027556,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Mirante
+Dr(a). Luara Dias,"Recanto de Montenegro, 14, Vila Bandeirantes",São Paulo,SP,Brasil,57440-755,-23.56081488379302,-46.620168649742226,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Bandeirantes
+Dr(a). Otto das Neves,"Praia de Teixeira, 233, Horto Florestal",São Paulo,SP,Brasil,50231562,-23.530179045509005,-46.73563554195757,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Horto Florestal
+Dr(a). Laura Correia,"Trevo de Peixoto, 61, Vila Madre Gertrudes 4ª Seção",São Paulo,SP,Brasil,16954952,-23.540227793375447,-46.66660861413414,Clínico Geral,"[""Ouro"",""Diamante""]",Vila Madre Gertrudes 4ª Seção
+Dr(a). Ana Liz Sampaio,"Largo de Costa, 12, Leonina",São Paulo,SP,Brasil,09210-703,-23.591565400953986,-46.60408184818107,Ortopedia,"[""Ouro"",""Diamante""]",Leonina
+Dr(a). Maria Júlia Lopes,"Morro Sousa, 52, Xodo-Marize",São Paulo,SP,Brasil,75568559,-23.51052537892884,-46.76988909377274,Clínico Geral,"[""Ouro"",""Diamante""]",Xodo-Marize
+Dr(a). Manuella Fonseca,"Travessa Santos, 27, Vila Primeiro De Maio",São Paulo,SP,Brasil,14420354,-23.57179941084356,-46.71811582704278,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Primeiro De Maio
+Dr(a). Clara Cardoso,"Estação Davi Miguel Andrade, 15, Vila Nova",São Paulo,SP,Brasil,22189-812,-23.584972642744106,-46.6742463146091,Dermatologia,"[""Ouro"",""Diamante""]",Vila Nova
+Dr(a). Daniela Viana,"Pátio Pacheco, 23, Fazendinha",São Paulo,SP,Brasil,66079-461,-23.536508837199126,-46.64809803207562,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Fazendinha
+Dr(a). Sra. Ágatha Casa Grande,"Quadra de Fernandes, 298, Vila Santa Rosa",São Paulo,SP,Brasil,38569284,-23.52406334055611,-46.6856024541455,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Santa Rosa
+Dr(a). Manuella Camargo,"Loteamento Luiz Fernando Ramos, 34, Silveira",São Paulo,SP,Brasil,96864-590,-23.539584062047922,-46.619701081041605,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Silveira
+Dr(a). Luana Garcia,"Rodovia Cavalcante, 48, Vila Bandeirantes",São Paulo,SP,Brasil,04976-321,-23.51759310521763,-46.7292193526012,Ortopedia,"[""Diamante""]",Vila Bandeirantes
+Dr(a). Arthur Miguel Barbosa,"Aeroporto Ramos, 55, Olhos D'água",São Paulo,SP,Brasil,62498734,-23.52865059572091,-46.63553284376525,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Olhos D'água
+Dr(a). Dr. Felipe Rezende,"Núcleo Farias, 8, Vila Cemig",São Paulo,SP,Brasil,33853-094,-23.566224879189562,-46.717707869024665,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Cemig
+Dr(a). Valentim Borges,"Fazenda Arthur Miguel Moura, 517, São Jorge 3ª Seção",São Paulo,SP,Brasil,97848-665,-23.586046108334028,-46.787122180567714,Ortopedia,"[""Diamante""]",São Jorge 3ª Seção
+Dr(a). Sr. Felipe Monteiro,"Praça Gael Henrique Fonseca, 61, Chácara Leonina",São Paulo,SP,Brasil,02511346,-23.590345076182015,-46.646195170246024,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Chácara Leonina
+Dr(a). Ana Vitória Aparecida,"Alameda de Nogueira, 6, Alto Dos Pinheiros",São Paulo,SP,Brasil,06051-743,-23.590915471417574,-46.728852854823764,Pediatria,"[""Ouro"",""Diamante""]",Alto Dos Pinheiros
+Dr(a). Davi Luiz Mendes,"Lago Fogaça, 32, Vila Da Paz",São Paulo,SP,Brasil,76704-517,-23.523450801792702,-46.67781056371857,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Da Paz
+Dr(a). Eduardo Vargas,"Distrito Cassiano, 88, Jatobá",São Paulo,SP,Brasil,94939-391,-23.563026833885605,-46.621763616285286,Dermatologia,"[""Ouro"",""Diamante""]",Jatobá
+Dr(a). Noah Cunha,"Vale Zoe Sousa, 34, Savassi",São Paulo,SP,Brasil,54037665,-23.516388985182054,-46.65104074027538,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Savassi
+Dr(a). Sra. Isadora Machado,"Estrada de Pires, 7, Cônego Pinheiro 1ª Seção",São Paulo,SP,Brasil,72189435,-23.531820440083973,-46.72414765800457,Clínico Geral,"[""Diamante""]",Cônego Pinheiro 1ª Seção
+Dr(a). Liz Fogaça,"Recanto de Campos, 641, Araguaia",São Paulo,SP,Brasil,41681-863,-23.517895542757678,-46.68903477369485,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Araguaia
+Dr(a). Gabrielly Sales,"Loteamento de Rezende, 48, Tirol",São Paulo,SP,Brasil,22321-344,-23.539770420749058,-46.65155562601277,Dermatologia,"[""Ouro"",""Diamante""]",Tirol
+Dr(a). João Felipe Pimenta,"Quadra de Rocha, 18, Cenaculo",São Paulo,SP,Brasil,81649951,-23.594380863728222,-46.679613759609694,Ortopedia,"[""Diamante""]",Cenaculo
+Dr(a). Nina Carvalho,"Colônia Nogueira, 440, Centro",São Paulo,SP,Brasil,61820793,-23.587781663755113,-46.74363079487634,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Centro
+Dr(a). Hadassa Peixoto,"Feira de Dias, 3, Conjunto São Francisco De Assis",São Paulo,SP,Brasil,66496671,-23.504119596616494,-46.772486210634,Clínico Geral,"[""Diamante""]",Conjunto São Francisco De Assis
+Dr(a). Clara Duarte,"Esplanada de Pacheco, 27, Unidas",São Paulo,SP,Brasil,41177479,-23.513991382248935,-46.76847692172117,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Unidas
+Dr(a). Maria Isis Marques,"Estrada de Barbosa, 98, Conjunto Jardim Filadélfia",São Paulo,SP,Brasil,83427-061,-23.5778485046887,-46.67045975488136,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Jardim Filadélfia
+Dr(a). Isabella Marques,"Núcleo Paulo Borges, 70, Belvedere",São Paulo,SP,Brasil,30778558,-23.560889193127267,-46.697006944990946,Ortopedia,"[""Diamante""]",Belvedere
+Dr(a). Yasmin Pereira,"Condomínio da Mata, 18, Manacas",São Paulo,SP,Brasil,54308-951,-23.517405333878145,-46.64134324714907,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Manacas
+Dr(a). Nathan Fernandes,"Recanto Fogaça, 36, Ápia",São Paulo,SP,Brasil,75298671,-23.53548283909652,-46.605018951633184,Cardiologia,"[""Diamante""]",Ápia
+Dr(a). Sr. Guilherme da Cunha,"Praça Teixeira, 2, Vila Independencia 3ª Seção",São Paulo,SP,Brasil,72164708,-23.57697432196851,-46.735157287521645,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Independencia 3ª Seção
+Dr(a). Alexia Porto,"Chácara Olívia Vargas, 340, Beija Flor",São Paulo,SP,Brasil,86084-949,-23.58468466576737,-46.781665398184344,Ortopedia,"[""Ouro"",""Diamante""]",Beija Flor
+Dr(a). Sophie Camargo,"Condomínio Vinicius Cunha, 263, Caiçara - Adelaide",São Paulo,SP,Brasil,92424779,-23.544485686368247,-46.670022453224135,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Caiçara - Adelaide
+Dr(a). Maria Isis Novaes,"Ladeira Cassiano, 43, Lorena",São Paulo,SP,Brasil,40712-210,-23.59616834934217,-46.769156242123344,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lorena
+Dr(a). André Rios,"Sítio Maria Laura Pacheco, 19, Venda Nova",São Paulo,SP,Brasil,60363183,-23.58763150381981,-46.629294462835524,Dermatologia,"[""Diamante""]",Venda Nova
+Dr(a). Sofia Ramos,"Pátio de Sousa, 62, Bonfim",São Paulo,SP,Brasil,88983-962,-23.54653758304639,-46.75715432042638,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Bonfim
+Dr(a). Dr. Matheus Pimenta,"Lagoa Mendonça, 61, Brasil Industrial",São Paulo,SP,Brasil,19693490,-23.568002302689518,-46.64544707674898,Dermatologia,"[""Diamante""]",Brasil Industrial
+Dr(a). Dr. Oliver Caldeira,"Fazenda de Guerra, 69, Vila Santa Rosa",São Paulo,SP,Brasil,79759600,-23.50724595909301,-46.63856640660463,Clínico Geral,"[""Diamante""]",Vila Santa Rosa
+Dr(a). Benjamin Rios,"Distrito Teixeira, 788, Xangri-Lá",São Paulo,SP,Brasil,81802553,-23.547627227627043,-46.65700149093452,Cardiologia,"[""Ouro"",""Diamante""]",Xangri-Lá
+Dr(a). Sra. Clara Farias,"Parque Pedro Henrique Azevedo, 356, Vila São Gabriel Jacui",São Paulo,SP,Brasil,34212510,-23.562849409384103,-46.73664337039283,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila São Gabriel Jacui
+Dr(a). Emanuel Castro,"Travessa Rocha, 25, Nova America",São Paulo,SP,Brasil,91446975,-23.519662111459535,-46.75898392781034,Cardiologia,"[""Ouro"",""Diamante""]",Nova America
+Dr(a). Eloá Silva,"Residencial de Costela, 887, Barão Homem De Melo 3ª Seção",São Paulo,SP,Brasil,51983382,-23.52597550186215,-46.60204931376196,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Barão Homem De Melo 3ª Seção
+Dr(a). Srta. Ágatha Melo,"Colônia Ana Clara Nunes, 15, Vila Nova Paraíso",São Paulo,SP,Brasil,94224903,-23.58336585459278,-46.78103118230639,Pediatria,"[""Ouro"",""Diamante""]",Vila Nova Paraíso
+Dr(a). Srta. Maria Isis Costa,"Chácara Novais, 17, Vila Tirol",São Paulo,SP,Brasil,26448302,-23.525202711878084,-46.79525997169996,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Tirol
+Dr(a). Bryan Barros,"Recanto Kaique Duarte, 42, Cinquentenário",São Paulo,SP,Brasil,36097161,-23.595478010308078,-46.62375635282302,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Cinquentenário
+Dr(a). Camila Souza,"Distrito de Camargo, 255, Mariano De Abreu",São Paulo,SP,Brasil,56311872,-23.563031626426767,-46.711757860525665,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Mariano De Abreu
+Dr(a). Léo Câmara,"Recanto de Lopes, 471, Santa Monica",São Paulo,SP,Brasil,86748095,-23.521994449132322,-46.69988585847325,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Santa Monica
+Dr(a). Luiza Martins,"Aeroporto Ana Cecília Sales, 60, Vila Antena Montanhês",São Paulo,SP,Brasil,95355-867,-23.598287997475392,-46.772006322086305,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Antena Montanhês
+Dr(a). Luiz Miguel Silveira,"Praia Correia, 9, Vila São Dimas",São Paulo,SP,Brasil,75966326,-23.51136510867948,-46.75479037092055,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila São Dimas
+Dr(a). Sophie Siqueira,"Parque de Carvalho, 99, Dom Bosco",São Paulo,SP,Brasil,33400687,-23.550746937540985,-46.75731997592215,Clínico Geral,"[""Diamante""]",Dom Bosco
+Dr(a). Vicente Rios,"Vale de Castro, 82, Jardim Dos Comerciarios",São Paulo,SP,Brasil,50493331,-23.547669342847183,-46.74038243667971,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Dos Comerciarios
+Dr(a). Eloah Moreira,"Núcleo de Machado, 50, Serra Verde",São Paulo,SP,Brasil,80102-461,-23.583957205657484,-46.72737160439793,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Serra Verde
+Dr(a). Luana Rezende,"Chácara de Costela, 7, Guarani",São Paulo,SP,Brasil,37028-499,-23.504876254880617,-46.68032455856345,Ortopedia,"[""Ouro"",""Diamante""]",Guarani
+Dr(a). Alana Novaes,"Largo Maria Liz Araújo, 64, Nova Cintra",São Paulo,SP,Brasil,43085701,-23.516220125665164,-46.67147318846522,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Cintra
+Dr(a). Kevin Guerra,"Trecho Emanuelly Cirino, 8, Nossa Senhora De Fátima",São Paulo,SP,Brasil,95185766,-23.569296265205978,-46.78407131579725,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nossa Senhora De Fátima
+Dr(a). Levi Moraes,"Viaduto Sousa, 73, Olaria",São Paulo,SP,Brasil,46390-726,-23.518353745405012,-46.73989189234414,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Olaria
+Dr(a). Benjamin Viana,"Praça de da Luz, 31, Colégio Batista",São Paulo,SP,Brasil,48492-681,-23.53565287339996,-46.60472271932269,Clínico Geral,"[""Ouro"",""Diamante""]",Colégio Batista
+Dr(a). Laís Sampaio,"Condomínio de das Neves, 22, Bairro Das Indústrias Ii",São Paulo,SP,Brasil,57431782,-23.5926968558055,-46.77288731342007,Cardiologia,"[""Diamante""]",Bairro Das Indústrias Ii
+Dr(a). Luiz Henrique Pereira,"Estrada Olívia Teixeira, 7, Grotinha",São Paulo,SP,Brasil,25507731,-23.51994785484953,-46.678765114599955,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Grotinha
+Dr(a). Sr. Cauã Peixoto,"Viela Novais, 28, Horto",São Paulo,SP,Brasil,93627062,-23.53721725625982,-46.680991699078646,Dermatologia,"[""Diamante""]",Horto
+Dr(a). Caroline da Rocha,"Pátio Pinto, 120, Universitário",São Paulo,SP,Brasil,98160890,-23.525093357650672,-46.701354293566624,Clínico Geral,"[""Ouro"",""Diamante""]",Universitário
+Dr(a). Thiago Pires,"Residencial Sousa, 53, Novo São Lucas",São Paulo,SP,Brasil,87448871,-23.57317043220614,-46.600035650411904,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Novo São Lucas
+Dr(a). Sra. Maria Alice Lopes,"Estrada Luiz Otávio Monteiro, 70, Dom Cabral",São Paulo,SP,Brasil,03950289,-23.52783549239167,-46.68507620861347,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Dom Cabral
+Dr(a). Maria Eduarda Cassiano,"Lagoa de Aragão, 8, Vila Nova Gameleira 2ª Seção",São Paulo,SP,Brasil,91855-855,-23.582289662860514,-46.69610959888438,Clínico Geral,"[""Diamante""]",Vila Nova Gameleira 2ª Seção
+Dr(a). Maria Luísa Campos,"Ladeira Albuquerque, 2, João Alfredo",São Paulo,SP,Brasil,95783-605,-23.532796336932115,-46.66010145802939,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",João Alfredo
+Dr(a). Daniel da Rocha,"Loteamento de Carvalho, 22, Vila Olhos D'água",São Paulo,SP,Brasil,61327-874,-23.572318398842476,-46.66329934202865,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Olhos D'água
+Dr(a). Ana Julia Viana,"Praça Casa Grande, 4, Conjunto Jatoba",São Paulo,SP,Brasil,82034-517,-23.5298144874758,-46.68193595219798,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Jatoba
+Dr(a). Sr. Henrique Martins,"Favela de Sales, 78, Estoril",São Paulo,SP,Brasil,68131821,-23.572526381768174,-46.69452062195883,Clínico Geral,"[""Ouro"",""Diamante""]",Estoril
+Dr(a). Valentina Aragão,"Trevo José Miguel Ferreira, 89, Concórdia",São Paulo,SP,Brasil,63881-510,-23.551786428417717,-46.797314043512586,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Concórdia
+Dr(a). Rhavi Gomes,"Rodovia Melo, 56, Aparecida",São Paulo,SP,Brasil,20222423,-23.543044170005547,-46.6035990684421,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aparecida
+Dr(a). Valentim Fernandes,"Condomínio Clarice Aragão, 3, Santa Tereza",São Paulo,SP,Brasil,92556898,-23.586388588018522,-46.6450767019296,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Santa Tereza
+Dr(a). Elisa Cavalcante,"Travessa Allana da Paz, 50, Suzana",São Paulo,SP,Brasil,95842671,-23.518767775968428,-46.76567251545009,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Suzana
+Dr(a). Ágatha Silva,"Núcleo Silveira, 48, Gutierrez",São Paulo,SP,Brasil,42574307,-23.505040592337124,-46.77281199984475,Pediatria,"[""Ouro"",""Diamante""]",Gutierrez
+Dr(a). Carolina Mendonça,"Vale Luiz Felipe Fogaça, 47, Maria Helena",São Paulo,SP,Brasil,04381-935,-23.506078559402287,-46.772304132101276,Pediatria,"[""Diamante""]",Maria Helena
+Dr(a). Ana Sophia Alves,"Quadra Pires, 38, Bela Vitoria",São Paulo,SP,Brasil,24152991,-23.510502525057536,-46.77826209074777,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Bela Vitoria
+Dr(a). Evelyn Sampaio,"Favela de da Mota, 88, Vila Coqueiral",São Paulo,SP,Brasil,18193638,-23.528751373477515,-46.67793909404792,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Coqueiral
+Dr(a). José da Mota,"Colônia Matheus Borges, 760, Vila Nova Cachoeirinha 2ª Seção",São Paulo,SP,Brasil,11985-859,-23.505375699775534,-46.63680041075478,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 2ª Seção
+Dr(a). Larissa Teixeira,"Área de Barbosa, 4, Corumbiara",São Paulo,SP,Brasil,96370-110,-23.508105808528477,-46.72758377401964,Clínico Geral,"[""Ouro"",""Diamante""]",Corumbiara
+Dr(a). Mathias Aragão,"Favela Albuquerque, 446, Santa Terezinha",São Paulo,SP,Brasil,95141-123,-23.59574163789357,-46.71731568378247,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Terezinha
+Dr(a). Marcos Vinicius Jesus,"Núcleo Oliveira, 42, Anchieta",São Paulo,SP,Brasil,80713373,-23.591293442595386,-46.61380994408202,Pediatria,"[""Ouro"",""Diamante""]",Anchieta
+Dr(a). Francisco Fonseca,"Jardim Thales Almeida, 3, Vila Puc",São Paulo,SP,Brasil,33323132,-23.561938958855798,-46.79025736756888,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Puc
+Dr(a). Dr. Pietro Santos,"Parque Clarice Dias, 58, Vila Ecológica",São Paulo,SP,Brasil,18475-222,-23.545190290087298,-46.615797513154476,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Ecológica
+Dr(a). Srta. Stella Carvalho,"Sítio Farias, 5, Cônego Pinheiro 1ª Seção",São Paulo,SP,Brasil,49484-322,-23.57953053338716,-46.78311472375203,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Cônego Pinheiro 1ª Seção
+Dr(a). Sr. Matheus Nunes,"Trevo Vinicius Abreu, 43, Pirineus",São Paulo,SP,Brasil,07272155,-23.539026926711404,-46.62870048340372,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Pirineus
+Dr(a). Sra. Bella Mendes,"Área Mendonça, 87, Marilandia",São Paulo,SP,Brasil,31432-871,-23.514653275844594,-46.7879098463164,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Marilandia
+Dr(a). Milena Freitas,"Colônia Júlia da Luz, 99, São Francisco Das Chagas",São Paulo,SP,Brasil,97406-504,-23.599345611857125,-46.68318333120189,Ortopedia,"[""Ouro"",""Diamante""]",São Francisco Das Chagas
+Dr(a). Carolina Ramos,"Avenida José Pedro Rezende, 9, Camponesa 1ª Seção",São Paulo,SP,Brasil,31326711,-23.571576690825697,-46.649658489575,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camponesa 1ª Seção
+Dr(a). Sra. Maria Liz Cirino,"Lago Pacheco, 60, Outro",São Paulo,SP,Brasil,49849-987,-23.55503184688405,-46.700941004106994,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Outro
+Dr(a). Gabriela Silva,"Vereda de Aragão, 85, Vila Oeste",São Paulo,SP,Brasil,79237-019,-23.559579992060478,-46.757982064227086,Dermatologia,"[""Ouro"",""Diamante""]",Vila Oeste
+Dr(a). Ana Cecília Abreu,"Área Cassiano, 383, São Luiz",São Paulo,SP,Brasil,21617-262,-23.541092322798605,-46.73318421554722,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Luiz
+Dr(a). Helena Cavalcanti,"Largo Pereira, 88, Anchieta",São Paulo,SP,Brasil,83821962,-23.543984800823562,-46.7140141608677,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Anchieta
+Dr(a). Isabelly Pinto,"Lagoa Samuel Gomes, 6, Lindéia",São Paulo,SP,Brasil,54563428,-23.521645134174705,-46.698815453609676,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Lindéia
+Dr(a). Ana Carolina Novais,"Residencial Pedro Miguel da Mata, 886, Jardim Vitoria",São Paulo,SP,Brasil,13238-540,-23.525034995710193,-46.69111631587039,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Jardim Vitoria
+Dr(a). Sr. Josué Macedo,"Praça de Moreira, 56, Jardim Alvorada",São Paulo,SP,Brasil,34597-293,-23.56926197022981,-46.641227652934866,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Alvorada
+Dr(a). Lucas Gabriel Lima,"Alameda de Monteiro, 783, Independência",São Paulo,SP,Brasil,18986045,-23.59214682767884,-46.74793241849979,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Independência
+Dr(a). Laura Aragão,"Jardim de Silveira, 55, Santa Sofia",São Paulo,SP,Brasil,07663695,-23.584996910514484,-46.610911976463115,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Sofia
+Dr(a). Valentim Montenegro,"Passarela Cardoso, 4, Vila Independencia 3ª Seção",São Paulo,SP,Brasil,64551521,-23.58061779855825,-46.76479870847392,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vila Independencia 3ª Seção
+Dr(a). Léo Lopes,"Praia Ana Luiza Azevedo, 45, Minas Brasil",São Paulo,SP,Brasil,98360-132,-23.583986191396292,-46.698041456517444,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Minas Brasil
+Dr(a). Gabriela da Luz,"Estação Maria Costela, 76, Santa Cruz",São Paulo,SP,Brasil,23173-362,-23.52385629972648,-46.698218589472134,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Cruz
+Dr(a). Pedro Oliveira,"Praça Andrade, 53, Boa União 2ª Seção",São Paulo,SP,Brasil,68090172,-23.542357458255086,-46.62639230338823,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Boa União 2ª Seção
+Dr(a). Sra. Maysa Costela,"Vila Barbosa, 33, Vila Jardim Leblon",São Paulo,SP,Brasil,02478-483,-23.50072380704118,-46.78430084525474,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Jardim Leblon
+Dr(a). Bruna da Cunha,"Viaduto Jesus, 652, Conjunto Capitão Eduardo",São Paulo,SP,Brasil,96811-981,-23.502700695817143,-46.64399873155187,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Capitão Eduardo
+Dr(a). Ravi Duarte,"Setor Kaique Rodrigues, 31, Buraco Quente",São Paulo,SP,Brasil,58830-176,-23.597536184903834,-46.61795925709776,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Buraco Quente
+Dr(a). Eloah Moraes,"Jardim Maria Luiza Correia, 42, Vila De Sá",São Paulo,SP,Brasil,84942-202,-23.550003782675525,-46.70555791969995,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila De Sá
+Dr(a). Maria Vitória Costela,"Pátio Castro, 60, Pindura Saia",São Paulo,SP,Brasil,40596620,-23.509223817480553,-46.6506202908571,Pediatria,"[""Diamante""]",Pindura Saia
+Dr(a). Antônio Aparecida,"Vale Fernandes, 82, Santo Agostinho",São Paulo,SP,Brasil,61958795,-23.57413344955967,-46.7844381758487,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santo Agostinho
+Dr(a). Henry Aparecida,"Chácara de Aparecida, 47, Canadá",São Paulo,SP,Brasil,20723053,-23.590600776781983,-46.705115508928635,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Canadá
+Dr(a). Beatriz Cavalcanti,"Vale de Novais, 27, Vila Sumaré",São Paulo,SP,Brasil,89849-313,-23.522043437782084,-46.673309330549,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Sumaré
+Dr(a). Maria Pereira,"Pátio Teixeira, 92, Vila Calafate",São Paulo,SP,Brasil,32804-176,-23.517706101844652,-46.69051459273094,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Calafate
+Dr(a). Maria Fernanda Nascimento,"Trevo Rebeca Sá, 8, Sport Club",São Paulo,SP,Brasil,89308-441,-23.57954264284553,-46.66175402049836,Clínico Geral,"[""Ouro"",""Diamante""]",Sport Club
+Dr(a). Arthur Gabriel da Cunha,"Rua Ayla Novais, 586, Gameleira",São Paulo,SP,Brasil,60861-233,-23.549037612873217,-46.67629650945671,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Gameleira
+Dr(a). Théo Farias,"Parque Brenda Vieira, 78, Concórdia",São Paulo,SP,Brasil,58636655,-23.50540562672042,-46.711414326173404,Clínico Geral,"[""Ouro"",""Diamante""]",Concórdia
+Dr(a). Beatriz da Luz,"Lago Levi da Costa, 370, Santa Amelia",São Paulo,SP,Brasil,44520167,-23.586265050320883,-46.654582937532425,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Amelia
+Dr(a). Arthur Pastor,"Estrada Aylla Cassiano, 7, Delta",São Paulo,SP,Brasil,35912525,-23.582517410261183,-46.72509919807091,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Delta
+Dr(a). Nicolas Gomes,"Lagoa de Guerra, 88, Vila Maria",São Paulo,SP,Brasil,63370605,-23.577777545129948,-46.770508024449434,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Maria
+Dr(a). Sr. Enrico Monteiro,"Condomínio Cassiano, 77, Grotinha",São Paulo,SP,Brasil,51409047,-23.579084562554932,-46.65666389303951,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Grotinha
+Dr(a). Enzo Gabriel Borges,"Largo Letícia Sousa, 37, Vila Engenho Nogueira",São Paulo,SP,Brasil,30568-611,-23.599539259507942,-46.78190371392231,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Engenho Nogueira
+Dr(a). Luan Sampaio,"Recanto Brito, 78, Vila Da Amizade",São Paulo,SP,Brasil,13286-309,-23.50139940426439,-46.679515111120025,Clínico Geral,"[""Diamante""]",Vila Da Amizade
+Dr(a). João Costa,"Campo Rafael Cardoso, 27, Goiania",São Paulo,SP,Brasil,19244-201,-23.508574180738446,-46.66780650286661,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Goiania
+Dr(a). Théo Cardoso,"Via Rios, 30, Paquetá",São Paulo,SP,Brasil,31367-006,-23.59089236528525,-46.772169464158075,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Paquetá
+Dr(a). Mathias Silva,"Viela de Pastor, 18, Leonina",São Paulo,SP,Brasil,31919-841,-23.5455962445942,-46.778508318345175,Dermatologia,"[""Ouro"",""Diamante""]",Leonina
+Dr(a). Rebeca da Cunha,"Sítio de da Paz, 23, Virgínia",São Paulo,SP,Brasil,65386-506,-23.503255311158988,-46.62531964342586,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Virgínia
+Dr(a). Luiz Felipe Ribeiro,"Trecho Josué Farias, 8, Ventosa",São Paulo,SP,Brasil,68899000,-23.51576245378938,-46.78167516934694,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Ventosa
+Dr(a). Vinicius Vasconcelos,"Travessa Rocha, 8, Santa Amelia",São Paulo,SP,Brasil,43041369,-23.50302196522162,-46.731519001028694,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Amelia
+Dr(a). Arthur Gabriel Gomes,"Trecho Felipe Dias, 91, Leonina",São Paulo,SP,Brasil,48576950,-23.567753080473913,-46.63153675108901,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Leonina
+Dr(a). Juliana das Neves,"Rua Isabelly da Mata, 8, Vila Minaslandia",São Paulo,SP,Brasil,19494682,-23.559159180258543,-46.726014963442914,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Minaslandia
+Dr(a). Davi Mendes,"Ladeira Alexia Cardoso, 4, Cidade Jardim Taquaril",São Paulo,SP,Brasil,66494-045,-23.525765598426492,-46.66717837483681,Cardiologia,"[""Ouro"",""Diamante""]",Cidade Jardim Taquaril
+Dr(a). Ana Clara Novais,"Distrito Lima, 442, Guarani",São Paulo,SP,Brasil,55757862,-23.589183425253083,-46.78720701951482,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Guarani
+Dr(a). Pedro Lucas da Paz,"Vila de Porto, 6, Ipiranga",São Paulo,SP,Brasil,54239-972,-23.59526300367103,-46.61241625347766,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Ipiranga
+Dr(a). Laura Silva,"Distrito Silva, 77, Jardim São José",São Paulo,SP,Brasil,00723-837,-23.596639450551653,-46.73793783932902,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim São José
+Dr(a). Sr. Nicolas Vargas,"Travessa Rodrigues, 386, Minas Brasil",São Paulo,SP,Brasil,96261-808,-23.523465198985356,-46.75457358812242,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Minas Brasil
+Dr(a). Yuri da Rocha,"Praça Melina Pastor, 5, Novo Glória",São Paulo,SP,Brasil,48852-653,-23.586409849435793,-46.76371348064606,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Glória
+Dr(a). Maria Nunes,"Rua de Cirino, 66, São Tomaz",São Paulo,SP,Brasil,70150561,-23.54884958304317,-46.778172508413505,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",São Tomaz
+Dr(a). Arthur Miguel Albuquerque,"Favela Manuela da Rocha, 1, Novo Santa Cecilia",São Paulo,SP,Brasil,16861662,-23.554225279492655,-46.6337810093971,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Santa Cecilia
+Dr(a). Sra. Nicole Abreu,"Vila de Teixeira, 84, Nossa Senhora Da Aparecida",São Paulo,SP,Brasil,16596-253,-23.559396229741093,-46.6506684432911,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Nossa Senhora Da Aparecida
+Dr(a). Nina Souza,"Loteamento Borges, 3, Independência",São Paulo,SP,Brasil,86313-507,-23.567862019395736,-46.66808381377603,Pediatria,"[""Ouro"",""Diamante""]",Independência
+Dr(a). Maria Vitória Dias,"Trevo Kaique Câmara, 754, Santa Maria",São Paulo,SP,Brasil,66876-275,-23.595267950107655,-46.674969634893145,Dermatologia,"[""Diamante""]",Santa Maria
+Dr(a). Dom Almeida,"Alameda Vitor Hugo Araújo, 7, Maravilha",São Paulo,SP,Brasil,29832-162,-23.51952789337854,-46.73428788506334,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Maravilha
+Dr(a). José Pedro Farias,"Residencial Esther da Rocha, 5, Vila Maloca",São Paulo,SP,Brasil,23462-202,-23.567073391510895,-46.78546267026224,Clínico Geral,"[""Ouro"",""Diamante""]",Vila Maloca
+Dr(a). Davi Miguel Fonseca,"Parque das Neves, 70, Vila Suzana Primeira Seção",São Paulo,SP,Brasil,11457281,-23.523602687847323,-46.68965456059681,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Suzana Primeira Seção
+Dr(a). Bella da Cunha,"Loteamento Melissa Câmara, 19, Bandeirantes",São Paulo,SP,Brasil,93666-298,-23.544117363184732,-46.73193419022169,Dermatologia,"[""Ouro"",""Diamante""]",Bandeirantes
+Dr(a). Vicente Siqueira,"Passarela Isaque Cirino, 7, Itaipu",São Paulo,SP,Brasil,12376-604,-23.55066356336395,-46.72874092473472,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Itaipu
+Dr(a). Heloisa da Cunha,"Conjunto Viana, 54, Piratininga",São Paulo,SP,Brasil,68721884,-23.52349555855629,-46.73533284531189,Ortopedia,"[""Diamante""]",Piratininga
+Dr(a). Maria Júlia da Costa,"Lagoa de da Cruz, 7, Jardim Guanabara",São Paulo,SP,Brasil,86942-486,-23.536225468505663,-46.783904793669805,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Jardim Guanabara
+Dr(a). Gael Henrique Abreu,"Jardim Cavalcanti, 94, São Pedro",São Paulo,SP,Brasil,04809-843,-23.560491136623043,-46.768813832647766,Ortopedia,"[""Diamante""]",São Pedro
+Dr(a). Bárbara Gonçalves,"Vila de Pereira, 206, Lagoa",São Paulo,SP,Brasil,78199950,-23.556211912938124,-46.709635314431516,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Lagoa
+Dr(a). Leonardo Moura,"Colônia de Rios, 9, Garças",São Paulo,SP,Brasil,33654039,-23.513317430882047,-46.74297299675598,Ortopedia,"[""Ouro"",""Diamante""]",Garças
+Dr(a). Marcos Vinicius Borges,"Parque de Aparecida, 17, Cidade Jardim",São Paulo,SP,Brasil,13952-651,-23.557390327384777,-46.629902513915475,Ortopedia,"[""Diamante""]",Cidade Jardim
+Dr(a). Fernanda Cunha,"Favela Maria Cecília Leão, 795, Novo Santa Cecilia",São Paulo,SP,Brasil,45185-098,-23.53991330346425,-46.640936677761886,Dermatologia,"[""Diamante""]",Novo Santa Cecilia
+Dr(a). João Felipe Silveira,"Lagoa de Rezende, 87, Conjunto Paulo Vi",São Paulo,SP,Brasil,77177-002,-23.598811272139358,-46.71316064404028,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Paulo Vi
+Dr(a). Liz das Neves,"Praia Vinícius Cavalcante, 39, Solar Do Barreiro",São Paulo,SP,Brasil,21036-680,-23.521451477368434,-46.77859764010755,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Solar Do Barreiro
+Dr(a). Dra. Maria Alice da Conceição,"Recanto Sofia Fernandes, 96, Itapoa",São Paulo,SP,Brasil,98898-627,-23.53079685634355,-46.73040730994794,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Itapoa
+Dr(a). Carlos Eduardo Cirino,"Trecho de Sales, 81, Virgínia",São Paulo,SP,Brasil,93694267,-23.57173130280221,-46.66793889211921,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Virgínia
+Dr(a). Eduarda Santos,"Passarela Maria Luísa Dias, 347, Jardim Alvorada",São Paulo,SP,Brasil,77108952,-23.595767035477433,-46.65359017053966,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Alvorada
+Dr(a). Srta. Lívia Sousa,"Jardim de Câmara, 90, Concórdia",São Paulo,SP,Brasil,57526-620,-23.511844384797172,-46.6196506393093,Dermatologia,"[""Ouro"",""Diamante""]",Concórdia
+Dr(a). Brenda Araújo,"Feira Emanuel Silva, 141, Minas Caixa",São Paulo,SP,Brasil,50987-872,-23.59959802659134,-46.6578269816962,Dermatologia,"[""Ouro"",""Diamante""]",Minas Caixa
+Dr(a). Bernardo Leão,"Loteamento de Cavalcanti, 17, São Jorge 3ª Seção",São Paulo,SP,Brasil,26159305,-23.517288139164112,-46.62743266591591,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Jorge 3ª Seção
+Dr(a). Erick da Conceição,"Parque Mendonça, 95, Dom Joaquim",São Paulo,SP,Brasil,18858508,-23.592880931075044,-46.78264677190354,Dermatologia,"[""Diamante""]",Dom Joaquim
+Dr(a). Sra. Catarina Almeida,"Quadra de Alves, 797, Jardim Dos Comerciarios",São Paulo,SP,Brasil,45961-125,-23.541574414504797,-46.647883434306905,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Jardim Dos Comerciarios
+Dr(a). Helena Lima,"Área Théo Martins, 74, Centro",São Paulo,SP,Brasil,61618-142,-23.598063805604806,-46.699485476492235,Dermatologia,"[""Diamante""]",Centro
+Dr(a). Sra. Jade Souza,"Rodovia Gabriel Borges, 84, Pirineus",São Paulo,SP,Brasil,26342-184,-23.543719788916082,-46.75815620623838,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Pirineus
+Dr(a). Vitor Hugo Nunes,"Favela Laís da Cruz, 25, Alta Tensão 1ª Seção",São Paulo,SP,Brasil,66132512,-23.539479693245273,-46.62653531506566,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alta Tensão 1ª Seção
+Dr(a). Letícia Porto,"Parque de Barros, 893, Vila Canto Do Sabiá",São Paulo,SP,Brasil,75874747,-23.5554439156918,-46.67743403782058,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Canto Do Sabiá
+Dr(a). Oliver Garcia,"Campo Sampaio, 52, Vila Piratininga",São Paulo,SP,Brasil,01749469,-23.511402119816346,-46.65183319620352,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Piratininga
+Dr(a). Alexia Brito,"Residencial Rezende, 38, Conjunto Celso Machado",São Paulo,SP,Brasil,53364659,-23.544627201778518,-46.67320996626775,Cardiologia,"[""Diamante""]",Conjunto Celso Machado
+Dr(a). Joana Siqueira,"Praça Nina Cardoso, 9, Antonio Ribeiro De Abreu 1ª Seção",São Paulo,SP,Brasil,07725-345,-23.594862086609105,-46.71758037918598,Pediatria,"[""Ouro"",""Diamante""]",Antonio Ribeiro De Abreu 1ª Seção
+Dr(a). Murilo Cardoso,"Rua Pedro Lucas Nunes, 7, Santa Rosa",São Paulo,SP,Brasil,54478-795,-23.508949828484713,-46.616882243134434,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Rosa
+Dr(a). Felipe Guerra,"Condomínio de Rodrigues, 7, Corumbiara",São Paulo,SP,Brasil,10043-398,-23.53862998637503,-46.65348755441975,Pediatria,"[""Diamante""]",Corumbiara
+Dr(a). Giovanna Macedo,"Residencial Nicolas Machado, 464, Capitão Eduardo",São Paulo,SP,Brasil,21785695,-23.56023383242087,-46.63785102402324,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Capitão Eduardo
+Dr(a). Miguel Machado,"Feira Cirino, 19, Manacas",São Paulo,SP,Brasil,57745-060,-23.501398845367998,-46.65050002437863,Pediatria,"[""Ouro"",""Diamante""]",Manacas
+Dr(a). Rodrigo Melo,"Estação Melina Câmara, 31, Serra",São Paulo,SP,Brasil,85388266,-23.53784779212982,-46.78428032256583,Clínico Geral,"[""Ouro"",""Diamante""]",Serra
+Dr(a). Sophia da Rocha,"Recanto de Moreira, 651, Vila São Gabriel",São Paulo,SP,Brasil,64223293,-23.5474941856853,-46.70365790105043,Clínico Geral,"[""Diamante""]",Vila São Gabriel
+Dr(a). Yan Cavalcanti,"Parque de Nascimento, 88, São Francisco Das Chagas",São Paulo,SP,Brasil,98801-476,-23.500983770503613,-46.69246595595816,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Francisco Das Chagas
+Dr(a). Davi Miguel Azevedo,"Lago de Cavalcanti, 44, Itaipu",São Paulo,SP,Brasil,32205-544,-23.50237969882603,-46.74354392672915,Pediatria,"[""Diamante""]",Itaipu
+Dr(a). Marina Cavalcanti,"Lago de Pinto, 85, Camponesa 2ª Seção",São Paulo,SP,Brasil,05100323,-23.545385127822264,-46.60969507257526,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camponesa 2ª Seção
+Dr(a). Sr. Vinícius da Cruz,"Colônia Cavalcanti, 93, Marilandia",São Paulo,SP,Brasil,14982-608,-23.5608280235928,-46.70792987501959,Cardiologia,"[""Diamante""]",Marilandia
+Dr(a). Dra. Lorena da Costa,"Esplanada Almeida, 49, Grajaú",São Paulo,SP,Brasil,27025565,-23.555715049164498,-46.75474972757732,Clínico Geral,"[""Diamante""]",Grajaú
+Dr(a). Carolina Pacheco,"Trevo Leão, 55, Sport Club",São Paulo,SP,Brasil,55808-983,-23.560416160538,-46.76770068599125,Cardiologia,"[""Diamante""]",Sport Club
+Dr(a). Asafe Pimenta,"Esplanada Albuquerque, 574, Santo Antônio",São Paulo,SP,Brasil,62260096,-23.55606865767755,-46.70823589757998,Dermatologia,"[""Ouro"",""Diamante""]",Santo Antônio
+Dr(a). Fernando Brito,"Jardim Olívia Guerra, 89, Inconfidência",São Paulo,SP,Brasil,73066-706,-23.557378365891857,-46.68813067324847,Dermatologia,"[""Ouro"",""Diamante""]",Inconfidência
+Dr(a). Carlos Eduardo Melo,"Estrada de Silva, 16, Conjunto Capitão Eduardo",São Paulo,SP,Brasil,66073211,-23.51751175481052,-46.62895773593315,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Capitão Eduardo
+Dr(a). Dr. Caleb das Neves,"Quadra de Fonseca, 19, Vila Trinta E Um De Março",São Paulo,SP,Brasil,51018242,-23.548370717952697,-46.717752004415736,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Trinta E Um De Março
+Dr(a). Raquel Azevedo,"Núcleo de Pimenta, 72, Jardim Leblon",São Paulo,SP,Brasil,33359-514,-23.58138400899574,-46.689133218849356,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Leblon
+Dr(a). Liz Mendes,"Distrito de da Rocha, 97, Goiania",São Paulo,SP,Brasil,11163-482,-23.59845181390083,-46.605915105133,Clínico Geral,"[""Diamante""]",Goiania
+Dr(a). Luan da Conceição,"Largo Ana Luiza Farias, 4, Vila Dos Anjos",São Paulo,SP,Brasil,76379-760,-23.51888434106684,-46.75257858889133,Ortopedia,"[""Diamante""]",Vila Dos Anjos
+Dr(a). Daniela Casa Grande,"Estação de Silva, 89, Serra Verde",São Paulo,SP,Brasil,58941304,-23.57467744722769,-46.69062740188442,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Serra Verde
+Dr(a). Carolina da Costa,"Pátio Lavínia Moraes, 38, Camponesa 1ª Seção",São Paulo,SP,Brasil,99423540,-23.557089840138367,-46.69625235423947,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Camponesa 1ª Seção
+Dr(a). Pietra Lopes,"Favela Bernardo Costa, 93, Vila Jardim Alvorada",São Paulo,SP,Brasil,78001803,-23.525945951071957,-46.60803529304092,Ortopedia,"[""Ouro"",""Diamante""]",Vila Jardim Alvorada
+Dr(a). Ana Liz Castro,"Esplanada Fogaça, 66, Jardim São José",São Paulo,SP,Brasil,90520195,-23.53390725656282,-46.620828321194736,Pediatria,"[""Ouro"",""Diamante""]",Jardim São José
+Dr(a). Dra. Maria Julia Cirino,"Setor de Câmara, 8, Solar Do Barreiro",São Paulo,SP,Brasil,82885300,-23.511018929174952,-46.798950407615706,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Solar Do Barreiro
+Dr(a). Vicente Viana,"Alameda de da Mata, 29, Jardim Montanhês",São Paulo,SP,Brasil,77006-856,-23.547063366654594,-46.670354299442984,Clínico Geral,"[""Diamante""]",Jardim Montanhês
+Dr(a). Davi Miguel Albuquerque,"Ladeira Barros, 37, Carmo",São Paulo,SP,Brasil,13837281,-23.552714345889164,-46.75144634261908,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Carmo
+Dr(a). Pedro Lucas Albuquerque,"Recanto de da Rocha, 16, Esperança",São Paulo,SP,Brasil,72092344,-23.57413060476341,-46.74365857189013,Ortopedia,"[""Diamante""]",Esperança
+Dr(a). Helena da Luz,"Aeroporto Liam Caldeira, 48, Vila Ipiranga",São Paulo,SP,Brasil,79542160,-23.532730075886647,-46.651402562348565,Dermatologia,"[""Ouro"",""Diamante""]",Vila Ipiranga
+Dr(a). Dr. José Costela,"Viela Abreu, 35, João Alfredo",São Paulo,SP,Brasil,30061-997,-23.50047036842853,-46.655350520628296,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",João Alfredo
+Dr(a). Bruno Dias,"Aeroporto Machado, 64, Apolonia",São Paulo,SP,Brasil,97553-003,-23.578371030242444,-46.673702955193335,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Apolonia
+Dr(a). Dra. Maria Luiza da Luz,"Vereda Paulo Borges, 84, Oeste",São Paulo,SP,Brasil,53875-522,-23.5876794875554,-46.72229160024906,Dermatologia,"[""Diamante""]",Oeste
+Dr(a). Melina Freitas,"Favela Luana Marques, 126, Senhor Dos Passos",São Paulo,SP,Brasil,95365655,-23.54297334344447,-46.623700223180194,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Senhor Dos Passos
+Dr(a). Carlos Eduardo Viana,"Colônia das Neves, 7, Dona Clara",São Paulo,SP,Brasil,00069-868,-23.573246756709423,-46.660894190178524,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Dona Clara
+Dr(a). Sr. Bruno Novais,"Setor de da Conceição, 5, Belvedere",São Paulo,SP,Brasil,33431907,-23.576074199388874,-46.633868410297474,Cardiologia,"[""Ouro"",""Diamante""]",Belvedere
+Dr(a). Maya Rocha,"Campo João da Conceição, 527, Trevo",São Paulo,SP,Brasil,46466-651,-23.56708922696273,-46.66316200593246,Ortopedia,"[""Diamante""]",Trevo
+Dr(a). Maria Isis Sá,"Passarela Pires, 784, Vila Trinta E Um De Março",São Paulo,SP,Brasil,44196975,-23.529600114797276,-46.76895329755647,Clínico Geral,"[""Ouro"",""Diamante""]",Vila Trinta E Um De Março
+Dr(a). Nina Aparecida,"Parque Jesus, 2, Vila Independencia 3ª Seção",São Paulo,SP,Brasil,86931-714,-23.540713984028272,-46.769476080079855,Ortopedia,"[""Ouro"",""Diamante""]",Vila Independencia 3ª Seção
+Dr(a). Anthony Gabriel Câmara,"Morro de Peixoto, 70, Santa Helena",São Paulo,SP,Brasil,22545-949,-23.51560290633501,-46.73744415355301,Cardiologia,"[""Ouro"",""Diamante""]",Santa Helena
+Dr(a). Gael Henrique Peixoto,"Esplanada Pereira, 66, Novo Ouro Preto",São Paulo,SP,Brasil,39623101,-23.583239094638813,-46.772698310832524,Dermatologia,"[""Ouro"",""Diamante""]",Novo Ouro Preto
+Dr(a). Ryan da Cunha,"Viaduto da Conceição, 7, Céu Azul",São Paulo,SP,Brasil,12740926,-23.557727298993555,-46.6170518778706,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Céu Azul
+Dr(a). André Sá,"Setor Ribeiro, 1, Vista Alegre",São Paulo,SP,Brasil,19449973,-23.518613291699374,-46.76193011995722,Ortopedia,"[""Ouro"",""Diamante""]",Vista Alegre
+Dr(a). Raul Garcia,"Favela Lucas Sales, 71, Lajedo",São Paulo,SP,Brasil,91614283,-23.559132208782206,-46.660941486264726,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lajedo
+Dr(a). Srta. Isabel Casa Grande,"Rua Bernardo Sá, 48, Suzana",São Paulo,SP,Brasil,33917-939,-23.546727967453133,-46.79946607724655,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Suzana
+Dr(a). Mariah Vargas,"Vale Fonseca, 94, Flavio De Oliveira",São Paulo,SP,Brasil,81969615,-23.52498049239028,-46.697150807809756,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Flavio De Oliveira
+Dr(a). Srta. Melissa Moura,"Travessa Rocha, 1, Alta Tensão 2ª Seção",São Paulo,SP,Brasil,60221067,-23.56405625130359,-46.798215629081845,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alta Tensão 2ª Seção
+Dr(a). Raul Casa Grande,"Fazenda Fonseca, 625, Flamengo",São Paulo,SP,Brasil,85923-196,-23.583027361357505,-46.78668372558876,Dermatologia,"[""Diamante""]",Flamengo
+Dr(a). Dr. Noah Alves,"Feira de Santos, 28, Oeste",São Paulo,SP,Brasil,95619-945,-23.539280345629876,-46.76059588030867,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Oeste
+Dr(a). Bento Farias,"Conjunto Mendonça, 43, Boa União 1ª Seção",São Paulo,SP,Brasil,21049851,-23.540354921199842,-46.70256043692588,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa União 1ª Seção
+Dr(a). Dr. Noah Castro,"Trevo Pietro Rezende, 458, Novo Ouro Preto",São Paulo,SP,Brasil,17773083,-23.57801024607328,-46.75439188353973,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Ouro Preto
+Dr(a). Manuela da Luz,"Recanto Lara da Cunha, 80, Heliopolis",São Paulo,SP,Brasil,53561-328,-23.57238327610021,-46.64322633981254,Pediatria,"[""Ouro"",""Diamante""]",Heliopolis
+Dr(a). Elisa Ribeiro,"Avenida Moura, 896, Confisco",São Paulo,SP,Brasil,91670-202,-23.598698887093335,-46.608618986136406,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Confisco
+Dr(a). Heloisa Aragão,"Praça Almeida, 175, Distrito Industrial Do Jatoba",São Paulo,SP,Brasil,87957403,-23.530400055714008,-46.7742483561161,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Distrito Industrial Do Jatoba
+Dr(a). Matheus Araújo,"Favela Liam Araújo, 3, João Pinheiro",São Paulo,SP,Brasil,54948-783,-23.566874803317443,-46.760699432209485,Clínico Geral,"[""Ouro"",""Diamante""]",João Pinheiro
+Dr(a). Srta. Mariana da Luz,"Estrada Isabela Aragão, 5, Lourdes",São Paulo,SP,Brasil,64695-313,-23.586551202023035,-46.67731170897868,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lourdes
+Dr(a). Stephany Porto,"Campo de Moraes, 53, Heliopolis",São Paulo,SP,Brasil,20336-836,-23.563752324413823,-46.66537279819687,Ortopedia,"[""Diamante""]",Heliopolis
+Dr(a). Anna Liz da Cunha,"Feira Pastor, 50, Camponesa 1ª Seção",São Paulo,SP,Brasil,06672996,-23.55269519409252,-46.620178332220945,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Camponesa 1ª Seção
+Dr(a). Bruna Ferreira,"Quadra Vinicius Machado, 76, Mariano De Abreu",São Paulo,SP,Brasil,92211084,-23.539859214006665,-46.76732392427904,Ortopedia,"[""Diamante""]",Mariano De Abreu
+Dr(a). Ana Sophia Albuquerque,"Vale Rocha, 5, Vila Do Pombal",São Paulo,SP,Brasil,04094042,-23.573776457342863,-46.69734575642647,Dermatologia,"[""Ouro"",""Diamante""]",Vila Do Pombal
+Dr(a). Igor da Costa,"Viela de Sales, 878, Itatiaia",São Paulo,SP,Brasil,69404-372,-23.59827127638516,-46.633748942985726,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Itatiaia
+Dr(a). Sr. Renan Vargas,"Parque Beatriz Rocha, 74, Lindéia",São Paulo,SP,Brasil,06871-450,-23.585871024059156,-46.61092077537505,Clínico Geral,"[""Ouro"",""Diamante""]",Lindéia
+Dr(a). Olivia Cavalcanti,"Estação de Moraes, 592, Vila Jardim São José",São Paulo,SP,Brasil,48902-137,-23.590976025054772,-46.63490000430736,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Jardim São José
+Dr(a). Cauã Silva,"Rua Beatriz Santos, 438, Granja Werneck",São Paulo,SP,Brasil,24896024,-23.58949001379709,-46.72434873546654,Pediatria,"[""Diamante""]",Granja Werneck
+Dr(a). Alana da Cruz,"Rodovia Ana Sophia Melo, 64, Independência",São Paulo,SP,Brasil,07684-094,-23.521683832569877,-46.723581930466665,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Independência
+Dr(a). Srta. Jade Marques,"Trevo Barbosa, 53, Nova Granada",São Paulo,SP,Brasil,59888286,-23.506955175624476,-46.69904634452188,Clínico Geral,"[""Diamante""]",Nova Granada
+Dr(a). Laura Sales,"Recanto José da Mota, 12, Conjunto Paulo Vi",São Paulo,SP,Brasil,97559885,-23.559046348053208,-46.663908956628354,Ortopedia,"[""Diamante""]",Conjunto Paulo Vi
+Dr(a). Julia Alves,"Loteamento de Câmara, 254, Vista Do Sol",São Paulo,SP,Brasil,95529-919,-23.507003993798364,-46.70300667892979,Pediatria,"[""Diamante""]",Vista Do Sol
+Dr(a). Ana Luiza Lima,"Feira Pimenta, 657, Tupi A",São Paulo,SP,Brasil,60793866,-23.5271769338671,-46.66336297883254,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Tupi A
+Dr(a). Camila Montenegro,"Passarela Fonseca, 43, Lagoa",São Paulo,SP,Brasil,63957-097,-23.516127238072325,-46.67641632555439,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lagoa
+Dr(a). Rafael Fogaça,"Viaduto da Cunha, 42, Conjunto Floramar",São Paulo,SP,Brasil,10786-954,-23.596756047642394,-46.770382109384585,Cardiologia,"[""Diamante""]",Conjunto Floramar
+Dr(a). Maya da Cruz,"Estrada de Moraes, 21, Santa Maria",São Paulo,SP,Brasil,61865097,-23.58489562639175,-46.659250376626446,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Maria
+Dr(a). Heloisa da Luz,"Jardim Maria Laura Brito, 3, São Vicente",São Paulo,SP,Brasil,18804-918,-23.51850330217801,-46.60066221040281,Cardiologia,"[""Diamante""]",São Vicente
+Dr(a). Apollo da Costa,"Chácara Marques, 9, Santa Branca",São Paulo,SP,Brasil,08833-578,-23.581495515286978,-46.75267626164487,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Santa Branca
+Dr(a). Luiza Fernandes,"Largo Câmara, 37, Novo Santa Cecilia",São Paulo,SP,Brasil,00466683,-23.53884439974602,-46.69528204384179,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Santa Cecilia
+Dr(a). Arthur Campos,"Largo Borges, 1, Caetano Furquim",São Paulo,SP,Brasil,03275-736,-23.55376789634267,-46.67628235967705,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Caetano Furquim
+Dr(a). Mariana Moreira,"Morro de da Rocha, 52, Dom Bosco",São Paulo,SP,Brasil,13090-731,-23.547070350812092,-46.64014245722995,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Dom Bosco
+Dr(a). Danilo Casa Grande,"Sítio de da Cruz, 7, Luxemburgo",São Paulo,SP,Brasil,22748-501,-23.597695438354766,-46.6599971921896,Pediatria,"[""Diamante""]",Luxemburgo
+Dr(a). Renan da Costa,"Estrada de Novaes, 9, Vila Mangueiras",São Paulo,SP,Brasil,76797061,-23.54956585202779,-46.61172822580655,Cardiologia,"[""Diamante""]",Vila Mangueiras
+Dr(a). Sr. José Machado,"Ladeira Enzo Gabriel Nogueira, 348, Vila Minaslandia",São Paulo,SP,Brasil,91562-225,-23.593359897367066,-46.71199360794349,Ortopedia,"[""Diamante""]",Vila Minaslandia
+Dr(a). Nina Pimenta,"Estrada Fernandes, 63, Coração De Jesus",São Paulo,SP,Brasil,31646-303,-23.52939383238786,-46.797893519302164,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Coração De Jesus
+Dr(a). Augusto Macedo,"Via Ana Liz Martins, 76, Parque São Pedro",São Paulo,SP,Brasil,09579350,-23.562526553953916,-46.65918491058662,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Parque São Pedro
+Dr(a). Davi Lucca Aparecida,"Praia José Pedro da Paz, 14, Aeroporto",São Paulo,SP,Brasil,22940-340,-23.575799381796248,-46.72621354682089,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Aeroporto
+Dr(a). Zoe Azevedo,"Distrito Pimenta, 14, Solar Do Barreiro",São Paulo,SP,Brasil,94191-668,-23.509087161436334,-46.64525713787357,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Solar Do Barreiro
+Dr(a). Gustavo Leão,"Jardim de Almeida, 61, Vila Jardim Leblon",São Paulo,SP,Brasil,59419-294,-23.57344098328913,-46.705057594473004,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Jardim Leblon
+Dr(a). Rebeca Caldeira,"Núcleo de Sousa, 957, Padre Eustáquio",São Paulo,SP,Brasil,28683626,-23.527450142977013,-46.609827782470056,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Padre Eustáquio
+Dr(a). Luiz Henrique Brito,"Conjunto Vicente Moura, 44, Vila Mantiqueira",São Paulo,SP,Brasil,91975889,-23.542544861811937,-46.726497739180395,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Mantiqueira
+Dr(a). Otávio Câmara,"Alameda Fogaça, 86, Satelite",São Paulo,SP,Brasil,20099-665,-23.583435810106796,-46.72431099802738,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Satelite
+Dr(a). João Felipe Montenegro,"Estrada Silveira, 4, Jardim Atlântico",São Paulo,SP,Brasil,75915-633,-23.551965374509834,-46.78588387228306,Cardiologia,"[""Diamante""]",Jardim Atlântico
+Dr(a). Letícia Jesus,"Viaduto Samuel Teixeira, 6, Cidade Jardim Taquaril",São Paulo,SP,Brasil,09558-393,-23.51831783914736,-46.69042179024918,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Cidade Jardim Taquaril
+Dr(a). Maria Alice Fonseca,"Via Lavínia Ribeiro, 44, Nossa Senhora De Fátima",São Paulo,SP,Brasil,28616-736,-23.55674495952569,-46.60082848719383,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nossa Senhora De Fátima
+Dr(a). Dr. Lorenzo Andrade,"Rua Aparecida, 2, Piratininga",São Paulo,SP,Brasil,69402-961,-23.55659538011747,-46.75495901077959,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Piratininga
+Dr(a). Sofia Jesus,"Chácara de da Mota, 1, Santa Helena",São Paulo,SP,Brasil,93265-790,-23.508495497427226,-46.736176025087154,Dermatologia,"[""Ouro"",""Diamante""]",Santa Helena
+Dr(a). Mariah Montenegro,"Conjunto da Rocha, 3, Beija Flor",São Paulo,SP,Brasil,78515309,-23.599940373017546,-46.661959712854426,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Beija Flor
+Dr(a). Bento Novaes,"Trevo de Cirino, 696, Califórnia",São Paulo,SP,Brasil,06495-815,-23.50898866317985,-46.68730462656732,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Califórnia
+Dr(a). Luísa Castro,"Via Benjamim Novais, 71, Ipe",São Paulo,SP,Brasil,88086167,-23.598840594775872,-46.67754342246821,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Ipe
+Dr(a). Nathan das Neves,"Sítio de Pires, 134, Virgínia",São Paulo,SP,Brasil,50868788,-23.562709857742842,-46.77987867182334,Clínico Geral,"[""Ouro"",""Diamante""]",Virgínia
+Dr(a). Enrico Pacheco,"Esplanada de Ferreira, 90, Vila Fumec",São Paulo,SP,Brasil,30304-486,-23.526945127420568,-46.612352999551035,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Fumec
+Dr(a). Maria Julia Cunha,"Feira Freitas, 974, Conjunto Novo Dom Bosco",São Paulo,SP,Brasil,56616-747,-23.561740122159808,-46.75703189754816,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Novo Dom Bosco
+Dr(a). Júlia Campos,"Parque Rebeca Rezende, 13, Minas Brasil",São Paulo,SP,Brasil,09468361,-23.57267431808282,-46.62270871480815,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Minas Brasil
+Dr(a). Sr. Augusto Correia,"Travessa Aragão, 43, Flavio Marques Lisboa",São Paulo,SP,Brasil,67806-730,-23.525013437026132,-46.765423305576455,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Flavio Marques Lisboa
+Dr(a). Thales Fogaça,"Ladeira de Teixeira, 84, Alta Tensão 2ª Seção",São Paulo,SP,Brasil,88989383,-23.585860155198848,-46.78307405599101,Clínico Geral,"[""Ouro"",""Diamante""]",Alta Tensão 2ª Seção
+Dr(a). Felipe da Cruz,"Trevo de Pacheco, 81, Vila São João Batista",São Paulo,SP,Brasil,48731-388,-23.50237004385306,-46.68820117956164,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vila São João Batista
+Dr(a). Pedro Vieira,"Aeroporto Freitas, 99, Canadá",São Paulo,SP,Brasil,53878542,-23.547400087105018,-46.74906926559999,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Canadá
+Dr(a). Sra. Valentina Ribeiro,"Conjunto da Rosa, 34, Santa Cecilia",São Paulo,SP,Brasil,48446177,-23.50006730836873,-46.76061594012555,Pediatria,"[""Ouro"",""Diamante""]",Santa Cecilia
+Dr(a). João Felipe Alves,"Viela Mathias da Conceição, 152, Silveira",São Paulo,SP,Brasil,59981-694,-23.560025918434008,-46.67422818767206,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Silveira
+Dr(a). Asafe Costela,"Trecho Larissa Aparecida, 3, Padre Eustáquio",São Paulo,SP,Brasil,40481137,-23.569149941304357,-46.70270466949528,Cardiologia,"[""Ouro"",""Diamante""]",Padre Eustáquio
+Dr(a). Allana Almeida,"Trevo Vieira, 5, Caetano Furquim",São Paulo,SP,Brasil,63574527,-23.597301161834938,-46.619038108177605,Ortopedia,"[""Diamante""]",Caetano Furquim
+Dr(a). Erick Garcia,"Distrito Francisco Cardoso, 9, Jardim Felicidade",São Paulo,SP,Brasil,42094682,-23.580302538783666,-46.692638633705464,Cardiologia,"[""Diamante""]",Jardim Felicidade
+Dr(a). Helena Nascimento,"Área Bryan Costa, 202, Dom Cabral",São Paulo,SP,Brasil,86680355,-23.557192523490073,-46.68268230655205,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Dom Cabral
+Dr(a). Mariah Rios,"Feira Bryan da Conceição, 58, Vila Real 2ª Seção",São Paulo,SP,Brasil,65437-549,-23.549811006851247,-46.73848720587924,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Real 2ª Seção
+Dr(a). Anthony Gabriel Peixoto,"Ladeira de Costa, 99, Granja Werneck",São Paulo,SP,Brasil,29004-201,-23.590963779922156,-46.637826449378124,Clínico Geral,"[""Ouro"",""Diamante""]",Granja Werneck
+Dr(a). Vinícius Costa,"Trecho Moura, 51, Vila Esplanada",São Paulo,SP,Brasil,92297-143,-23.546389061846636,-46.680415157552694,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Esplanada
+Dr(a). Leonardo Borges,"Campo Maria Julia da Rocha, 68, Nova Granada",São Paulo,SP,Brasil,25382-390,-23.51447046373138,-46.79985531332262,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Granada
+Dr(a). Otto Martins,"Parque Leonardo Pires, 20, Conjunto Paulo Vi",São Paulo,SP,Brasil,60497755,-23.53071082311635,-46.783571053059816,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Paulo Vi
+Dr(a). Dra. Lara Vieira,"Setor Castro, 321, Conjunto Bonsucesso",São Paulo,SP,Brasil,78149-140,-23.519240767917346,-46.76551548184213,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Bonsucesso
+Dr(a). Sra. Isadora Cunha,"Vale de da Paz, 68, Milionario",São Paulo,SP,Brasil,80091757,-23.58614147488299,-46.71000714159075,Ortopedia,"[""Diamante""]",Milionario
+Dr(a). Matheus Sampaio,"Quadra Alice Alves, 80, Xodo-Marize",São Paulo,SP,Brasil,74795-066,-23.5062764201681,-46.638857340784554,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Xodo-Marize
+Dr(a). Dr. Ian Rezende,"Alameda de Castro, 22, Nova Pampulha",São Paulo,SP,Brasil,27993489,-23.56960610362758,-46.64627308646026,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Pampulha
+Dr(a). Sofia Duarte,"Aeroporto Borges, 85, Gutierrez",São Paulo,SP,Brasil,37559-762,-23.555920330981944,-46.794962443624115,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Gutierrez
+Dr(a). Alice Vasconcelos,"Trevo Fogaça, 49, Salgado Filho",São Paulo,SP,Brasil,86719349,-23.548281216564632,-46.63090337043991,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Salgado Filho
+Dr(a). Dra. Maria Vitória Andrade,"Vale de Gonçalves, 16, Tupi A",São Paulo,SP,Brasil,31693-798,-23.528257049985573,-46.6417733630673,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Tupi A
+Dr(a). Mariana Ramos,"Viela de Fogaça, 4, Floresta",São Paulo,SP,Brasil,94046654,-23.507302225769013,-46.709391203271856,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Floresta
+Dr(a). Dra. Clara das Neves,"Largo Camila Aragão, 92, Tupi A",São Paulo,SP,Brasil,34631502,-23.563543491956924,-46.664780803875175,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Tupi A
+Dr(a). Yan Melo,"Loteamento de Cavalcanti, 5, Conjunto Jardim Filadélfia",São Paulo,SP,Brasil,50881-046,-23.576258610790575,-46.65246378144966,Clínico Geral,"[""Ouro"",""Diamante""]",Conjunto Jardim Filadélfia
+Dr(a). Arthur Vieira,"Alameda de Abreu, 651, Bacurau",São Paulo,SP,Brasil,68721-099,-23.51167352633517,-46.68997891093507,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Bacurau
+Dr(a). Olívia Souza,"Jardim Caldeira, 10, Grotinha",São Paulo,SP,Brasil,53845-859,-23.54147885397521,-46.631823273756396,Cardiologia,"[""Ouro"",""Diamante""]",Grotinha
+Dr(a). Isis Rios,"Praça da Conceição, 24, Carmo",São Paulo,SP,Brasil,82074-353,-23.544029687304487,-46.72912175724635,Cardiologia,"[""Ouro"",""Diamante""]",Carmo
+Dr(a). Srta. Manuella Ferreira,"Vale de da Conceição, 914, Vila Santa Rosa",São Paulo,SP,Brasil,59705-975,-23.516179504959727,-46.655316043105714,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Santa Rosa
+Dr(a). Apollo Ferreira,"Colônia Vieira, 77, Conjunto Providencia",São Paulo,SP,Brasil,94795-881,-23.554247650472742,-46.75332631522416,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Providencia
+Dr(a). Manuella Santos,"Jardim Leão, 388, Vila Nova Cachoeirinha 1ª Seção",São Paulo,SP,Brasil,82949741,-23.501000561513745,-46.794148970718965,Ortopedia,"[""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 1ª Seção
+Dr(a). Ana Beatriz da Cruz,"Largo de Garcia, 13, São João Batista",São Paulo,SP,Brasil,23523846,-23.558574077068062,-46.794792784868285,Ortopedia,"[""Diamante""]",São João Batista
+Dr(a). Antony Siqueira,"Vereda Monteiro, 73, Nova America",São Paulo,SP,Brasil,81470852,-23.51655421286586,-46.66767998908497,Clínico Geral,"[""Diamante""]",Nova America
+Dr(a). Paulo Peixoto,"Núcleo da Conceição, 54, Novo Tupi",São Paulo,SP,Brasil,87336022,-23.51639854885585,-46.63892114798708,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Tupi
+Dr(a). Diogo Cirino,"Viela Clarice Cavalcanti, 51, Vila Ouro Minas",São Paulo,SP,Brasil,10846-000,-23.576001534026705,-46.69806620632296,Cardiologia,"[""Diamante""]",Vila Ouro Minas
+Dr(a). Henry Barbosa,"Estrada Nunes, 81, Céu Azul",São Paulo,SP,Brasil,33048760,-23.545879085830922,-46.63322716696493,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Céu Azul
+Dr(a). Emilly Araújo,"Via Novaes, 1, Santa Monica",São Paulo,SP,Brasil,95932931,-23.573642329105777,-46.65606685245843,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Monica
+Dr(a). Mariana Barros,"Estação Siqueira, 9, Trevo",São Paulo,SP,Brasil,75052623,-23.502571462241352,-46.70785036061202,Ortopedia,"[""Ouro"",""Diamante""]",Trevo
+Dr(a). André Sousa,"Praia Gael Cavalcante, 9, Xodo-Marize",São Paulo,SP,Brasil,78487078,-23.571142030881926,-46.709393272095774,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Xodo-Marize
+Dr(a). Eduardo Gonçalves,"Vale de Azevedo, 5, Planalto",São Paulo,SP,Brasil,84639-491,-23.51578812812218,-46.749718466930695,Cardiologia,"[""Diamante""]",Planalto
+Dr(a). Enrico Cassiano,"Vale Eloá Aparecida, 483, Santo André",São Paulo,SP,Brasil,40010-120,-23.510550591927434,-46.609272925075295,Clínico Geral,"[""Ouro"",""Diamante""]",Santo André
+Dr(a). Rafael Gonçalves,"Conjunto de da Mata, 15, Santa Efigênia",São Paulo,SP,Brasil,20938-270,-23.586642237580072,-46.708589880508164,Cardiologia,"[""Diamante""]",Santa Efigênia
+Dr(a). Ana Ferreira,"Via Albuquerque, 265, Santa Lúcia",São Paulo,SP,Brasil,47385-695,-23.55426590602811,-46.653106499018264,Pediatria,"[""Ouro"",""Diamante""]",Santa Lúcia
+Dr(a). Vinícius Moreira,"Estação Câmara, 15, Marmiteiros",São Paulo,SP,Brasil,13917-034,-23.54760259387523,-46.79153207151042,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Marmiteiros
+Dr(a). Sra. Isadora Andrade,"Colônia de Macedo, 65, Manacas",São Paulo,SP,Brasil,65864951,-23.557610966666765,-46.74218047133777,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Manacas
+Dr(a). Srta. Lívia Nogueira,"Via Fogaça, 58, Santa Isabel",São Paulo,SP,Brasil,13706933,-23.58913338150945,-46.7308650870576,Dermatologia,"[""Diamante""]",Santa Isabel
+Dr(a). Dr. Vitor Gabriel Marques,"Viaduto Borges, 4, Antonio Ribeiro De Abreu 1ª Seção",São Paulo,SP,Brasil,50510-528,-23.54798318723613,-46.79958725544368,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Antonio Ribeiro De Abreu 1ª Seção
+Dr(a). Yan Pastor,"Morro de Nascimento, 145, Itaipu",São Paulo,SP,Brasil,54038397,-23.598756664174427,-46.74254591255375,Ortopedia,"[""Diamante""]",Itaipu
+Dr(a). Emanuella Albuquerque,"Morro de Porto, 6, Vila São Geraldo",São Paulo,SP,Brasil,87485499,-23.564230563581045,-46.790206163525895,Dermatologia,"[""Diamante""]",Vila São Geraldo
+Dr(a). Dr. Davi Mendes,"Viela Cavalcante, 32, Piratininga",São Paulo,SP,Brasil,07567278,-23.573409125367263,-46.69220644779477,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Piratininga
+Dr(a). Theo Nunes,"Avenida de Freitas, 64, São Geraldo",São Paulo,SP,Brasil,35855965,-23.57856688739704,-46.76100559340095,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",São Geraldo
+Dr(a). Dr. Ryan Mendes,"Condomínio Novaes, 37, Aguas Claras",São Paulo,SP,Brasil,88425372,-23.52689279500959,-46.736138578587486,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aguas Claras
+Dr(a). Lavínia da Rocha,"Lagoa Nogueira, 875, Cdi Jatoba",São Paulo,SP,Brasil,12514-800,-23.569603342569348,-46.672006523354014,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Cdi Jatoba
+Dr(a). Dra. Camila Moreira,"Ladeira Brito, 89, Teixeira Dias",São Paulo,SP,Brasil,10580-688,-23.558849119925686,-46.76768939865801,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Teixeira Dias
+Dr(a). Augusto Albuquerque,"Setor Campos, 55, Silveira",São Paulo,SP,Brasil,07318-035,-23.552221453063222,-46.71422522090241,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Silveira
+Dr(a). Liam Viana,"Aeroporto Costa, 1, São Bento",São Paulo,SP,Brasil,28260-719,-23.55400881487955,-46.632933110106435,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",São Bento
+Dr(a). Olívia Moreira,"Trevo Marques, 67, Gutierrez",São Paulo,SP,Brasil,95024-283,-23.55093008541027,-46.609096150044245,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Gutierrez
+Dr(a). Eloah Garcia,"Colônia Rodrigues, 53, Granja Werneck",São Paulo,SP,Brasil,96235970,-23.567455568122814,-46.652931776316336,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Granja Werneck
+Dr(a). Giovanna da Rocha,"Núcleo Costa, 4, Gutierrez",São Paulo,SP,Brasil,56119657,-23.59800426209782,-46.74292574423481,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Gutierrez
+Dr(a). Emilly Costa,"Lago de Câmara, 94, Coração De Jesus",São Paulo,SP,Brasil,15075-482,-23.519948065358598,-46.631428913034796,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Coração De Jesus
+Dr(a). Felipe Moraes,"Fazenda Macedo, 57, Jaraguá",São Paulo,SP,Brasil,16181-921,-23.517797739892497,-46.72558143714037,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Jaraguá
+Dr(a). Ágatha Araújo,"Núcleo Vieira, 64, Esplanada",São Paulo,SP,Brasil,23964407,-23.5693692370181,-46.68564112551305,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Esplanada
+Dr(a). Vicente Rezende,"Favela de das Neves, 8, Colégio Batista",São Paulo,SP,Brasil,37701285,-23.54831125729866,-46.69039431058577,Cardiologia,"[""Ouro"",""Diamante""]",Colégio Batista
+Dr(a). Cecilia Cavalcante,"Lago Rezende, 23, União",São Paulo,SP,Brasil,42980-554,-23.569788929261225,-46.64483823874768,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",União
+Dr(a). Vinícius Cavalcante,"Ladeira Moraes, 44, Vila Piratininga Venda Nova",São Paulo,SP,Brasil,42852370,-23.576155414185354,-46.753954692599365,Dermatologia,"[""Ouro"",""Diamante""]",Vila Piratininga Venda Nova
+Dr(a). João Vitor Freitas,"Viela Yuri Abreu, 47, Morro Dos Macacos",São Paulo,SP,Brasil,24609-861,-23.506241840546014,-46.72699443179462,Ortopedia,"[""Ouro"",""Diamante""]",Morro Dos Macacos
+Dr(a). Isaque Teixeira,"Praça Araújo, 81, Palmeiras",São Paulo,SP,Brasil,61136424,-23.529878270314573,-46.79864206017488,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Palmeiras
+Dr(a). Samuel Pereira,"Sítio da Mata, 56, Vila Aeroporto",São Paulo,SP,Brasil,26346-830,-23.56440721730293,-46.74865033373899,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Aeroporto
+Dr(a). Antony Campos,"Vila Gael Barbosa, 39, Palmeiras",São Paulo,SP,Brasil,75366015,-23.516521968975155,-46.65411086830108,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Palmeiras
+Dr(a). Maria Vitória Vieira,"Setor Juan Nunes, 5, Pedreira Padro Lopes",São Paulo,SP,Brasil,83573713,-23.58303596792583,-46.63994002782124,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Pedreira Padro Lopes
+Dr(a). Dr. Arthur Moreira,"Trevo Maitê Mendes, 15, Vila Santa Monica 2ª Seção",São Paulo,SP,Brasil,56738-281,-23.51598068573614,-46.721777285552484,Cardiologia,"[""Ouro"",""Diamante""]",Vila Santa Monica 2ª Seção
+Dr(a). João Felipe Barbosa,"Via Peixoto, 70, Flavio De Oliveira",São Paulo,SP,Brasil,64957-883,-23.543652309412952,-46.700619658953194,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Flavio De Oliveira
+Dr(a). Sr. Emanuel Campos,"Feira Cardoso, 23, Colégio Batista",São Paulo,SP,Brasil,55315-921,-23.57521080768882,-46.75547244035396,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Colégio Batista
+Dr(a). Melissa Garcia,"Chácara Moura, 4, Vila Maria",São Paulo,SP,Brasil,31068-596,-23.52560449665934,-46.79239614097566,Cardiologia,"[""Ouro"",""Diamante""]",Vila Maria
+Dr(a). Davi Lucas da Mota,"Ladeira Miguel Moraes, 525, Cidade Jardim Taquaril",São Paulo,SP,Brasil,82403870,-23.597330472367595,-46.70081427048109,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Cidade Jardim Taquaril
+Dr(a). Isabella Ramos,"Largo Maria Luiza Ferreira, 134, Santa Cruz",São Paulo,SP,Brasil,18336-732,-23.502690052590662,-46.73864043981398,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Cruz
+Dr(a). Otto Vargas,"Esplanada Aparecida, 15, Jardim Dos Comerciarios",São Paulo,SP,Brasil,22526-855,-23.521032369430472,-46.63805303834114,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Dos Comerciarios
+Dr(a). Sra. Ana Luiza Correia,"Vale Melo, 996, Marçola",São Paulo,SP,Brasil,62762-752,-23.56496149368078,-46.74083978550307,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Marçola
+Dr(a). Ágatha Mendes,"Lago de Rocha, 5, Oeste",São Paulo,SP,Brasil,07431097,-23.58158629213101,-46.798167406791585,Pediatria,"[""Ouro"",""Diamante""]",Oeste
+Dr(a). Ana Júlia Almeida,"Residencial Heloisa Pires, 67, Maria Virgínia",São Paulo,SP,Brasil,33929-348,-23.50572769043247,-46.69979942000192,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Maria Virgínia
+Dr(a). Agatha Borges,"Vereda Nunes, 68, Savassi",São Paulo,SP,Brasil,60887631,-23.50211874993624,-46.71348901226349,Clínico Geral,"[""Diamante""]",Savassi
+Dr(a). Calebe Nascimento,"Aeroporto Silva, 1, Rio Branco",São Paulo,SP,Brasil,95393-871,-23.555624729370468,-46.78716606127344,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Rio Branco
+Dr(a). Sr. Davi Lucca Gonçalves,"Aeroporto de Cassiano, 27, Universo",São Paulo,SP,Brasil,02885876,-23.575032298365674,-46.67983640259132,Pediatria,"[""Diamante""]",Universo
+Dr(a). Bruno Caldeira,"Residencial Cavalcanti, 87, Alípio De Melo",São Paulo,SP,Brasil,21494-728,-23.517844885109504,-46.63363265292261,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Alípio De Melo
+Dr(a). Matteo Monteiro,"Quadra de Nascimento, 1, Vila Fumec",São Paulo,SP,Brasil,99548687,-23.54109624379273,-46.78232996390339,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vila Fumec
+Dr(a). Rebeca Viana,"Via de da Costa, 96, Tupi B",São Paulo,SP,Brasil,78972-769,-23.529643373159207,-46.60811449544916,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Tupi B
+Dr(a). Dr. Juan da Costa,"Vereda de Castro, 68, Vila Ipiranga",São Paulo,SP,Brasil,69290332,-23.54038956027184,-46.74042150715133,Pediatria,"[""Diamante""]",Vila Ipiranga
+Dr(a). Dra. Daniela Cavalcante,"Favela Ramos, 692, São Sebastião",São Paulo,SP,Brasil,87852396,-23.502099837703156,-46.61079317143187,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",São Sebastião
+Dr(a). Oliver Vasconcelos,"Setor Lopes, 5, Vista Do Sol",São Paulo,SP,Brasil,53869-135,-23.53331659252056,-46.6312048843879,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vista Do Sol
+Dr(a). Maria Laura da Cunha,"Vila de Borges, 79, Renascença",São Paulo,SP,Brasil,98603-075,-23.57515488080562,-46.775743954812775,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Renascença
+Dr(a). Maitê Rezende,"Sítio Antônio Sales, 61, Nova Gameleira",São Paulo,SP,Brasil,52646-822,-23.522181565024614,-46.692028922233334,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Gameleira
+Dr(a). Luigi Andrade,"Área Ayla Rocha, 1, Alípio De Melo",São Paulo,SP,Brasil,90734-942,-23.56231399856856,-46.778023057706555,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alípio De Melo
+Dr(a). Dr. Pedro Lucas Gonçalves,"Viela Lima, 47, Granja Werneck",São Paulo,SP,Brasil,16316434,-23.52374998568987,-46.79107980350648,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Granja Werneck
+Dr(a). Bento Rocha,"Colônia de Carvalho, 359, Alta Tensão 2ª Seção",São Paulo,SP,Brasil,20789-617,-23.52811762069703,-46.66111748659391,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alta Tensão 2ª Seção
+Dr(a). Antônio Vargas,"Vila de Porto, 71, Madri",São Paulo,SP,Brasil,88266080,-23.533364110830277,-46.65070290533245,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Madri
+Dr(a). Gabrielly Gonçalves,"Fazenda de Nunes, 8, Vila Petropolis",São Paulo,SP,Brasil,55513-454,-23.564571377294197,-46.64444533828074,Dermatologia,"[""Diamante""]",Vila Petropolis
+Dr(a). Sra. Heloísa Casa Grande,"Conjunto Caldeira, 81, Luxemburgo",São Paulo,SP,Brasil,29324767,-23.591331953429712,-46.69108725718944,Cardiologia,"[""Ouro"",""Diamante""]",Luxemburgo
+Dr(a). Mariah da Mota,"Campo Stella Barbosa, 229, Belmonte",São Paulo,SP,Brasil,05051390,-23.583425052289115,-46.71716916594116,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Belmonte
+Dr(a). Gabrielly da Rocha,"Lago Caldeira, 47, Vila Da Ária",São Paulo,SP,Brasil,40389010,-23.5977481499146,-46.77947151935004,Ortopedia,"[""Diamante""]",Vila Da Ária
+Dr(a). Pedro Henrique Pereira,"Esplanada de Gomes, 23, Nova America",São Paulo,SP,Brasil,07922443,-23.59632118907862,-46.717410589273115,Ortopedia,"[""Ouro"",""Diamante""]",Nova America
+Dr(a). Clara Castro,"Praia da Rocha, 77, Itapoa",São Paulo,SP,Brasil,81950-591,-23.583535585371862,-46.79557225204623,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Itapoa
+Dr(a). Ana Sophia Cardoso,"Lago de Sales, 51, Indaiá",São Paulo,SP,Brasil,54472284,-23.58562690631702,-46.639337816010816,Pediatria,"[""Diamante""]",Indaiá
+Dr(a). Arthur Gabriel das Neves,"Jardim Cirino, 507, Maria Virgínia",São Paulo,SP,Brasil,11754-245,-23.57718371468086,-46.678345235617016,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Maria Virgínia
+Dr(a). Lunna das Neves,"Feira de Garcia, 7, Vila São Gabriel",São Paulo,SP,Brasil,45560229,-23.54756203749043,-46.60160043242238,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila São Gabriel
+Dr(a). Aurora Correia,"Residencial Pietro Oliveira, 9, Camponesa 1ª Seção",São Paulo,SP,Brasil,04065-364,-23.585064954833307,-46.76013134352451,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camponesa 1ª Seção
+Dr(a). Maria Fernanda Marques,"Avenida Eduarda Cunha, 49, Pirineus",São Paulo,SP,Brasil,27356003,-23.598545808703648,-46.62537420960833,Dermatologia,"[""Ouro"",""Diamante""]",Pirineus
+Dr(a). Cecilia Pinto,"Esplanada da Rosa, 6, Canaa",São Paulo,SP,Brasil,73535-494,-23.595359853551006,-46.78390651543566,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Canaa
+Dr(a). Sr. Ravi Lucca Gomes,"Feira Noah da Mota, 82, Flamengo",São Paulo,SP,Brasil,42186-064,-23.58554092933252,-46.76702945412842,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Flamengo
+Dr(a). Stella Sá,"Aeroporto Emanuelly Carvalho, 9, Ernesto Nascimento",São Paulo,SP,Brasil,18932595,-23.582621838836303,-46.69487233384897,Pediatria,"[""Ouro"",""Diamante""]",Ernesto Nascimento
+Dr(a). Sra. Raquel Mendes,"Trevo de Lopes, 47, Santa Cecilia",São Paulo,SP,Brasil,67127038,-23.57469774807095,-46.66886532345969,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Cecilia
+Dr(a). Diego Souza,"Lago Clarice Montenegro, 10, Aarão Reis",São Paulo,SP,Brasil,82751492,-23.552710218415708,-46.71991360199477,Ortopedia,"[""Diamante""]",Aarão Reis
+Dr(a). Srta. Vitória Pimenta,"Viela Garcia, 90, Santo Agostinho",São Paulo,SP,Brasil,19918-887,-23.585217550646718,-46.76106264936131,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Santo Agostinho
+Dr(a). Pedro Lucas Ferreira,"Praça Théo Barros, 190, Vila Petropolis",São Paulo,SP,Brasil,85885986,-23.589186302088205,-46.61426934722844,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Petropolis
+Dr(a). Levi Ribeiro,"Praia Macedo, 7, Vila Havaí",São Paulo,SP,Brasil,25736780,-23.515197368342594,-46.63834608101322,Ortopedia,"[""Ouro"",""Diamante""]",Vila Havaí
+Dr(a). Ana Júlia Pinto,"Recanto Vasconcelos, 418, Ipiranga",São Paulo,SP,Brasil,26289626,-23.570189880330275,-46.605584940388916,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Ipiranga
+Dr(a). Maria Luísa Nunes,"Residencial Carvalho, 69, Petropolis",São Paulo,SP,Brasil,43237273,-23.531963131287466,-46.71665457822778,Pediatria,"[""Ouro"",""Diamante""]",Petropolis
+Dr(a). Gabriela Pereira,"Largo Cassiano, 62, Parque São Pedro",São Paulo,SP,Brasil,30408058,-23.50203921511251,-46.74169625080346,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Parque São Pedro
+Dr(a). Luiz Felipe Brito,"Colônia Julia Cardoso, 59, Suzana",São Paulo,SP,Brasil,78315433,-23.51237930694924,-46.66326805602354,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Suzana
+Dr(a). Dr. Carlos Eduardo Fogaça,"Lagoa de das Neves, 4, Centro",São Paulo,SP,Brasil,16597442,-23.508748438974003,-46.629177435648266,Clínico Geral,"[""Ouro"",""Diamante""]",Centro
+Dr(a). Ana Julia Leão,"Sítio de Nogueira, 7, Xodo-Marize",São Paulo,SP,Brasil,90891657,-23.511329478210037,-46.76167656196301,Dermatologia,"[""Ouro"",""Diamante""]",Xodo-Marize
+Dr(a). Manuella Silva,"Vale Silva, 1, Brasil Industrial",São Paulo,SP,Brasil,64623701,-23.528645260885327,-46.64091164934215,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Brasil Industrial
+Dr(a). Nicole Nascimento,"Núcleo de Siqueira, 75, Planalto",São Paulo,SP,Brasil,84795741,-23.585187911265926,-46.70482615238832,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Planalto
+Dr(a). Dr. Dante Peixoto,"Travessa Arthur Gabriel da Costa, 605, Mangueiras",São Paulo,SP,Brasil,99866546,-23.535492397860377,-46.675889486353995,Clínico Geral,"[""Ouro"",""Diamante""]",Mangueiras
+Dr(a). Rhavi Siqueira,"Trecho de Ferreira, 6, Belvedere",São Paulo,SP,Brasil,67643430,-23.50749403955135,-46.663631422508146,Clínico Geral,"[""Diamante""]",Belvedere
+Dr(a). Daniela Andrade,"Colônia de Vargas, 2, Ipiranga",São Paulo,SP,Brasil,05682386,-23.596096833061665,-46.7006884604821,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Ipiranga
+Dr(a). Srta. Maitê Monteiro,"Área Barbosa, 78, Vila Da Ária",São Paulo,SP,Brasil,01131064,-23.5733582128301,-46.764776594988575,Ortopedia,"[""Ouro"",""Diamante""]",Vila Da Ária
+Dr(a). Anthony Souza,"Loteamento de Lima, 58, João Pinheiro",São Paulo,SP,Brasil,22935798,-23.55468522428368,-46.79914294214559,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",João Pinheiro
+Dr(a). Dr. José Pedro Silveira,"Campo Aragão, 14, Vista Alegre",São Paulo,SP,Brasil,57524-358,-23.57286903507153,-46.722684775132834,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vista Alegre
+Dr(a). Dra. Aylla Nunes,"Pátio de Nascimento, 51, Novo Aarão Reis",São Paulo,SP,Brasil,73296180,-23.544007780664817,-46.77971987749903,Pediatria,"[""Ouro"",""Diamante""]",Novo Aarão Reis
+Dr(a). Ísis Ribeiro,"Quadra de Ramos, 9, Conjunto São Francisco De Assis",São Paulo,SP,Brasil,14585816,-23.524880122723545,-46.69753444677095,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Conjunto São Francisco De Assis
+Dr(a). Maria Isis da Cunha,"Praça da Cruz, 29, Lorena",São Paulo,SP,Brasil,92874359,-23.55094067425818,-46.68933602586939,Clínico Geral,"[""Diamante""]",Lorena
+Dr(a). Igor Porto,"Trecho Ryan Caldeira, 6, Nova Esperança",São Paulo,SP,Brasil,96017972,-23.529446664980934,-46.779422895498236,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Nova Esperança
+Dr(a). Anthony Porto,"Vale André Monteiro, 58, Vila Tirol",São Paulo,SP,Brasil,14940-258,-23.502288088824873,-46.657650832126116,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Tirol
+Dr(a). Sr. Caio Silveira,"Recanto de Rezende, 24, Marieta 2ª Seção",São Paulo,SP,Brasil,49739-793,-23.55426043881528,-46.74650622534523,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Marieta 2ª Seção
+Dr(a). Valentina da Mota,"Vereda Martins, 529, Boa Vista",São Paulo,SP,Brasil,11437-531,-23.521473715473867,-46.637207129946816,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa Vista
+Dr(a). Thales Gonçalves,"Alameda de Costela, 3, São Jorge 2ª Seção",São Paulo,SP,Brasil,72589-372,-23.50588620921799,-46.74326674969058,Pediatria,"[""Diamante""]",São Jorge 2ª Seção
+Dr(a). Juan Freitas,"Chácara de Silveira, 586, Dona Clara",São Paulo,SP,Brasil,31367-274,-23.569443591641228,-46.722169282473196,Cardiologia,"[""Diamante""]",Dona Clara
+Dr(a). Heloísa Abreu,"Estação de Rocha, 53, Aeroporto",São Paulo,SP,Brasil,03239533,-23.523045411878478,-46.73411374716691,Cardiologia,"[""Diamante""]",Aeroporto
+Dr(a). Lucca Pinto,"Estação Lucas Gabriel Duarte, 9, Vila Bandeirantes",São Paulo,SP,Brasil,47863-436,-23.539458082334892,-46.6072245756313,Pediatria,"[""Diamante""]",Vila Bandeirantes
+Dr(a). Theo da Paz,"Jardim de Guerra, 90, São Gonçalo",São Paulo,SP,Brasil,21651002,-23.52744842337879,-46.65420817841741,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Gonçalo
+Dr(a). Otto Barbosa,"Vale Pereira, 36, Santa Amelia",São Paulo,SP,Brasil,46387-118,-23.501536821906925,-46.731731563170534,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Amelia
+Dr(a). Henry Araújo,"Via de Teixeira, 10, Nova Esperança",São Paulo,SP,Brasil,15394530,-23.528814113511718,-46.7061094051042,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Esperança
+Dr(a). Bernardo Correia,"Esplanada Yago Fogaça, 2, Minas Caixa",São Paulo,SP,Brasil,24726-419,-23.526662602426754,-46.68266334299086,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Minas Caixa
+Dr(a). Ágatha Costela,"Praia de Gonçalves, 9, Vila Batik",São Paulo,SP,Brasil,22260-649,-23.54915536215167,-46.70986734124969,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Batik
+Dr(a). Sr. Danilo Pinto,"Trecho Théo Sampaio, 462, Vila Batik",São Paulo,SP,Brasil,65880420,-23.548926581579614,-46.603306443840424,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Batik
+Dr(a). Raul Freitas,"Campo Teixeira, 7, Flamengo",São Paulo,SP,Brasil,85497701,-23.56402960278751,-46.653763508225786,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Flamengo
+Dr(a). Natália Macedo,"Rodovia da Cruz, 195, Vila São João Batista",São Paulo,SP,Brasil,89904-772,-23.57043849752815,-46.76443036730105,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila São João Batista
+Dr(a). Heloísa Castro,"Sítio Beatriz Novais, 10, Ipe",São Paulo,SP,Brasil,07057211,-23.588767317581727,-46.692690791689714,Cardiologia,"[""Diamante""]",Ipe
+Dr(a). Asafe da Cunha,"Vila de Casa Grande, 97, Vila Havaí",São Paulo,SP,Brasil,62066325,-23.530489641986534,-46.648648385696895,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Havaí
+Dr(a). Eloá Alves,"Esplanada Maria Júlia da Rosa, 13, Vila Sumaré",São Paulo,SP,Brasil,10292943,-23.52248729084327,-46.62861385308365,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Sumaré
+Dr(a). Maria Sophia Nogueira,"Vereda de Camargo, 47, Santa Tereza",São Paulo,SP,Brasil,43006198,-23.53604533581205,-46.73559256113607,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Santa Tereza
+Dr(a). Agatha Lopes,"Jardim Antony Monteiro, 91, Confisco",São Paulo,SP,Brasil,33080-415,-23.538745913570562,-46.642958979805215,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Confisco
+Dr(a). Maria Helena Moura,"Conjunto Julia Nogueira, 25, Ambrosina",São Paulo,SP,Brasil,13598-344,-23.538925157771658,-46.6101539669713,Dermatologia,"[""Ouro"",""Diamante""]",Ambrosina
+Dr(a). Davi Gomes,"Recanto Ana Luiza Viana, 69, Laranjeiras",São Paulo,SP,Brasil,70984-558,-23.599121567975942,-46.65862444452833,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Laranjeiras
+Dr(a). Sr. Luiz Henrique Vargas,"Vila de Costa, 40, Nossa Senhora Da Conceição",São Paulo,SP,Brasil,06902497,-23.519152512655847,-46.694544310750416,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nossa Senhora Da Conceição
+Dr(a). Dante da Mata,"Loteamento Luiza Guerra, 93, Vila Mantiqueira",São Paulo,SP,Brasil,48113700,-23.57653708705494,-46.778952583573734,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Mantiqueira
+Dr(a). Rafael Fernandes,"Rua Cunha, 565, Flamengo",São Paulo,SP,Brasil,35676-172,-23.54570183667306,-46.78805542963692,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Flamengo
+Dr(a). Isabella da Rocha,"Fazenda Mendonça, 1, Betânia",São Paulo,SP,Brasil,08407151,-23.50144486180504,-46.60047770212747,Dermatologia,"[""Diamante""]",Betânia
+Dr(a). Sr. Thiago Carvalho,"Condomínio Anthony Costa, 6, São Gonçalo",São Paulo,SP,Brasil,03021879,-23.582125623252082,-46.71651532754997,Ortopedia,"[""Ouro"",""Diamante""]",São Gonçalo
+Dr(a). Marcela Vieira,"Favela Yan Sales, 6, Santa Cruz",São Paulo,SP,Brasil,72589-399,-23.551480675591083,-46.76938185022169,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Cruz
+Dr(a). Ana Júlia Pires,"Aeroporto Vitor da Conceição, 64, Coração De Jesus",São Paulo,SP,Brasil,77830080,-23.582376739379285,-46.69982267658068,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Coração De Jesus
+Dr(a). Guilherme Teixeira,"Avenida Camargo, 71, Ventosa",São Paulo,SP,Brasil,60202453,-23.53763071749624,-46.71290704954482,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Ventosa
+Dr(a). Liz Marques,"Núcleo Marques, 93, Cdi Jatoba",São Paulo,SP,Brasil,75799385,-23.51686083303633,-46.790351440660345,Ortopedia,"[""Diamante""]",Cdi Jatoba
+Dr(a). Otto Lopes,"Aeroporto Ana Laura Ribeiro, 13, São João Batista",São Paulo,SP,Brasil,45291-070,-23.510980753437728,-46.773167917133264,Pediatria,"[""Ouro"",""Diamante""]",São João Batista
+Dr(a). Miguel Moura,"Rodovia Dias, 931, Alto Barroca",São Paulo,SP,Brasil,13229-918,-23.515033217877427,-46.64717586855807,Pediatria,"[""Diamante""]",Alto Barroca
+Dr(a). Joana da Mata,"Trecho Melo, 496, Vila Jardim Leblon",São Paulo,SP,Brasil,54294405,-23.532009579490545,-46.79125002465585,Cardiologia,"[""Diamante""]",Vila Jardim Leblon
+Dr(a). Arthur Marques,"Largo Pinto, 79, Luxemburgo",São Paulo,SP,Brasil,75228-826,-23.571154481297455,-46.64882214806465,Ortopedia,"[""Ouro"",""Diamante""]",Luxemburgo
+Dr(a). Daniela Garcia,"Vila Andrade, 4, Novo Aarão Reis",São Paulo,SP,Brasil,31899278,-23.542467516810618,-46.74924175742292,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Aarão Reis
+Dr(a). Luiz Otávio Alves,"Favela Luiz Otávio Correia, 6, Vitoria Da Conquista",São Paulo,SP,Brasil,12902-473,-23.540158363864176,-46.70397724795076,Pediatria,"[""Diamante""]",Vitoria Da Conquista
+Dr(a). Isis Nogueira,"Aeroporto Júlia Fogaça, 6, Jaqueline",São Paulo,SP,Brasil,99580386,-23.52709958971313,-46.68847513812724,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jaqueline
+Dr(a). Thomas Azevedo,"Rua de Cavalcanti, 46, Jardim São José",São Paulo,SP,Brasil,09013-005,-23.502289364493166,-46.72215448568577,Cardiologia,"[""Diamante""]",Jardim São José
+Dr(a). Rafael Jesus,"Vereda Matheus da Mata, 3, Piratininga",São Paulo,SP,Brasil,07083425,-23.551552110166316,-46.74358033070284,Dermatologia,"[""Diamante""]",Piratininga
+Dr(a). Dr. Rafael das Neves,"Largo Bárbara da Conceição, 37, São Damião",São Paulo,SP,Brasil,37009-947,-23.57359904687397,-46.71010495238833,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Damião
+Dr(a). José Pedro Melo,"Estação de Jesus, 60, Jardim Do Vale",São Paulo,SP,Brasil,66540-105,-23.588783803659354,-46.66609397551441,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Do Vale
+Dr(a). Arthur Miguel Abreu,"Vereda Murilo Cirino, 87, Estrela",São Paulo,SP,Brasil,72311-246,-23.526183384427277,-46.749614117199044,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Estrela
+Dr(a). Pedro Lucas Costela,"Parque de Cassiano, 39, Bairro Das Indústrias Ii",São Paulo,SP,Brasil,18748994,-23.542163614166647,-46.752926862213336,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Bairro Das Indústrias Ii
+Dr(a). Sra. Ana Beatriz Barros,"Viaduto Davi Barros, 19, Bom Jesus",São Paulo,SP,Brasil,12290219,-23.595069331446712,-46.61711709290707,Cardiologia,"[""Ouro"",""Diamante""]",Bom Jesus
+Dr(a). Calebe Moreira,"Ladeira de Farias, 11, Vila Santo Antônio Barroquinha",São Paulo,SP,Brasil,98487602,-23.577898169054162,-46.72787644948007,Dermatologia,"[""Ouro"",""Diamante""]",Vila Santo Antônio Barroquinha
+Dr(a). Camila Araújo,"Largo de Siqueira, 61, Petropolis",São Paulo,SP,Brasil,93769964,-23.52923958831031,-46.635692296900054,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Petropolis
+Dr(a). Gustavo Henrique Cavalcante,"Ladeira de Leão, 8, Vila Paris",São Paulo,SP,Brasil,98066251,-23.57313186293612,-46.758053308423555,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Paris
+Dr(a). Anthony Gabriel Lima,"Esplanada de da Cruz, 35, Taquaril",São Paulo,SP,Brasil,13562211,-23.596346750004646,-46.62145921300949,Pediatria,"[""Diamante""]",Taquaril
+Dr(a). Cauê Sales,"Morro Peixoto, 9, Monte Azul",São Paulo,SP,Brasil,05171-681,-23.589940203378802,-46.77390460173472,Clínico Geral,"[""Ouro"",""Diamante""]",Monte Azul
+Dr(a). Srta. Clarice Fogaça,"Vereda da Rosa, 4, Jardim Vitoria",São Paulo,SP,Brasil,15884644,-23.567604387690352,-46.68146381277247,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Jardim Vitoria
+Dr(a). Ana Laura Cavalcante,"Trevo Nogueira, 41, Ventosa",São Paulo,SP,Brasil,06515956,-23.58134600948814,-46.69837630166276,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Ventosa
+Dr(a). Liz Casa Grande,"Largo Oliveira, 58, Pedreira Padro Lopes",São Paulo,SP,Brasil,12528905,-23.501394197421437,-46.63837844208512,Dermatologia,"[""Ouro"",""Diamante""]",Pedreira Padro Lopes
+Dr(a). Yan Cunha,"Travessa Sophie Gomes, 24, Paraíso",São Paulo,SP,Brasil,68806281,-23.53531342562161,-46.643180449950925,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Paraíso
+Dr(a). Gabriela Nogueira,"Passarela Arthur Caldeira, 2, Liberdade",São Paulo,SP,Brasil,35407-600,-23.520820970095023,-46.77742087321816,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Liberdade
+Dr(a). Maria Vitória Mendes,"Estrada Pinto, 333, Pedreira Padro Lopes",São Paulo,SP,Brasil,90348-474,-23.539229860109394,-46.64199519124181,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Pedreira Padro Lopes
+Dr(a). Davi Lucca Camargo,"Jardim Antony Gomes, 13, Varzea Da Palma",São Paulo,SP,Brasil,36175274,-23.592427967511348,-46.75896686130619,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Varzea Da Palma
+Dr(a). Léo Camargo,"Recanto Camargo, 57, Tupi B",São Paulo,SP,Brasil,57838143,-23.58813147199604,-46.72220651893536,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Tupi B
+Dr(a). Pedro Henrique Marques,"Lago Anthony Gabriel Santos, 254, Alpes",São Paulo,SP,Brasil,70043164,-23.517691770360294,-46.68643828427847,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alpes
+Dr(a). Maria Laura da Mata,"Área de da Rosa, 51, Guarani",São Paulo,SP,Brasil,18425-010,-23.515585461931746,-46.716606024015306,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Guarani
+Dr(a). Maria Pimenta,"Favela Farias, 901, São Francisco",São Paulo,SP,Brasil,39563-033,-23.598648919657357,-46.76338201719166,Ortopedia,"[""Diamante""]",São Francisco
+Dr(a). Dr. Asafe Souza,"Chácara Vitor Hugo Ferreira, 61, Trevo",São Paulo,SP,Brasil,75892-537,-23.50735311336078,-46.79738709428054,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Trevo
+Dr(a). Luara Pimenta,"Área Peixoto, 719, Penha",São Paulo,SP,Brasil,95990050,-23.528736229235527,-46.60796101343124,Clínico Geral,"[""Ouro"",""Diamante""]",Penha
+Dr(a). Marcelo Vieira,"Viaduto Mathias Vargas, 1, Vila Santa Monica 2ª Seção",São Paulo,SP,Brasil,88688-401,-23.597843918099557,-46.63903561483216,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Santa Monica 2ª Seção
+Dr(a). Sr. Luan Cirino,"Lagoa Larissa Pacheco, 15, Novo Das Industrias",São Paulo,SP,Brasil,96084003,-23.517509300917517,-46.62665643174554,Ortopedia,"[""Ouro"",""Diamante""]",Novo Das Industrias
+Dr(a). Julia Rocha,"Vale Barros, 3, Grota",São Paulo,SP,Brasil,50479649,-23.52773664213237,-46.689111574214856,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Grota
+Dr(a). Pedro Lucas Carvalho,"Conjunto Júlia Fernandes, 8, Centro",São Paulo,SP,Brasil,74687766,-23.550852096707644,-46.74091414452706,Cardiologia,"[""Ouro"",""Diamante""]",Centro
+Dr(a). João Gabriel Barros,"Vila de Fonseca, 314, Miramar",São Paulo,SP,Brasil,47559295,-23.554682021719174,-46.67300100274246,Dermatologia,"[""Diamante""]",Miramar
+Dr(a). Ana Carolina Pimenta,"Jardim Sousa, 32, Canadá",São Paulo,SP,Brasil,01905258,-23.567989042004918,-46.61499968175659,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Canadá
+Dr(a). Benício Moreira,"Lago Monteiro, 46, Vila União",São Paulo,SP,Brasil,67770-816,-23.509626576172945,-46.64925138390204,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila União
+Dr(a). Mariane Moreira,"Distrito de Sampaio, 45, Cardoso",São Paulo,SP,Brasil,98545600,-23.51732401482231,-46.64711377804991,Cardiologia,"[""Diamante""]",Cardoso
+Dr(a). Clara Garcia,"Ladeira Laís Câmara, 1, Vila Paquetá",São Paulo,SP,Brasil,24753-939,-23.59711548874997,-46.64164705958263,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Paquetá
+Dr(a). Luiz Henrique Pastor,"Avenida de das Neves, 983, Vila Paris",São Paulo,SP,Brasil,08885828,-23.535307987061724,-46.6126794655235,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Paris
+Dr(a). Dr. Rafael Ramos,"Vereda de da Mata, 54, Bonfim",São Paulo,SP,Brasil,68883-269,-23.550131036098183,-46.7249786734237,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Bonfim
+Dr(a). Amanda Vargas,"Quadra de Vieira, 59, Lagoa",São Paulo,SP,Brasil,03608-335,-23.532950143602697,-46.775461167222744,Ortopedia,"[""Ouro"",""Diamante""]",Lagoa
+Dr(a). Júlia Moraes,"Lagoa Porto, 81, Sion",São Paulo,SP,Brasil,18982-847,-23.50581090145325,-46.62103124204781,Pediatria,"[""Ouro"",""Diamante""]",Sion
+Dr(a). Pietra Guerra,"Praia Ana Sophia Nunes, 21, Camargos",São Paulo,SP,Brasil,54652-975,-23.57788879568923,-46.648637829685434,Dermatologia,"[""Diamante""]",Camargos
+Dr(a). Sr. Dom Fogaça,"Travessa Vieira, 72, Vila Sumaré",São Paulo,SP,Brasil,17224-946,-23.53924552649049,-46.6317494651417,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Sumaré
+Dr(a). Laura Pimenta,"Colônia Casa Grande, 374, Bom Jesus",São Paulo,SP,Brasil,33652900,-23.585694519520917,-46.66128737484362,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Bom Jesus
+Dr(a). Antônio da Mota,"Vale Mendes, 29, Vila De Sá",São Paulo,SP,Brasil,06863781,-23.510474921600522,-46.79980534629809,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila De Sá
+Dr(a). Joana Novais,"Morro Samuel Gonçalves, 78, Santa Tereza",São Paulo,SP,Brasil,62758847,-23.53211958133022,-46.75734214007251,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Tereza
+Dr(a). Dra. Maysa das Neves,"Trecho Bruna Ferreira, 11, Nova Gameleira",São Paulo,SP,Brasil,69015-726,-23.52732987540223,-46.748453082297786,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Nova Gameleira
+Dr(a). Ana Vitória Souza,"Viaduto Câmara, 57, Jonas Veiga",São Paulo,SP,Brasil,11310-812,-23.58119022723414,-46.78039352541395,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jonas Veiga
+Dr(a). Kaique Camargo,"Favela Fernandes, 78, Boa Vista",São Paulo,SP,Brasil,03111213,-23.53244442099343,-46.73225890236433,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa Vista
+Dr(a). Gustavo Ribeiro,"Morro Murilo Silva, 75, Campo Alegre",São Paulo,SP,Brasil,99792-994,-23.534409170770342,-46.66119072051154,Dermatologia,"[""Diamante""]",Campo Alegre
+Dr(a). Maitê Cardoso,"Residencial Mendonça, 8, Diamante",São Paulo,SP,Brasil,30593751,-23.5240048511882,-46.72757171488031,Clínico Geral,"[""Ouro"",""Diamante""]",Diamante
+Dr(a). Olivia da Paz,"Colônia Lívia Sales, 71, Califórnia",São Paulo,SP,Brasil,75083-137,-23.50573130071971,-46.644875763624,Dermatologia,"[""Ouro"",""Diamante""]",Califórnia
+Dr(a). Gabrielly Novaes,"Fazenda de Fernandes, 65, Cônego Pinheiro 2ª Seção",São Paulo,SP,Brasil,17800131,-23.581221918021335,-46.77861629960117,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Cônego Pinheiro 2ª Seção
+Dr(a). Raul Santos,"Parque de Cunha, 70, São Gabriel",São Paulo,SP,Brasil,02543-015,-23.542328394422487,-46.789970561575025,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Gabriel
+Dr(a). Isabel Dias,"Aeroporto Luiz Miguel das Neves, 17, Cônego Pinheiro 1ª Seção",São Paulo,SP,Brasil,34969583,-23.577811520672714,-46.608123285914274,Dermatologia,"[""Diamante""]",Cônego Pinheiro 1ª Seção
+Dr(a). Sr. Gustavo Henrique Cirino,"Sítio Souza, 87, Graça",São Paulo,SP,Brasil,19998249,-23.5897723176907,-46.75002897845886,Cardiologia,"[""Diamante""]",Graça
+Dr(a). Fernando da Conceição,"Morro Thiago Macedo, 804, Oeste",São Paulo,SP,Brasil,55735-569,-23.580265702212913,-46.712612082658545,Ortopedia,"[""Ouro"",""Diamante""]",Oeste
+Dr(a). Dra. Heloísa Guerra,"Trecho Léo Barbosa, 56, Dom Silverio",São Paulo,SP,Brasil,26757418,-23.529131341626574,-46.68524110944461,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Dom Silverio
+Dr(a). Apollo Fogaça,"Praça de Câmara, 82, Parque São José",São Paulo,SP,Brasil,52890565,-23.595671020895118,-46.621526478025935,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Parque São José
+Dr(a). Sabrina Silveira,"Sítio de Montenegro, 40, Paquetá",São Paulo,SP,Brasil,30987296,-23.51955991334762,-46.60573418218115,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Paquetá
+Dr(a). João Miguel Moreira,"Setor de Cunha, 12, Vila Nova Gameleira 3ª Seção",São Paulo,SP,Brasil,89420987,-23.52137836921203,-46.70321232109795,Cardiologia,"[""Ouro"",""Diamante""]",Vila Nova Gameleira 3ª Seção
+Dr(a). Lavínia Rodrigues,"Alameda de Carvalho, 1, Lajedo",São Paulo,SP,Brasil,09628-610,-23.510989947196492,-46.79585667100378,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Lajedo
+Dr(a). José Nascimento,"Praia de Novais, 312, Vila São Dimas",São Paulo,SP,Brasil,13298547,-23.521591733770144,-46.6995389418949,Dermatologia,"[""Diamante""]",Vila São Dimas
+Dr(a). Srta. Anna Liz Farias,"Estrada Jesus, 56, Vila Real 1ª Seção",São Paulo,SP,Brasil,45534510,-23.50087704510057,-46.61168890126101,Pediatria,"[""Diamante""]",Vila Real 1ª Seção
+Dr(a). Ravi Lucca Fogaça,"Viela de Cardoso, 47, Conjunto Novo Dom Bosco",São Paulo,SP,Brasil,88779-391,-23.59631537307914,-46.75037260641729,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Novo Dom Bosco
+Dr(a). Luana da Mota,"Trevo Melina Viana, 95, Vila União",São Paulo,SP,Brasil,14793-968,-23.576122731078602,-46.78483880324406,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila União
+Dr(a). Sabrina Ribeiro,"Estação de Abreu, 39, Savassi",São Paulo,SP,Brasil,69840-152,-23.592928386841262,-46.61015673819277,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Savassi
+Dr(a). Yuri Gonçalves,"Parque Vitor Gabriel Barros, 1, Coração Eucarístico",São Paulo,SP,Brasil,01338887,-23.51857911455001,-46.68750714753791,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Coração Eucarístico
+Dr(a). Hellena Vieira,"Via Aragão, 77, Vila Da Amizade",São Paulo,SP,Brasil,81515-371,-23.52057611513418,-46.633102679209124,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Da Amizade
+Dr(a). Sr. Isaque Câmara,"Distrito de Lima, 305, Túnel De Ibirité",São Paulo,SP,Brasil,17274172,-23.502010852195372,-46.693546502776265,Pediatria,"[""Ouro"",""Diamante""]",Túnel De Ibirité
+Dr(a). Mateus Teixeira,"Travessa de Barros, 56, Vila Real 1ª Seção",São Paulo,SP,Brasil,82931-004,-23.592790500141856,-46.69410137793444,Pediatria,"[""Diamante""]",Vila Real 1ª Seção
+Dr(a). Maitê Castro,"Viela de Teixeira, 1, Vila Paris",São Paulo,SP,Brasil,73789-356,-23.558846903376608,-46.68589475823676,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Paris
+Dr(a). Danilo Santos,"Setor Stella Sampaio, 26, Vila Mantiqueira",São Paulo,SP,Brasil,68921936,-23.503540035627374,-46.64339878664452,Pediatria,"[""Diamante""]",Vila Mantiqueira
+Dr(a). Thiago Fogaça,"Viela de Souza, 92, Penha",São Paulo,SP,Brasil,34224-512,-23.518385490798565,-46.77927041434745,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Penha
+Dr(a). Davi Lucca Alves,"Favela Luiz Gustavo Martins, 7, Serra Do Curral",São Paulo,SP,Brasil,86135-622,-23.590734879279125,-46.63377671048862,Ortopedia,"[""Diamante""]",Serra Do Curral
+Dr(a). Davi Luiz Dias,"Lago Barros, 491, Barro Preto",São Paulo,SP,Brasil,49205-047,-23.51673441639618,-46.750284429531156,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Barro Preto
+Dr(a). Ana Clara Cardoso,"Ladeira Ana Beatriz Vasconcelos, 95, Nova Cintra",São Paulo,SP,Brasil,92931-030,-23.533577587074774,-46.789448106724045,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Nova Cintra
+Dr(a). Theo Lima,"Estrada Mendes, 70, Liberdade",São Paulo,SP,Brasil,95671-113,-23.577260207472513,-46.68413161249493,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Liberdade
+Dr(a). Davi Luiz da Cruz,"Aeroporto Henrique Silva, 29, Saudade",São Paulo,SP,Brasil,36337303,-23.540116382967096,-46.765735932218135,Dermatologia,"[""Ouro"",""Diamante""]",Saudade
+Dr(a). Davi Miguel Sá,"Trevo Ana Vitória da Cunha, 74, Ventosa",São Paulo,SP,Brasil,06208561,-23.522673014018963,-46.782290344162085,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Ventosa
+Dr(a). Gustavo Henrique Sousa,"Praia Mariana Cavalcante, 91, São Bernardo",São Paulo,SP,Brasil,60665-556,-23.59592950746328,-46.68988088954434,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Bernardo
+Dr(a). Lara Pires,"Rua de Ribeiro, 6, Santa Isabel",São Paulo,SP,Brasil,56518-881,-23.51917004346879,-46.78706970922136,Cardiologia,"[""Ouro"",""Diamante""]",Santa Isabel
+Dr(a). Eduardo Vieira,"Estação de Ribeiro, 81, Nova Granada",São Paulo,SP,Brasil,13141-443,-23.570874928463333,-46.6945979307577,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Granada
+Dr(a). Anna Liz Caldeira,"Colônia Mateus Pereira, 188, Vitoria",São Paulo,SP,Brasil,92409-748,-23.530402812970344,-46.77523662518232,Ortopedia,"[""Diamante""]",Vitoria
+Dr(a). Mathias da Rocha,"Trecho Dias, 52, Vila Cemig",São Paulo,SP,Brasil,14134359,-23.503634860938092,-46.618527747110306,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Cemig
+Dr(a). Letícia Pimenta,"Viaduto Anna Liz Lima, 92, Vila Copacabana",São Paulo,SP,Brasil,39188-775,-23.544297434550344,-46.717277549070126,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Copacabana
+Dr(a). Maria Clara Castro,"Lago de Siqueira, 74, Andiroba",São Paulo,SP,Brasil,61661037,-23.517230438280542,-46.64270536097133,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Andiroba
+Dr(a). Juan Duarte,"Conjunto Breno Rios, 8, João Pinheiro",São Paulo,SP,Brasil,84670-090,-23.537218642828947,-46.66504071028562,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",João Pinheiro
+Dr(a). Maria Júlia Albuquerque,"Setor de Pacheco, 1, Fazendinha",São Paulo,SP,Brasil,55327708,-23.597405238867264,-46.63863170646688,Clínico Geral,"[""Ouro"",""Diamante""]",Fazendinha
+Dr(a). Heloisa Ribeiro,"Avenida Campos, 56, Ambrosina",São Paulo,SP,Brasil,00482-168,-23.55547030280319,-46.60217479679852,Ortopedia,"[""Diamante""]",Ambrosina
+Dr(a). Vicente Barbosa,"Passarela Sousa, 68, Eymard",São Paulo,SP,Brasil,56334-146,-23.562357447865658,-46.63004820503776,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Eymard
+Dr(a). Maria Alice Cavalcante,"Feira Sales, 27, Fernão Dias",São Paulo,SP,Brasil,22924456,-23.505435751227914,-46.747891731392,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Fernão Dias
+Dr(a). Maria Julia Sampaio,"Chácara Ana Júlia Gomes, 90, Vila São Dimas",São Paulo,SP,Brasil,21573-277,-23.553171225267356,-46.77690311675014,Cardiologia,"[""Ouro"",""Diamante""]",Vila São Dimas
+Dr(a). Davi Lucca Albuquerque,"Conjunto Cassiano, 35, Vila São Paulo",São Paulo,SP,Brasil,41055930,-23.535777060714256,-46.64992973741844,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila São Paulo
+Dr(a). Rodrigo Leão,"Largo de Pires, 48, Alto Barroca",São Paulo,SP,Brasil,75873514,-23.53390106885356,-46.7083337069125,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alto Barroca
+Dr(a). Rafaela Nogueira,"Rodovia de da Costa, 44, Santa Efigênia",São Paulo,SP,Brasil,94128990,-23.562378680821258,-46.752447113091925,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Santa Efigênia
+Dr(a). Isabelly Nogueira,"Lagoa de Cunha, 1, Maravilha",São Paulo,SP,Brasil,27732-939,-23.55800112873066,-46.7373991649295,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Maravilha
+Dr(a). Agatha Leão,"Loteamento Anthony Gabriel Abreu, 93, Taquaril",São Paulo,SP,Brasil,60923765,-23.582945352415088,-46.61751014191262,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Taquaril
+Dr(a). Sr. Yan Rezende,"Praia Silva, 38, Vila Da Ária",São Paulo,SP,Brasil,18985-137,-23.55195567859002,-46.62972928994183,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Da Ária
+Dr(a). Srta. Maria Luiza Ferreira,"Travessa Costa, 40, Capitão Eduardo",São Paulo,SP,Brasil,07027312,-23.570798617392168,-46.66331201088269,Ortopedia,"[""Diamante""]",Capitão Eduardo
+Dr(a). Ana Laura Garcia,"Rodovia de da Conceição, 954, Mineirão",São Paulo,SP,Brasil,99802-655,-23.521385479455173,-46.760866770358135,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Mineirão
+Dr(a). Nathan Novais,"Alameda de da Paz, 1, Miramar",São Paulo,SP,Brasil,03424-244,-23.575362352415052,-46.61229856749991,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Miramar
+Dr(a). Beatriz Sampaio,"Condomínio Sousa, 49, Santo Antônio",São Paulo,SP,Brasil,80056-909,-23.51882898654108,-46.63094856045054,Cardiologia,"[""Ouro"",""Diamante""]",Santo Antônio
+Dr(a). Valentim Teixeira,"Pátio de Duarte, 867, Capitão Eduardo",São Paulo,SP,Brasil,53588419,-23.528008452538426,-46.77810399015674,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Capitão Eduardo
+Dr(a). Yasmin Abreu,"Trecho Heitor Borges, 272, Alpes",São Paulo,SP,Brasil,25825920,-23.530999210521504,-46.61321318688488,Dermatologia,"[""Ouro"",""Diamante""]",Alpes
+Dr(a). Yan Porto,"Trecho Otávio Nunes, 2, Heliopolis",São Paulo,SP,Brasil,95521-514,-23.502748980120813,-46.63084199796905,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Heliopolis
+Dr(a). Lorenzo Moraes,"Lago de Rezende, 99, Vila Santo Antônio Barroquinha",São Paulo,SP,Brasil,18705991,-23.562790219846207,-46.723244413946766,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vila Santo Antônio Barroquinha
+Dr(a). Hellena Rocha,"Pátio Samuel Freitas, 64, Conjunto Providencia",São Paulo,SP,Brasil,65992-124,-23.57999161769601,-46.69224786657942,Ortopedia,"[""Ouro"",""Diamante""]",Conjunto Providencia
+Dr(a). Dr. Enzo Gabriel Sampaio,"Praça Isabella Rodrigues, 27, São Gabriel",São Paulo,SP,Brasil,05578-582,-23.505668028202155,-46.78643456197446,Pediatria,"[""Ouro"",""Diamante""]",São Gabriel
+Dr(a). Joana Camargo,"Favela Gael Henrique da Rocha, 66, Piratininga",São Paulo,SP,Brasil,73590111,-23.548235471435675,-46.71350369273115,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Piratininga
+Dr(a). Melina Moreira,"Viaduto Bruna Guerra, 40, Grajaú",São Paulo,SP,Brasil,83716-730,-23.553887376034,-46.69330301057969,Dermatologia,"[""Diamante""]",Grajaú
+Dr(a). Jade Rocha,"Aeroporto Sá, 284, Nossa Senhora Do Rosário",São Paulo,SP,Brasil,28955-340,-23.58830496208548,-46.67947735538168,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Nossa Senhora Do Rosário
+Dr(a). Srta. Olívia Novais,"Vila Lucas Gabriel Macedo, 708, Alta Tensão 1ª Seção",São Paulo,SP,Brasil,57024167,-23.546056609166055,-46.73603414748918,Clínico Geral,"[""Ouro"",""Diamante""]",Alta Tensão 1ª Seção
+Dr(a). Dr. Cauê Nascimento,"Pátio Cassiano, 31, Funcionários",São Paulo,SP,Brasil,94628024,-23.528479101606123,-46.714987089227385,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Funcionários
+Dr(a). Dante Machado,"Residencial Alexandre Machado, 63, Flavio De Oliveira",São Paulo,SP,Brasil,60379109,-23.54085893590493,-46.716928892298945,Ortopedia,"[""Diamante""]",Flavio De Oliveira
+Dr(a). Asafe Aparecida,"Vale Allana Rocha, 20, Pindorama",São Paulo,SP,Brasil,92988523,-23.51815403374817,-46.750714491412815,Pediatria,"[""Diamante""]",Pindorama
+Dr(a). Camila Moraes,"Setor Giovanna da Paz, 81, Vila Maloca",São Paulo,SP,Brasil,78978595,-23.52059410472348,-46.711362587924555,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Maloca
+Dr(a). Lucca Vasconcelos,"Ladeira Vargas, 68, Serrano",São Paulo,SP,Brasil,16779-769,-23.55392082309459,-46.65704101165119,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Serrano
+Dr(a). Davi Luiz Montenegro,"Praça de Sá, 23, Cardoso",São Paulo,SP,Brasil,66064043,-23.559192818503753,-46.612257999631574,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Cardoso
+Dr(a). Anthony Monteiro,"Chácara de Pacheco, 90, Cidade Jardim Taquaril",São Paulo,SP,Brasil,94459533,-23.577022036681182,-46.745038097955884,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Cidade Jardim Taquaril
+Dr(a). Eloá Souza,"Viela da Costa, 76, Nova Vista",São Paulo,SP,Brasil,49961162,-23.597146318625185,-46.600244887373854,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Vista
+Dr(a). Carlos Eduardo Teixeira,"Rodovia Carvalho, 61, Delta",São Paulo,SP,Brasil,40850-700,-23.595970777472402,-46.614369271090986,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Delta
+Dr(a). Dr. Apollo Pires,"Trecho de Souza, 451, Vila Suzana Primeira Seção",São Paulo,SP,Brasil,50424-144,-23.596771004383896,-46.653334802675325,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Suzana Primeira Seção
+Dr(a). Bryan Vieira,"Fazenda Yasmin Leão, 7, Monte Azul",São Paulo,SP,Brasil,67253-298,-23.594710748548717,-46.71921064651424,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Monte Azul
+Dr(a). Cecília Fogaça,"Aeroporto de Pires, 84, Conjunto Califórnia I",São Paulo,SP,Brasil,03464-053,-23.51851456736444,-46.714116732575654,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Califórnia I
+Dr(a). Ana Clara Cavalcante,"Conjunto Sá, 3, Pedreira Padro Lopes",São Paulo,SP,Brasil,17185-932,-23.53029468291475,-46.71853502084366,Cardiologia,"[""Ouro"",""Diamante""]",Pedreira Padro Lopes
+Dr(a). Jade Garcia,"Residencial Carvalho, 3, Serra Do Curral",São Paulo,SP,Brasil,50490103,-23.52633356756974,-46.76911970272626,Dermatologia,"[""Diamante""]",Serra Do Curral
+Dr(a). Ana Cecília Montenegro,"Chácara Ana Laura Costa, 356, Santa Monica",São Paulo,SP,Brasil,12190997,-23.589832528510602,-46.74967997973573,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Monica
+Dr(a). Yasmin Rodrigues,"Viela Mendes, 597, Madre Gertrudes",São Paulo,SP,Brasil,81677163,-23.599335480480246,-46.7144440709592,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Madre Gertrudes
+Dr(a). Brayan Rodrigues,"Aeroporto de da Rocha, 45, Mineirão",São Paulo,SP,Brasil,08754-780,-23.537789220280434,-46.63381179205159,Dermatologia,"[""Ouro"",""Diamante""]",Mineirão
+Dr(a). Dom da Mata,"Passarela Gustavo Garcia, 45, Vila Madre Gertrudes 4ª Seção",São Paulo,SP,Brasil,97739-314,-23.52883823226942,-46.795135039383766,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Madre Gertrudes 4ª Seção
+Dr(a). Dr. Bruno Fogaça,"Alameda de Nunes, 69, Flavio Marques Lisboa",São Paulo,SP,Brasil,05157-822,-23.537903912593727,-46.76616900592014,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Flavio Marques Lisboa
+Dr(a). José Oliveira,"Ladeira de da Mota, 82, Vila Nova Cachoeirinha 1ª Seção",São Paulo,SP,Brasil,80624583,-23.58167504038605,-46.77699258188209,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 1ª Seção
+Dr(a). Yago da Mota,"Campo Isis das Neves, 482, Vila Esplanada",São Paulo,SP,Brasil,88139392,-23.5155558500995,-46.7488972545098,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Esplanada
+Dr(a). Leandro Nascimento,"Vila Albuquerque, 55, Vila Nova",São Paulo,SP,Brasil,22836868,-23.57785752556124,-46.760442807834195,Ortopedia,"[""Ouro"",""Diamante""]",Vila Nova
+Dr(a). Marcela Brito,"Trecho Rodrigues, 25, Acaba Mundo",São Paulo,SP,Brasil,30725-161,-23.502249242743524,-46.63015918091955,Cardiologia,"[""Ouro"",""Diamante""]",Acaba Mundo
+Dr(a). João Mendes,"Trevo Gabriel Sousa, 1, Vila Real 2ª Seção",São Paulo,SP,Brasil,99538310,-23.505735558298653,-46.76632427799521,Cardiologia,"[""Ouro"",""Diamante""]",Vila Real 2ª Seção
+Dr(a). Maitê Melo,"Esplanada de Lopes, 5, Granja De Freitas",São Paulo,SP,Brasil,46510010,-23.53331611094434,-46.771942490232824,Ortopedia,"[""Ouro"",""Diamante""]",Granja De Freitas
+Dr(a). Hellena Abreu,"Largo de Cirino, 28, Acaba Mundo",São Paulo,SP,Brasil,58954-113,-23.552597251574017,-46.728832272612536,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Acaba Mundo
+Dr(a). Liam Costa,"Condomínio Ribeiro, 4, Granja De Freitas",São Paulo,SP,Brasil,49806-821,-23.5153108306085,-46.673024237272735,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Granja De Freitas
+Dr(a). Pietra Rocha,"Feira de Castro, 25, Caiçara - Adelaide",São Paulo,SP,Brasil,01392-071,-23.571755311367163,-46.637397220521336,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Caiçara - Adelaide
+Dr(a). Isabella da Cunha,"Lago Melo, 4, Vitoria Da Conquista",São Paulo,SP,Brasil,15506-148,-23.59420663007465,-46.75929913428068,Ortopedia,"[""Diamante""]",Vitoria Da Conquista
+Dr(a). Luiz Felipe da Cruz,"Estação de Mendonça, 41, Piraja",São Paulo,SP,Brasil,46188-555,-23.533866835887657,-46.79654429998775,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Piraja
+Dr(a). Ana Julia Gomes,"Trevo de Sampaio, 761, João Pinheiro",São Paulo,SP,Brasil,68326-777,-23.53844143820778,-46.61318467630801,Dermatologia,"[""Diamante""]",João Pinheiro
+Dr(a). Diogo Vasconcelos,"Trecho de Camargo, 34, Vila Canto Do Sabiá",São Paulo,SP,Brasil,85902-228,-23.531313575076908,-46.711821281940466,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Canto Do Sabiá
+Dr(a). Lívia Silva,"Campo Santos, 2, Dom Cabral",São Paulo,SP,Brasil,87596334,-23.541944567105592,-46.62397492969695,Ortopedia,"[""Diamante""]",Dom Cabral
+Dr(a). Benício Barros,"Campo Bárbara Vieira, 26, Camponesa 2ª Seção",São Paulo,SP,Brasil,42784-521,-23.541710730279522,-46.67654070040405,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camponesa 2ª Seção
+Dr(a). Dom Andrade,"Praia da Luz, 6, Boa Esperança",São Paulo,SP,Brasil,10249-820,-23.55400111888996,-46.6198573864972,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa Esperança
+Dr(a). Valentim Caldeira,"Campo Peixoto, 6, Ouro Preto",São Paulo,SP,Brasil,20107500,-23.596531646051215,-46.7636189076591,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Ouro Preto
+Dr(a). Maria Laura Pires,"Condomínio das Neves, 18, São Luiz",São Paulo,SP,Brasil,46029-641,-23.52423640076767,-46.67295855407063,Pediatria,"[""Diamante""]",São Luiz
+Dr(a). Dr. Léo Silva,"Praia de Nascimento, 66, Céu Azul",São Paulo,SP,Brasil,17237-477,-23.503702018712566,-46.72289889868109,Clínico Geral,"[""Diamante""]",Céu Azul
+Dr(a). Gabriel Freitas,"Favela de das Neves, 518, Fernão Dias",São Paulo,SP,Brasil,62596355,-23.540539688497866,-46.61356233034651,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Fernão Dias
+Dr(a). Isaac Sá,"Feira Barbosa, 43, Maria Tereza",São Paulo,SP,Brasil,73840104,-23.554850563481203,-46.66234677430707,Dermatologia,"[""Ouro"",""Diamante""]",Maria Tereza
+Dr(a). Sr. Gael Ramos,"Morro Lima, 25, Vila Tirol",São Paulo,SP,Brasil,48661880,-23.599374339645472,-46.65794368452587,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Tirol
+Dr(a). Srta. Maria Helena Guerra,"Residencial de Garcia, 46, Vila Santo Antônio",São Paulo,SP,Brasil,97068293,-23.581838513135242,-46.66015938737319,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Santo Antônio
+Dr(a). Ayla Correia,"Favela Fogaça, 89, Zilah Sposito",São Paulo,SP,Brasil,19736544,-23.527448579812013,-46.76293248261663,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Zilah Sposito
+Dr(a). Lívia Garcia,"Parque Nunes, 85, Vila Aeroporto",São Paulo,SP,Brasil,72513982,-23.554288330570216,-46.77390736907937,Clínico Geral,"[""Diamante""]",Vila Aeroporto
+Dr(a). Diego Silva,"Recanto Luiz Miguel Aparecida, 584, Santa Maria",São Paulo,SP,Brasil,17718-154,-23.552701233388404,-46.62653903030643,Clínico Geral,"[""Ouro"",""Diamante""]",Santa Maria
+Dr(a). Daniel Porto,"Trecho Lara Montenegro, 27, Aguas Claras",São Paulo,SP,Brasil,22438906,-23.585826006772237,-46.66222221931824,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aguas Claras
+Dr(a). Dr. Antony Siqueira,"Distrito Gomes, 64, Itatiaia",São Paulo,SP,Brasil,52259856,-23.57256729858537,-46.67103751755458,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Itatiaia
+Dr(a). Mariah Dias,"Trevo Correia, 47, São Damião",São Paulo,SP,Brasil,02730-422,-23.53648153277809,-46.732942357415915,Dermatologia,"[""Diamante""]",São Damião
+Dr(a). Sr. Erick Marques,"Residencial Bianca Cassiano, 1, Buritis",São Paulo,SP,Brasil,03381177,-23.527629795018957,-46.724163235978644,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Buritis
+Dr(a). José Fogaça,"Favela de Novaes, 387, Santa Amelia",São Paulo,SP,Brasil,91966922,-23.548761743814214,-46.74546509959905,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Amelia
+Dr(a). Dra. Sabrina Silva,"Feira Ana Julia Pimenta, 810, Vila Trinta E Um De Março",São Paulo,SP,Brasil,96830997,-23.502397327312806,-46.60915701026421,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Trinta E Um De Março
+Dr(a). Caio Rocha,"Alameda de Cirino, 813, Vila Inestan",São Paulo,SP,Brasil,65961-380,-23.578862130897367,-46.765490079120816,Dermatologia,"[""Diamante""]",Vila Inestan
+Dr(a). Davi Luiz Gomes,"Aeroporto Moura, 71, Vila Batik",São Paulo,SP,Brasil,11554-215,-23.56403027731792,-46.76728585013135,Clínico Geral,"[""Ouro"",""Diamante""]",Vila Batik
+Dr(a). Júlia da Luz,"Núcleo Isabelly Fogaça, 14, Dona Clara",São Paulo,SP,Brasil,99636254,-23.52038942721153,-46.66451605977754,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Dona Clara
+Dr(a). José Cunha,"Ladeira Moreira, 26, Trevo",São Paulo,SP,Brasil,82303383,-23.516991618833092,-46.795143923548196,Dermatologia,"[""Diamante""]",Trevo
+Dr(a). Davi Luiz Ribeiro,"Rodovia Rael Rocha, 20, Camponesa 1ª Seção",São Paulo,SP,Brasil,25660-918,-23.58935834411506,-46.779393186851394,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camponesa 1ª Seção
+Dr(a). Bernardo da Luz,"Via de Rios, 994, São Jorge 3ª Seção",São Paulo,SP,Brasil,84402747,-23.51754355990678,-46.606652631394184,Ortopedia,"[""Ouro"",""Diamante""]",São Jorge 3ª Seção
+Dr(a). Sarah das Neves,"Fazenda Ana Laura Albuquerque, 5, Vila Antena",São Paulo,SP,Brasil,12193100,-23.54496976953496,-46.66661526061829,Ortopedia,"[""Diamante""]",Vila Antena
+Dr(a). Ana Lívia Rodrigues,"Residencial de Nogueira, 5, Engenho Nogueira",São Paulo,SP,Brasil,03071741,-23.51745022988789,-46.61008243042479,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Engenho Nogueira
+Dr(a). Lucas Gabriel Abreu,"Lago de Ribeiro, 82, Itaipu",São Paulo,SP,Brasil,22560-053,-23.55858011101426,-46.68013458753079,Cardiologia,"[""Diamante""]",Itaipu
+Dr(a). Manuella Machado,"Campo de da Cruz, 3, Nova Floresta",São Paulo,SP,Brasil,87431-214,-23.527838412407583,-46.737200376097064,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Floresta
+Dr(a). Melissa da Mota,"Quadra Correia, 154, Cidade Jardim Taquaril",São Paulo,SP,Brasil,86797-346,-23.55719698067384,-46.77049496135609,Cardiologia,"[""Diamante""]",Cidade Jardim Taquaril
+Dr(a). Dr. Davi Lucas Teixeira,"Jardim Fonseca, 15, Miramar",São Paulo,SP,Brasil,88137-668,-23.525826688028996,-46.64896432903737,Dermatologia,"[""Diamante""]",Miramar
+Dr(a). Dr. Igor Rezende,"Avenida Leão, 75, Vista Do Sol",São Paulo,SP,Brasil,48430-435,-23.527651128144015,-46.65784495224597,Cardiologia,"[""Ouro"",""Diamante""]",Vista Do Sol
+Dr(a). Emanuella Ribeiro,"Vale Souza, 76, Conjunto Floramar",São Paulo,SP,Brasil,74393-268,-23.560609924906498,-46.67258035405746,Cardiologia,"[""Diamante""]",Conjunto Floramar
+Dr(a). Theo Borges,"Praia Barbosa, 92, Corumbiara",São Paulo,SP,Brasil,01803-563,-23.59151447743297,-46.62740994787846,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Corumbiara
+Dr(a). Lorena Castro,"Favela Castro, 79, Vila Cemig",São Paulo,SP,Brasil,62928348,-23.571331130017985,-46.60822918369638,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Cemig
+Dr(a). Natália Porto,"Parque Maria Luiza Rios, 79, Lorena",São Paulo,SP,Brasil,76310-859,-23.592689916483923,-46.76916688206943,Pediatria,"[""Ouro"",""Diamante""]",Lorena
+Dr(a). Emanuel Pacheco,"Esplanada Maysa Pastor, 978, Castelo",São Paulo,SP,Brasil,07694-937,-23.599274826763367,-46.66179774639225,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Castelo
+Dr(a). Dr. Pedro Henrique Casa Grande,"Loteamento Vieira, 15, Laranjeiras",São Paulo,SP,Brasil,39958215,-23.57717546900071,-46.647710242353114,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Laranjeiras
+Dr(a). Dr. Caleb Barbosa,"Quadra Pires, 36, Nova America",São Paulo,SP,Brasil,66975-011,-23.538069738820976,-46.62837618486513,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova America
+Dr(a). Sophie Lima,"Estação de Peixoto, 28, Lagoinha Leblon",São Paulo,SP,Brasil,43879-878,-23.57183868164421,-46.628687489326836,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Lagoinha Leblon
+Dr(a). Sra. Elisa Aparecida,"Alameda de Martins, 3, Bonfim",São Paulo,SP,Brasil,83619-937,-23.572658962434808,-46.78807096314347,Pediatria,"[""Diamante""]",Bonfim
+Dr(a). Agatha Andrade,"Jardim de Gonçalves, 591, Carmo",São Paulo,SP,Brasil,31554965,-23.506139124846662,-46.716556719784414,Cardiologia,"[""Diamante""]",Carmo
+Dr(a). Arthur Miguel Dias,"Rodovia Sales, 892, Miramar",São Paulo,SP,Brasil,72138373,-23.521624342653105,-46.63786500978236,Cardiologia,"[""Ouro"",""Diamante""]",Miramar
+Dr(a). Isabela Correia,"Campo Ramos, 28, Novo Ouro Preto",São Paulo,SP,Brasil,28613271,-23.51246862322339,-46.61820916173664,Dermatologia,"[""Diamante""]",Novo Ouro Preto
+Dr(a). Eloá Fogaça,"Lago Maria Eduarda Silveira, 79, Ermelinda",São Paulo,SP,Brasil,54802021,-23.508567369796566,-46.71544778627712,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Ermelinda
+Dr(a). Bruna Machado,"Viela Lorena Gonçalves, 894, São Salvador",São Paulo,SP,Brasil,35767424,-23.50129958573649,-46.60927724639073,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Salvador
+Dr(a). Dra. Catarina Peixoto,"Colônia Yan Vasconcelos, 68, Andiroba",São Paulo,SP,Brasil,77934-889,-23.590438886210865,-46.7317830320831,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Andiroba
+Dr(a). Caleb Montenegro,"Quadra Henry Moreira, 8, Vila Pinho",São Paulo,SP,Brasil,93241659,-23.512299402108813,-46.6940157567336,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Pinho
+Dr(a). Liz Nogueira,"Vila Julia Costela, 275, Vila Petropolis",São Paulo,SP,Brasil,69981-649,-23.56619478406264,-46.77526571616836,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Petropolis
+Dr(a). Enrico Ferreira,"Colônia Kevin Farias, 2, Jardim São José",São Paulo,SP,Brasil,60048524,-23.518022998144936,-46.78286824544249,Ortopedia,"[""Diamante""]",Jardim São José
+Dr(a). Cauê Moraes,"Morro da Paz, 45, Gameleira",São Paulo,SP,Brasil,95588-696,-23.566880443842205,-46.628210578384966,Clínico Geral,"[""Diamante""]",Gameleira
+Dr(a). João Gabriel Porto,"Loteamento Yan da Conceição, 10, Ipiranga",São Paulo,SP,Brasil,22318843,-23.536482993403364,-46.687374634593816,Cardiologia,"[""Diamante""]",Ipiranga
+Dr(a). Francisco Souza,"Chácara da Conceição, 76, Vila Boa Vista",São Paulo,SP,Brasil,77042078,-23.50128093225582,-46.63079347399763,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Boa Vista
+Dr(a). Evelyn Novaes,"Sítio Heloísa Novaes, 73, Ouro Preto",São Paulo,SP,Brasil,26493759,-23.560606505918052,-46.68448984163199,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Ouro Preto
+Dr(a). João Lucas Almeida,"Recanto Nunes, 42, Vila São Francisco",São Paulo,SP,Brasil,48000-512,-23.56035667519599,-46.74438726866986,Pediatria,"[""Diamante""]",Vila São Francisco
+Dr(a). Emanuel Pastor,"Largo Gonçalves, 35, Delta",São Paulo,SP,Brasil,04066-016,-23.58418119186949,-46.77568433204151,Cardiologia,"[""Diamante""]",Delta
+Dr(a). Maya Casa Grande,"Rua da Cruz, 93, Das Industrias I",São Paulo,SP,Brasil,33411-568,-23.55739849992808,-46.75619780005095,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Das Industrias I
+Dr(a). Cauê da Mota,"Travessa Vargas, 84, Xodo-Marize",São Paulo,SP,Brasil,53460795,-23.52924770428191,-46.71259734832938,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Xodo-Marize
+Dr(a). Gustavo Henrique Aparecida,"Alameda de Montenegro, 1, Vila Nova Gameleira 1ª Seção",São Paulo,SP,Brasil,10682405,-23.594361858576555,-46.79610573677522,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Nova Gameleira 1ª Seção
+Dr(a). Dr. Ravy Nascimento,"Residencial Lopes, 2, Pousada Santo Antonio",São Paulo,SP,Brasil,99721-498,-23.52592107726322,-46.75787442908753,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Pousada Santo Antonio
+Dr(a). Sra. Maria Clara Fernandes,"Vereda de Dias, 256, Vila Primeiro De Maio",São Paulo,SP,Brasil,87401836,-23.58420838235487,-46.676852452871785,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Primeiro De Maio
+Dr(a). Sr. Matheus Viana,"Vale Lucas Gabriel Guerra, 2, Novo Ouro Preto",São Paulo,SP,Brasil,90651-583,-23.51832044299116,-46.65495411300254,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Ouro Preto
+Dr(a). Antônio Silveira,"Estrada de Nunes, 33, Vila Sumaré",São Paulo,SP,Brasil,26730-747,-23.51642007803994,-46.64927741172422,Pediatria,"[""Diamante""]",Vila Sumaré
+Dr(a). Benicio das Neves,"Colônia de Pires, 64, Nossa Senhora Da Aparecida",São Paulo,SP,Brasil,44202292,-23.59486592092485,-46.63126094471227,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Nossa Senhora Da Aparecida
+Dr(a). Lunna Cirino,"Viaduto Lopes, 14, Belmonte",São Paulo,SP,Brasil,93407-925,-23.53050142705912,-46.633537049604946,Cardiologia,"[""Ouro"",""Diamante""]",Belmonte
+Dr(a). Luiz Henrique Guerra,"Condomínio Milena Cirino, 417, Conjunto Providencia",São Paulo,SP,Brasil,88268379,-23.56385346574477,-46.623811251641726,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Providencia
+Dr(a). Maria Júlia Aparecida,"Trecho de Novais, 319, Maria Virgínia",São Paulo,SP,Brasil,35594-968,-23.59828518009866,-46.7913495080444,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Maria Virgínia
+Dr(a). Catarina Teixeira,"Ladeira Benjamim Guerra, 1, Camponesa 2ª Seção",São Paulo,SP,Brasil,65022167,-23.506906309518232,-46.611390857564786,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camponesa 2ª Seção
+Dr(a). Isabel Nogueira,"Trecho da Mata, 25, Vila Madre Gertrudes 4ª Seção",São Paulo,SP,Brasil,09619742,-23.577911034709782,-46.68881561309065,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Madre Gertrudes 4ª Seção
+Dr(a). Ana Julia Jesus,"Distrito Sá, 34, Conjunto Jardim Filadélfia",São Paulo,SP,Brasil,75655108,-23.586794399863187,-46.617559921706956,Dermatologia,"[""Ouro"",""Diamante""]",Conjunto Jardim Filadélfia
+Dr(a). Dr. Mateus Gonçalves,"Área de Duarte, 1, Pindorama",São Paulo,SP,Brasil,70102-916,-23.563965351219345,-46.61338378503573,Dermatologia,"[""Ouro"",""Diamante""]",Pindorama
+Dr(a). Hellena Albuquerque,"Condomínio Alexia Brito, 24, Cachoeirinha",São Paulo,SP,Brasil,42477-765,-23.546799683324302,-46.749688412341705,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Cachoeirinha
+Dr(a). Melissa Câmara,"Estrada da Paz, 134, Santo André",São Paulo,SP,Brasil,58261-875,-23.58033254884055,-46.66662905861421,Ortopedia,"[""Diamante""]",Santo André
+Dr(a). Henry Sousa,"Colônia Vargas, 83, São João Batista",São Paulo,SP,Brasil,11315-429,-23.594206291680766,-46.68302738586494,Pediatria,"[""Diamante""]",São João Batista
+Dr(a). Thales Sá,"Favela Stella Araújo, 11, Vila Da Ária",São Paulo,SP,Brasil,61968035,-23.54156643498193,-46.773070210939046,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Da Ária
+Dr(a). Sra. Joana Nascimento,"Travessa Enzo Gabriel Rodrigues, 21, Santa Inês",São Paulo,SP,Brasil,01680519,-23.5594592783375,-46.60174748581386,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Santa Inês
+Dr(a). Dra. Isadora Fernandes,"Quadra de Sá, 76, Vila Pilar",São Paulo,SP,Brasil,14987089,-23.565492974224057,-46.700466673979285,Pediatria,"[""Diamante""]",Vila Pilar
+Dr(a). Emanuella Pimenta,"Viela Camargo, 961, Barão Homem De Melo 2ª Seção",São Paulo,SP,Brasil,20341525,-23.569436289108257,-46.7678198446169,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Barão Homem De Melo 2ª Seção
+Dr(a). Pedro Lucas Nunes,"Colônia de Ribeiro, 7, João Paulo Ii",São Paulo,SP,Brasil,09661169,-23.5012124994111,-46.677109241283645,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",João Paulo Ii
+Dr(a). Sra. Lavínia Macedo,"Residencial de Monteiro, 766, Beira Linha",São Paulo,SP,Brasil,08987153,-23.566569832382857,-46.637204783113404,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Beira Linha
+Dr(a). Lívia Correia,"Estrada Liam Mendes, 4, Araguaia",São Paulo,SP,Brasil,94890-026,-23.593521722628974,-46.69796098648426,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Araguaia
+Dr(a). Miguel Abreu,"Estrada Isadora Araújo, 78, Vila Do Pombal",São Paulo,SP,Brasil,72954400,-23.525782078911362,-46.67477839384419,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Do Pombal
+Dr(a). Dr. Dom Moreira,"Estrada de Almeida, 776, Vila Esplanada",São Paulo,SP,Brasil,39816051,-23.500651189394073,-46.70401515846573,Dermatologia,"[""Diamante""]",Vila Esplanada
+Dr(a). Thales da Luz,"Alameda Mendonça, 16, Fernão Dias",São Paulo,SP,Brasil,45708-495,-23.588919124351985,-46.60543241201857,Clínico Geral,"[""Diamante""]",Fernão Dias
+Dr(a). Rodrigo Ribeiro,"Feira Oliveira, 88, Oeste",São Paulo,SP,Brasil,51922-452,-23.50278534197281,-46.74139589376504,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Oeste
+Dr(a). Lívia da Cruz,"Distrito Manuella Alves, 17, Vila Calafate",São Paulo,SP,Brasil,51762-858,-23.581914430383936,-46.64395453433544,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Calafate
+Dr(a). Caleb Silveira,"Jardim Teixeira, 7, Embaúbas",São Paulo,SP,Brasil,76325987,-23.5639933077087,-46.69589514567555,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Embaúbas
+Dr(a). Thiago Farias,"Praça de da Paz, 10, Monte São José",São Paulo,SP,Brasil,12353-038,-23.587459352925155,-46.627377371325146,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Monte São José
+Dr(a). Henry Novais,"Área de Ferreira, 54, Comiteco",São Paulo,SP,Brasil,98105790,-23.585714944770892,-46.72707247595569,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Comiteco
+Dr(a). Pedro Miguel Borges,"Vereda Samuel Peixoto, 7, São Paulo",São Paulo,SP,Brasil,27195814,-23.5227554543037,-46.73015881460241,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",São Paulo
+Dr(a). Srta. Catarina Garcia,"Chácara de Vargas, 282, Vitoria Da Conquista",São Paulo,SP,Brasil,80021372,-23.535701876733476,-46.65474152300528,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vitoria Da Conquista
+Dr(a). Brayan Cardoso,"Passarela Souza, 14, Canadá",São Paulo,SP,Brasil,12891094,-23.561551366375756,-46.68022723492612,Ortopedia,"[""Ouro"",""Diamante""]",Canadá
+Dr(a). Cecília Pastor,"Distrito Santos, 322, Bernadete",São Paulo,SP,Brasil,39391-251,-23.50812848328367,-46.658534898360784,Pediatria,"[""Ouro"",""Diamante""]",Bernadete
+Dr(a). Liz Ferreira,"Travessa Erick Cassiano, 18, São Bento",São Paulo,SP,Brasil,61228981,-23.54896941539178,-46.67405011473445,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",São Bento
+Dr(a). Dra. Maria Alice Costa,"Setor Guilherme Sá, 7, Aguas Claras",São Paulo,SP,Brasil,22485993,-23.509252383876785,-46.6690953729484,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aguas Claras
+Dr(a). Lucas Cavalcante,"Praia de Rios, 146, Vila Real 1ª Seção",São Paulo,SP,Brasil,56447776,-23.550524492043106,-46.75504222976274,Pediatria,"[""Diamante""]",Vila Real 1ª Seção
+Dr(a). Sra. Ayla Rocha,"Largo Ryan Fogaça, 75, Dom Cabral",São Paulo,SP,Brasil,12813089,-23.58051018680858,-46.79443764565739,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Dom Cabral
+Dr(a). Luiza Gonçalves,"Núcleo Abreu, 14, Aarão Reis",São Paulo,SP,Brasil,16515796,-23.582185570745327,-46.69622441748103,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aarão Reis
+Dr(a). Rodrigo Cunha,"Colônia de Sampaio, 197, Vila São Geraldo",São Paulo,SP,Brasil,38067-347,-23.528515460123945,-46.700165270866044,Clínico Geral,"[""Diamante""]",Vila São Geraldo
+Dr(a). Maria Liz Sampaio,"Viela de Montenegro, 4, Conjunto Jatoba",São Paulo,SP,Brasil,50630-482,-23.559764660011407,-46.758528844516384,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Jatoba
+Dr(a). Augusto das Neves,"Parque de Mendes, 52, Vila Nova",São Paulo,SP,Brasil,65414-436,-23.507220406336693,-46.6163906554245,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova
+Dr(a). Isaque Porto,"Núcleo Rocha, 13, Leticia",São Paulo,SP,Brasil,57737-264,-23.50214928515342,-46.72751903144142,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Leticia
+Dr(a). Ana Luiza Borges,"Colônia de Leão, 5, Urca",São Paulo,SP,Brasil,75281429,-23.510917462196314,-46.61612388078609,Dermatologia,"[""Ouro"",""Diamante""]",Urca
+Dr(a). Gabriel Campos,"Aeroporto Sophia Andrade, 332, Pindura Saia",São Paulo,SP,Brasil,25377-414,-23.503675141320816,-46.63964592701514,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Pindura Saia
+Dr(a). Nathan Pereira,"Campo Brito, 29, Biquinhas",São Paulo,SP,Brasil,00907-506,-23.535356035228286,-46.744594380948335,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Biquinhas
+Dr(a). Sra. Helena Fernandes,"Núcleo Monteiro, 2, Cônego Pinheiro 2ª Seção",São Paulo,SP,Brasil,00114505,-23.567550260999198,-46.68713771977045,Pediatria,"[""Diamante""]",Cônego Pinheiro 2ª Seção
+Dr(a). Sra. Eduarda da Cruz,"Via de Gonçalves, 25, Caiçara - Adelaide",São Paulo,SP,Brasil,53625888,-23.591417232027403,-46.610987072118206,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Caiçara - Adelaide
+Dr(a). Helena Mendes,"Favela Cauã da Cunha, 880, Teixeira Dias",São Paulo,SP,Brasil,41578197,-23.5547694904093,-46.64766226718438,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Teixeira Dias
+Dr(a). Julia Nascimento,"Rua de Pires, 9, Antonio Ribeiro De Abreu 1ª Seção",São Paulo,SP,Brasil,53664159,-23.568223997813085,-46.76594781752611,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Antonio Ribeiro De Abreu 1ª Seção
+Dr(a). Caio Jesus,"Lagoa de Lopes, 40, Serra Do Curral",São Paulo,SP,Brasil,57893-906,-23.519415142597094,-46.62543104811376,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Serra Do Curral
+Dr(a). Marcelo Pimenta,"Vila de Leão, 67, Vila Nova Gameleira 3ª Seção",São Paulo,SP,Brasil,75643-704,-23.57743661349139,-46.63875814575414,Dermatologia,"[""Diamante""]",Vila Nova Gameleira 3ª Seção
+Dr(a). Srta. Agatha Aparecida,"Núcleo de Costela, 27, São Jorge 3ª Seção",São Paulo,SP,Brasil,32526-531,-23.55014108664825,-46.75936696081594,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Jorge 3ª Seção
+Dr(a). Vitor Albuquerque,"Trecho da Rosa, 95, Madri",São Paulo,SP,Brasil,76704-883,-23.531647096965383,-46.60052425585441,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Madri
+Dr(a). Mariana da Mota,"Lago Maria Clara Mendonça, 690, Itatiaia",São Paulo,SP,Brasil,04242828,-23.583739240026258,-46.78863416950299,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Itatiaia
+Dr(a). Maria Julia Martins,"Feira de Nascimento, 4, Laranjeiras",São Paulo,SP,Brasil,85398-027,-23.54290662335056,-46.79780525620048,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Laranjeiras
+Dr(a). Sophia das Neves,"Favela Gabriel da Rosa, 23, Garças",São Paulo,SP,Brasil,80309681,-23.535281254572602,-46.61374446502813,Clínico Geral,"[""Diamante""]",Garças
+Dr(a). Sra. Maria Borges,"Lagoa de Pimenta, 2, Vila São Dimas",São Paulo,SP,Brasil,61522-906,-23.584765634699732,-46.61149167828052,Clínico Geral,"[""Diamante""]",Vila São Dimas
+Dr(a). Srta. Esther Cavalcante,"Colônia Cavalcanti, 303, Aguas Claras",São Paulo,SP,Brasil,83028-734,-23.533473893719673,-46.72025475494497,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aguas Claras
+Dr(a). Isabel Almeida,"Setor Lavínia Cavalcanti, 5, Vila Real 1ª Seção",São Paulo,SP,Brasil,95548993,-23.533497156332494,-46.71792239020591,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Real 1ª Seção
+Dr(a). Eloá Abreu,"Morro Cavalcante, 71, Centro",São Paulo,SP,Brasil,72180-489,-23.5809909078542,-46.6138746658362,Dermatologia,"[""Ouro"",""Diamante""]",Centro
+Dr(a). Gabrielly Vargas,"Viela de Aparecida, 10, Virgínia",São Paulo,SP,Brasil,77882084,-23.55029972155468,-46.71037757168339,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Virgínia
+Dr(a). Sra. Emanuelly Camargo,"Sítio de Fonseca, 221, Garças",São Paulo,SP,Brasil,16761142,-23.583895284095096,-46.66835293006743,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Garças
+Dr(a). Thomas Mendonça,"Praça Siqueira, 9, Vila Suzana Segunda Seção",São Paulo,SP,Brasil,39420942,-23.593682995584523,-46.61463983974496,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Vila Suzana Segunda Seção
+Dr(a). Maria Isis Fonseca,"Condomínio Moreira, 75, Marçola",São Paulo,SP,Brasil,33916-805,-23.531119042941814,-46.738135643687734,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Marçola
+Dr(a). Dr. Pedro Henrique Caldeira,"Sítio de Porto, 830, Primeiro De Maio",São Paulo,SP,Brasil,84537466,-23.503456250714407,-46.78470244006923,Clínico Geral,"[""Ouro"",""Diamante""]",Primeiro De Maio
+Dr(a). Isaque da Conceição,"Largo de Albuquerque, 20, Piratininga",São Paulo,SP,Brasil,10940-973,-23.55818173102989,-46.76205262376922,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Piratininga
+Dr(a). Gael Henrique da Cunha,"Fazenda Gabrielly Fernandes, 605, Solar Do Barreiro",São Paulo,SP,Brasil,35473-910,-23.598567319531323,-46.62844146144696,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Solar Do Barreiro
+Dr(a). Isaque Barros,"Largo Guerra, 85, Rio Branco",São Paulo,SP,Brasil,53036701,-23.511617343633056,-46.62471581165142,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Rio Branco
+Dr(a). Luiz Miguel Brito,"Lagoa de Andrade, 58, Guaratã",São Paulo,SP,Brasil,42259115,-23.596707952658395,-46.63071206350928,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Guaratã
+Dr(a). Ísis Guerra,"Residencial de Silveira, 10, Itatiaia",São Paulo,SP,Brasil,11833-620,-23.563951481529514,-46.61752728899069,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Itatiaia
+Dr(a). Lucca Pereira,"Estrada Pietro Freitas, 69, Castelo",São Paulo,SP,Brasil,07169-806,-23.525848047769895,-46.61441692760061,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Castelo
+Dr(a). Hellena Pereira,"Conjunto Barros, 87, Mantiqueira",São Paulo,SP,Brasil,35051813,-23.563437547391537,-46.657193768039704,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Mantiqueira
+Dr(a). Srta. Isabella da Mota,"Lago de da Cruz, 28, Marajó",São Paulo,SP,Brasil,75023-488,-23.578037723250297,-46.622705420761726,Clínico Geral,"[""Ouro"",""Diamante""]",Marajó
+Dr(a). Anna Liz Abreu,"Trevo de Araújo, 24, Lourdes",São Paulo,SP,Brasil,84150-784,-23.523733183134034,-46.78581232957955,Cardiologia,"[""Diamante""]",Lourdes
+Dr(a). Maria Helena Câmara,"Parque Maria Sophia Leão, 12, Esperança",São Paulo,SP,Brasil,41570162,-23.577655830209917,-46.66934484444466,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Esperança
+Dr(a). Levi Alves,"Estação Viana, 96, Vila Atila De Paiva",São Paulo,SP,Brasil,57784299,-23.5698529241896,-46.61305124114136,Dermatologia,"[""Ouro"",""Diamante""]",Vila Atila De Paiva
+Dr(a). Mariah Pacheco,"Condomínio Novais, 90, Juliana",São Paulo,SP,Brasil,25153842,-23.533788038371032,-46.70056508343885,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Juliana
+Dr(a). Alice Duarte,"Trevo de Macedo, 22, Vila Ecológica",São Paulo,SP,Brasil,52927992,-23.510904862761823,-46.629098418737726,Dermatologia,"[""Diamante""]",Vila Ecológica
+Dr(a). Ana Carolina Aparecida,"Quadra João Guilherme Cunha, 22, Vila Ecológica",São Paulo,SP,Brasil,74976-269,-23.5462512220049,-46.65966125407999,Pediatria,"[""Ouro"",""Diamante""]",Vila Ecológica
+Dr(a). Aurora Mendes,"Distrito Marcelo Fernandes, 60, Confisco",São Paulo,SP,Brasil,31189-206,-23.544853277932337,-46.651876868769,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Confisco
+Dr(a). Apollo Vargas,"Travessa Araújo, 4, Pousada Santo Antonio",São Paulo,SP,Brasil,35720-553,-23.59596285771079,-46.71153137177426,Clínico Geral,"[""Ouro"",""Diamante""]",Pousada Santo Antonio
+Dr(a). Cecília Peixoto,"Rodovia de Rezende, 70, Coração Eucarístico",São Paulo,SP,Brasil,86880098,-23.55352601195647,-46.61267868090133,Pediatria,"[""Ouro"",""Diamante""]",Coração Eucarístico
+Dr(a). Bernardo Mendes,"Largo Bella Siqueira, 32, Teixeira Dias",São Paulo,SP,Brasil,30867401,-23.575885590427905,-46.65118694224234,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Teixeira Dias
+Dr(a). Sr. João Guilherme Novais,"Vila Freitas, 54, Vila Maria",São Paulo,SP,Brasil,90218-874,-23.547687578612475,-46.711150840171165,Clínico Geral,"[""Ouro"",""Diamante""]",Vila Maria
+Dr(a). Fernando Siqueira,"Estação de Vieira, 62, Novo Ouro Preto",São Paulo,SP,Brasil,65564673,-23.573541058171234,-46.67613831634992,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Ouro Preto
+Dr(a). Letícia Novaes,"Aeroporto Casa Grande, 87, Braúnas",São Paulo,SP,Brasil,39486-621,-23.56386582319935,-46.73027701396587,Dermatologia,"[""Ouro"",""Diamante""]",Braúnas
+Dr(a). Diogo Câmara,"Trecho Pacheco, 24, Campo Alegre",São Paulo,SP,Brasil,00839841,-23.574821599088782,-46.6893390561165,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Campo Alegre
+Dr(a). Maria Vitória Azevedo,"Quadra de Camargo, 34, Vila Ouro Minas",São Paulo,SP,Brasil,92614311,-23.52426393668872,-46.68994691597483,Pediatria,"[""Ouro"",""Diamante""]",Vila Ouro Minas
+Dr(a). Carolina Nunes,"Esplanada Yuri da Rosa, 45, João Pinheiro",São Paulo,SP,Brasil,80274-955,-23.54571338852649,-46.671923617821555,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",João Pinheiro
+Dr(a). Diego Teixeira,"Avenida Peixoto, 68, Marieta 1ª Seção",São Paulo,SP,Brasil,99529-852,-23.507674386600748,-46.767089009186016,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Marieta 1ª Seção
+Dr(a). Rafael Pinto,"Chácara Gonçalves, 81, Aguas Claras",São Paulo,SP,Brasil,59741263,-23.592691865299734,-46.7009729699971,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Aguas Claras
+Dr(a). Maria Luísa Novais,"Avenida Andrade, 4, Vila Trinta E Um De Março",São Paulo,SP,Brasil,82028-504,-23.508967594174635,-46.78280596928374,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Trinta E Um De Março
+Dr(a). Dra. Maitê da Conceição,"Vila Leonardo Mendonça, 67, Vila Nova Cachoeirinha 1ª Seção",São Paulo,SP,Brasil,69847-275,-23.59064409891506,-46.65739744829758,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 1ª Seção
+Dr(a). Jade Farias,"Vila Castro, 304, Caetano Furquim",São Paulo,SP,Brasil,33921-805,-23.536421105475675,-46.76450939907669,Pediatria,"[""Ouro"",""Diamante""]",Caetano Furquim
+Dr(a). Dra. Marina Pacheco,"Morro de Souza, 23, Santa Maria",São Paulo,SP,Brasil,48924062,-23.517050735059183,-46.65044886186248,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Maria
+Dr(a). Catarina Cunha,"Trecho de Pereira, 8, Vila São João Batista",São Paulo,SP,Brasil,65716324,-23.52138803419397,-46.70839944907363,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila São João Batista
+Dr(a). Ana Liz Macedo,"Viaduto de Correia, 375, Morro Dos Macacos",São Paulo,SP,Brasil,79872-567,-23.549112000566183,-46.61557922324447,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Morro Dos Macacos
+Dr(a). Josué Mendonça,"Vale Davi Miguel Rezende, 73, Piraja",São Paulo,SP,Brasil,09887-585,-23.52710941812005,-46.72279968179344,Dermatologia,"[""Ouro"",""Diamante""]",Piraja
+Dr(a). Nicolas Aragão,"Colônia Vieira, 5, Pirineus",São Paulo,SP,Brasil,11295-145,-23.512384311969225,-46.69685312089509,Ortopedia,"[""Ouro"",""Diamante""]",Pirineus
+Dr(a). Theodoro Sampaio,"Loteamento de Vargas, 69, Vila São Francisco",São Paulo,SP,Brasil,62074369,-23.54929018582074,-46.69379695282438,Pediatria,"[""Diamante""]",Vila São Francisco
+Dr(a). Arthur Moura,"Lago Brenda Macedo, 856, Camargos",São Paulo,SP,Brasil,82842731,-23.50259585654092,-46.739367162597425,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Camargos
+Dr(a). Dr. Apollo Camargo,"Esplanada Heloisa da Conceição, 14, Horto",São Paulo,SP,Brasil,38376-001,-23.528300945681014,-46.60637650135716,Ortopedia,"[""Ouro"",""Diamante""]",Horto
+Dr(a). Letícia Fogaça,"Praça Evelyn da Costa, 75, Mirtes",São Paulo,SP,Brasil,02788860,-23.596967438789864,-46.73266398114521,Clínico Geral,"[""Diamante""]",Mirtes
+Dr(a). Rafael Camargo,"Ladeira Pereira, 26, Conjunto Novo Dom Bosco",São Paulo,SP,Brasil,23245219,-23.558195549073325,-46.60887318495193,Clínico Geral,"[""Ouro"",""Diamante""]",Conjunto Novo Dom Bosco
+Dr(a). Luiza Novais,"Travessa Maria Flor da Rocha, 3, Vila Madre Gertrudes 2ª Seção",São Paulo,SP,Brasil,10343462,-23.591890602524604,-46.778173672251654,Cardiologia,"[""Ouro"",""Diamante""]",Vila Madre Gertrudes 2ª Seção
+Dr(a). Luísa da Mata,"Núcleo Oliveira, 59, Flavio De Oliveira",São Paulo,SP,Brasil,44430-987,-23.551685035734618,-46.74050774468399,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Flavio De Oliveira
+Dr(a). Maria Liz Moraes,"Núcleo Luna Azevedo, 9, Jardim Alvorada",São Paulo,SP,Brasil,09581709,-23.571765331860195,-46.65589626132537,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardim Alvorada
+Dr(a). Srta. Ana Júlia Nunes,"Via Monteiro, 448, Vila Inestan",São Paulo,SP,Brasil,34272-033,-23.5689550884535,-46.75152452774774,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Inestan
+Dr(a). Diogo Mendonça,"Condomínio de da Luz, 60, Salgado Filho",São Paulo,SP,Brasil,62580139,-23.51123064253599,-46.69062703703202,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Salgado Filho
+Dr(a). Mariah Aparecida,"Lago de Teixeira, 97, Vila Maria",São Paulo,SP,Brasil,58640967,-23.538574201092622,-46.78661043768692,Pediatria,"[""Ouro"",""Diamante""]",Vila Maria
+Dr(a). Vitor Oliveira,"Esplanada Vinicius Aparecida, 61, Vila Da Ária",São Paulo,SP,Brasil,19109073,-23.527042258438094,-46.738244964815976,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Da Ária
+Dr(a). Rafaela Alves,"Trecho Garcia, 81, Bonsucesso",São Paulo,SP,Brasil,73121-676,-23.516224206517958,-46.69819992198211,Clínico Geral,"[""Ouro"",""Diamante""]",Bonsucesso
+Dr(a). Maria Laura Macedo,"Alameda de Dias, 96, Vila Nova Cachoeirinha 3ª Seção",São Paulo,SP,Brasil,19644-033,-23.588838978902437,-46.61539833419565,Pediatria,"[""Diamante""]",Vila Nova Cachoeirinha 3ª Seção
+Dr(a). Fernanda da Rosa,"Conjunto de Melo, 68, Vila Jardim Leblon",São Paulo,SP,Brasil,99957-471,-23.552458567318528,-46.77851950754785,Ortopedia,"[""Diamante""]",Vila Jardim Leblon
+Dr(a). Laís Rodrigues,"Área de Moraes, 64, Estrela Do Oriente",São Paulo,SP,Brasil,41408-359,-23.51248899332575,-46.79429492703245,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Estrela Do Oriente
+Dr(a). Julia Borges,"Estação Jesus, 15, Barreiro",São Paulo,SP,Brasil,67354401,-23.571203529638105,-46.63433603989494,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Barreiro
+Dr(a). Ana Beatriz Sá,"Colônia Ribeiro, 8, Outro",São Paulo,SP,Brasil,07601-158,-23.506144552978373,-46.615792450815526,Clínico Geral,"[""Ouro"",""Diamante""]",Outro
+Dr(a). Stella da Rocha,"Lagoa de Porto, 92, Conjunto Celso Machado",São Paulo,SP,Brasil,06543075,-23.50299055049583,-46.74415832723145,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Celso Machado
+Dr(a). Sabrina Melo,"Alameda Manuela Pinto, 55, Vila Madre Gertrudes 4ª Seção",São Paulo,SP,Brasil,59016182,-23.547689714699075,-46.78853799120163,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Madre Gertrudes 4ª Seção
+Dr(a). Yago Lima,"Aeroporto de Moreira, 7, Vila Ecológica",São Paulo,SP,Brasil,77381795,-23.54383716222164,-46.73396938711091,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Ecológica
+Dr(a). Maria Júlia Melo,"Lago Matheus Fernandes, 82, Providencia",São Paulo,SP,Brasil,68975-875,-23.573265892765225,-46.73919586232048,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Providencia
+Dr(a). Sr. Leandro Almeida,"Ladeira Oliver Camargo, 63, Virgínia",São Paulo,SP,Brasil,80585-718,-23.545522944640684,-46.75350897322304,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Virgínia
+Dr(a). Alice Marques,"Viela de Siqueira, 88, Conjunto Floramar",São Paulo,SP,Brasil,96813868,-23.515744175628672,-46.60421668965532,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Floramar
+Dr(a). Bruna Rios,"Rua de Rocha, 36, Jardim Dos Comerciarios",São Paulo,SP,Brasil,97951-371,-23.542083802644505,-46.62769472942614,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Jardim Dos Comerciarios
+Dr(a). Pedro Henrique Sá,"Conjunto Pimenta, 36, Boa Vista",São Paulo,SP,Brasil,34219-005,-23.50621535995156,-46.7350826960969,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa Vista
+Dr(a). Ana Vitória Marques,"Largo Thomas Albuquerque, 424, Jardinópolis",São Paulo,SP,Brasil,89315639,-23.57276167646852,-46.76153151142714,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Jardinópolis
+Dr(a). Gabriel Gomes,"Vale Sophia Rocha, 34, Goiania",São Paulo,SP,Brasil,00050-680,-23.530943749511056,-46.715961160389675,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Goiania
+Dr(a). Heitor Albuquerque,"Ladeira Luiz Fernando Pacheco, 86, Vila Nova Cachoeirinha 2ª Seção",São Paulo,SP,Brasil,23031-105,-23.571066107575188,-46.65117181730976,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 2ª Seção
+Dr(a). Thales Albuquerque,"Praia de Montenegro, 28, Cinquentenário",São Paulo,SP,Brasil,94162-036,-23.5508487206564,-46.653412628511525,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Cinquentenário
+Dr(a). Antônio Andrade,"Praia da Luz, 60, Vila Independencia 2ª Seção",São Paulo,SP,Brasil,54393-619,-23.55853294320541,-46.782736157443225,Cardiologia,"[""Diamante""]",Vila Independencia 2ª Seção
+Dr(a). Dr. Davi Moura,"Lagoa de Farias, 744, Santa Amelia",São Paulo,SP,Brasil,71753-953,-23.508067041937185,-46.66590281314393,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Amelia
+Dr(a). Clara Nunes,"Jardim das Neves, 2, Estoril",São Paulo,SP,Brasil,31025982,-23.546872321806237,-46.78271905346097,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Estoril
+Dr(a). Gabriela Araújo,"Avenida Aragão, 59, Pedreira Padro Lopes",São Paulo,SP,Brasil,72583529,-23.55184149652238,-46.609715720439496,Pediatria,"[""Ouro"",""Diamante""]",Pedreira Padro Lopes
+Dr(a). Vitor Caldeira,"Trevo de Abreu, 863, Vila Jardim São José",São Paulo,SP,Brasil,59952843,-23.548436203685114,-46.74572746553451,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Jardim São José
+Dr(a). Gabriel Pereira,"Colônia da Luz, 57, Nova Pampulha",São Paulo,SP,Brasil,63165-029,-23.550372895617066,-46.612619016317815,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova Pampulha
+Dr(a). Maria Fernanda Nogueira,"Vila de Viana, 99, Mantiqueira",São Paulo,SP,Brasil,20303-720,-23.565556996772305,-46.64461943001262,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Mantiqueira
+Dr(a). Luan da Rocha,"Ladeira Giovanna Cunha, 17, Conjunto Capitão Eduardo",São Paulo,SP,Brasil,50892-840,-23.558156459538782,-46.64031008783461,Clínico Geral,"[""Ouro"",""Diamante""]",Conjunto Capitão Eduardo
+Dr(a). Ísis Silveira,"Colônia Freitas, 34, Penha",São Paulo,SP,Brasil,53508-705,-23.52702607214815,-46.67993163947819,Pediatria,"[""Diamante""]",Penha
+Dr(a). Asafe Barros,"Morro José Pedro Martins, 60, Calafate",São Paulo,SP,Brasil,32092-442,-23.58981407968473,-46.67731394923272,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Calafate
+Dr(a). João Gabriel Alves,"Praia de Oliveira, 676, Vila Oeste",São Paulo,SP,Brasil,69716925,-23.533975485215983,-46.60107970384489,Cardiologia,"[""Diamante""]",Vila Oeste
+Dr(a). Evelyn Cavalcante,"Núcleo Nascimento, 19, Vila Nova Cachoeirinha 1ª Seção",São Paulo,SP,Brasil,83568-306,-23.501569261450683,-46.69434664693484,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 1ª Seção
+Dr(a). Sr. José Pedro Carvalho,"Núcleo de Pacheco, 221, Castanheira",São Paulo,SP,Brasil,57184-847,-23.514091058851108,-46.728821387107374,Pediatria,"[""Diamante""]",Castanheira
+Dr(a). Enzo Silva,"Conjunto Vicente Farias, 71, Vila Madre Gertrudes 4ª Seção",São Paulo,SP,Brasil,84453-507,-23.522778561429647,-46.68523534118966,Ortopedia,"[""Diamante""]",Vila Madre Gertrudes 4ª Seção
+Dr(a). Sr. Eduardo Farias,"Praça Maitê Machado, 76, Granja Werneck",São Paulo,SP,Brasil,58325-878,-23.502543266858762,-46.65749636470919,Cardiologia,"[""Diamante""]",Granja Werneck
+Dr(a). Oliver Montenegro,"Chácara de Almeida, 21, Floramar",São Paulo,SP,Brasil,53003-766,-23.529312280660935,-46.67108965874667,Cardiologia,"[""Diamante""]",Floramar
+Dr(a). Sr. Ryan Pastor,"Quadra de Sales, 7, Esplanada",São Paulo,SP,Brasil,12541219,-23.571369973458236,-46.77667418832905,Dermatologia,"[""Ouro"",""Diamante""]",Esplanada
+Dr(a). Ana Cecília da Rocha,"Via Fonseca, 29, Vila Santo Antônio Barroquinha",São Paulo,SP,Brasil,66831058,-23.594950748027937,-46.730260452783575,Dermatologia,"[""Ouro"",""Diamante""]",Vila Santo Antônio Barroquinha
+Dr(a). Pedro Miguel Moraes,"Área Sales, 67, Santa Sofia",São Paulo,SP,Brasil,10319197,-23.55912699776886,-46.794689444735795,Ortopedia,"[""Ouro"",""Diamante""]",Santa Sofia
+Dr(a). Dr. Anthony Rocha,"Fazenda de Teixeira, 597, Cabana Do Pai Tomás",São Paulo,SP,Brasil,33785-082,-23.592232438203464,-46.723096730340714,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Cabana Do Pai Tomás
+Dr(a). Enzo Gabriel Souza,"Vereda de Montenegro, 92, São Jorge 3ª Seção",São Paulo,SP,Brasil,00079-578,-23.573288707342208,-46.64092344898497,Pediatria,"[""Diamante""]",São Jorge 3ª Seção
+Dr(a). Olívia Casa Grande,"Condomínio Cassiano, 833, Sion",São Paulo,SP,Brasil,09947-537,-23.574785978300504,-46.6057623908345,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Sion
+Dr(a). Agatha Pimenta,"Área Novais, 96, Mala E Cuia",São Paulo,SP,Brasil,01820-119,-23.544751142047772,-46.7993864874582,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Mala E Cuia
+Dr(a). Ana Vitória Lima,"Rodovia Laís Martins, 498, Conjunto Floramar",São Paulo,SP,Brasil,82509131,-23.569534826538113,-46.62351828695898,Ortopedia,"[""Diamante""]",Conjunto Floramar
+Dr(a). Ana Cecília Jesus,"Rodovia Câmara, 56, Esperança",São Paulo,SP,Brasil,62856-745,-23.532021892646668,-46.79803564113141,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Esperança
+Dr(a). Ana Vitória Vasconcelos,"Vale Porto, 992, Nova Floresta",São Paulo,SP,Brasil,00018312,-23.548787990441316,-46.76875424947399,Ortopedia,"[""Diamante""]",Nova Floresta
+Dr(a). Esther Jesus,"Praia de Dias, 160, Castelo",São Paulo,SP,Brasil,28766234,-23.570615491669948,-46.789664556423055,Ortopedia,"[""Diamante""]",Castelo
+Dr(a). Sr. Gael Pires,"Residencial Lopes, 74, Ventosa",São Paulo,SP,Brasil,18121868,-23.5949462034095,-46.672180190604166,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Ventosa
+Dr(a). Emanuelly Ramos,"Conjunto Thales Duarte, 28, Santa Lúcia",São Paulo,SP,Brasil,50887-388,-23.511557398738777,-46.61336902736151,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Lúcia
+Dr(a). Enzo Gabriel Garcia,"Chácara Otávio Pimenta, 23, Tupi B",São Paulo,SP,Brasil,52309-067,-23.59747190140306,-46.79816042475692,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Tupi B
+Dr(a). Larissa Cunha,"Fazenda Calebe Sousa, 937, Vila Nova",São Paulo,SP,Brasil,75392117,-23.597236096871036,-46.742036921407234,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova
+Dr(a). Vicente Pires,"Feira Dom da Mata, 49, Goiania",São Paulo,SP,Brasil,56335-609,-23.565989895183925,-46.78097358233367,Clínico Geral,"[""Diamante""]",Goiania
+Dr(a). Evelyn Aparecida,"Aeroporto Thales Moura, 2, Centro",São Paulo,SP,Brasil,09192-662,-23.586200158621523,-46.67858691772334,Clínico Geral,"[""Ouro"",""Diamante""]",Centro
+Dr(a). Arthur Miguel Aragão,"Conjunto Maya Cavalcante, 43, Castanheira",São Paulo,SP,Brasil,32912-694,-23.569776527200634,-46.641359425971686,Cardiologia,"[""Ouro"",""Diamante""]",Castanheira
+Dr(a). Luiz Gustavo Jesus,"Colônia de Cassiano, 75, Esperança",São Paulo,SP,Brasil,17781062,-23.51670850797941,-46.786388702219796,Ortopedia,"[""Diamante""]",Esperança
+Dr(a). Luiz Miguel Farias,"Morro de Pimenta, 738, Lajedo",São Paulo,SP,Brasil,36793299,-23.514819002807545,-46.73114579985153,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Lajedo
+Dr(a). Ana Cecília Azevedo,"Loteamento Sarah Gonçalves, 91, Vila Barragem Santa Lúcia",São Paulo,SP,Brasil,45279-382,-23.502028381143845,-46.72395149013625,Pediatria,"[""Ouro"",""Diamante""]",Vila Barragem Santa Lúcia
+Dr(a). Ana Monteiro,"Vale Matheus Farias, 22, Graça",São Paulo,SP,Brasil,18206743,-23.570688952237287,-46.66884991269963,Ortopedia,"[""Ouro"",""Diamante""]",Graça
+Dr(a). Dr. Dom Marques,"Ladeira Vieira, 85, Flavio Marques Lisboa",São Paulo,SP,Brasil,46184671,-23.57253032031038,-46.74034112584265,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Flavio Marques Lisboa
+Dr(a). Ravy Andrade,"Vereda Antony Pastor, 49, Jardim Alvorada",São Paulo,SP,Brasil,01958506,-23.592003359106172,-46.6658504425175,Cardiologia,"[""Ouro"",""Diamante""]",Jardim Alvorada
+Dr(a). Giovanna Ferreira,"Rua Caldeira, 9, Vila Nova Gameleira 1ª Seção",São Paulo,SP,Brasil,83009306,-23.56331706389608,-46.646707651605404,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Vila Nova Gameleira 1ª Seção
+Dr(a). Ísis Araújo,"Sítio Vitor Rezende, 216, Marçola",São Paulo,SP,Brasil,93302-153,-23.52772545468835,-46.704844140881555,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Marçola
+Dr(a). Maria Luiza Peixoto,"Passarela de Ferreira, 74, Conjunto Lagoa",São Paulo,SP,Brasil,48100-106,-23.552277840462693,-46.71381499920377,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Conjunto Lagoa
+Dr(a). Dra. Gabrielly Peixoto,"Passarela de Sales, 43, Vila Copacabana",São Paulo,SP,Brasil,94949328,-23.590809324978327,-46.67366219113974,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Vila Copacabana
+Dr(a). Maria Júlia Santos,"Condomínio de Caldeira, 483, Laranjeiras",São Paulo,SP,Brasil,30233-544,-23.54007901480111,-46.634610051917505,Clínico Geral,"[""Diamante""]",Laranjeiras
+Dr(a). Henry Gabriel Carvalho,"Alameda Barros, 714, Miramar",São Paulo,SP,Brasil,86015936,-23.572053928915295,-46.79037583133352,Ortopedia,"[""Diamante""]",Miramar
+Dr(a). Danilo Pereira,"Loteamento Enzo Gabriel da Cunha, 54, Caiçaras",São Paulo,SP,Brasil,34424435,-23.560984865041757,-46.698534562332874,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Caiçaras
+Dr(a). Vitor Hugo Rodrigues,"Chácara de Gonçalves, 37, Vila Nossa Senhora Do Rosário",São Paulo,SP,Brasil,91703-722,-23.565677326724302,-46.640001335190725,Cardiologia,"[""Ouro"",""Diamante""]",Vila Nossa Senhora Do Rosário
+Dr(a). Maria Eduarda Porto,"Avenida de Almeida, 80, Chácara Leonina",São Paulo,SP,Brasil,87206-799,-23.531004346617912,-46.71213188682029,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Chácara Leonina
+Dr(a). Valentim Pires,"Estação Maria Luiza da Conceição, 19, Vila Formosa",São Paulo,SP,Brasil,82425-857,-23.55837700919738,-46.7412047296261,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Formosa
+Dr(a). Nathan Lopes,"Colônia Pastor, 4, Trevo",São Paulo,SP,Brasil,34943780,-23.503368856646674,-46.68101028392751,Clínico Geral,"[""Ouro"",""Diamante""]",Trevo
+Dr(a). Sr. Luiz Otávio Cirino,"Vale de Vasconcelos, 4, Vila São Gabriel Jacui",São Paulo,SP,Brasil,54663109,-23.50139590139782,-46.68919064335386,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila São Gabriel Jacui
+Dr(a). Manuella Gomes,"Colônia Ana Lívia Duarte, 7, Santa Monica",São Paulo,SP,Brasil,18178711,-23.599109717091125,-46.75481297389066,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Monica
+Dr(a). Maria Isis Dias,"Via Guilherme Viana, 2, Leticia",São Paulo,SP,Brasil,24810-412,-23.575459407554476,-46.631790017810566,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Leticia
+Dr(a). Srta. Allana Costa,"Condomínio Lucas Fonseca, 179, São Tomaz",São Paulo,SP,Brasil,73295057,-23.574775375334006,-46.79104485558394,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Tomaz
+Dr(a). Marina Peixoto,"Residencial da Paz, 68, Vila Pilar",São Paulo,SP,Brasil,73872830,-23.57392573139128,-46.764156135300404,Cardiologia,"[""Ouro"",""Diamante""]",Vila Pilar
+Dr(a). Kamilly Rocha,"Travessa de Marques, 34, Vila Jardim São José",São Paulo,SP,Brasil,08303747,-23.50974696634492,-46.60445358504582,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Jardim São José
+Dr(a). Clara da Cunha,"Praça Cirino, 1, São Bernardo",São Paulo,SP,Brasil,93546700,-23.593637267204546,-46.65830468187863,Cardiologia,"[""Ouro"",""Diamante""]",São Bernardo
+Dr(a). Raul Pereira,"Largo de Sousa, 19, Vila Maloca",São Paulo,SP,Brasil,60999280,-23.573184023399453,-46.710755865863185,Clínico Geral,"[""Prata"",""Ouro"",""Diamante""]",Vila Maloca
+Dr(a). Benjamim Nascimento,"Alameda Maria Eduarda Silveira, 734, Beija Flor",São Paulo,SP,Brasil,42916986,-23.509511499739748,-46.63717601862134,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",Beija Flor
+Dr(a). Mariane Mendonça,"Rodovia de Castro, 41, Santa Margarida",São Paulo,SP,Brasil,21732-095,-23.503899797183408,-46.684752423857994,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Santa Margarida
+Dr(a). Agatha Barros,"Campo de Vargas, 59, Barro Preto",São Paulo,SP,Brasil,16060-781,-23.598179183695986,-46.67374702857656,Pediatria,"[""Diamante""]",Barro Preto
+Dr(a). Caroline Pires,"Setor Luan Dias, 86, Santa Monica",São Paulo,SP,Brasil,00416-669,-23.58466516327457,-46.733942649475026,Ortopedia,"[""Diamante""]",Santa Monica
+Dr(a). Esther Souza,"Sítio de Teixeira, 586, Colégio Batista",São Paulo,SP,Brasil,01261-197,-23.569504058590073,-46.633411244975086,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Colégio Batista
+Dr(a). Antonella Barros,"Ladeira Bella Correia, 139, Vila Satélite",São Paulo,SP,Brasil,69590643,-23.589428904432438,-46.64329431341598,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Satélite
+Dr(a). Maria Laura Aparecida,"Avenida de Vasconcelos, 89, Araguaia",São Paulo,SP,Brasil,34809000,-23.598177342982503,-46.772812879533326,Dermatologia,"[""Ouro"",""Diamante""]",Araguaia
+Dr(a). Lavínia Albuquerque,"Vale de Brito, 29, São Jorge 3ª Seção",São Paulo,SP,Brasil,00667-669,-23.51643888956858,-46.62251224492582,Ortopedia,"[""Diamante""]",São Jorge 3ª Seção
+Dr(a). Théo Sá,"Rua Otto Cardoso, 548, Vila Independencia 1ª Seção",São Paulo,SP,Brasil,42448-348,-23.525506744116843,-46.76250288309273,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Independencia 1ª Seção
+Dr(a). Caio Nogueira,"Distrito Theodoro Duarte, 41, Maria Goretti",São Paulo,SP,Brasil,74113301,-23.510569948220862,-46.69061666661692,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Maria Goretti
+Dr(a). Kevin Montenegro,"Recanto Luísa Cavalcanti, 76, Nova America",São Paulo,SP,Brasil,06447-430,-23.504404779215502,-46.64168526793638,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Nova America
+Dr(a). Bianca Sá,"Condomínio Pires, 933, Jardim Leblon",São Paulo,SP,Brasil,28096278,-23.502716351844636,-46.711384274982635,Ortopedia,"[""Diamante""]",Jardim Leblon
+Dr(a). Heloísa Almeida,"Estação de Rios, 34, Cachoeirinha",São Paulo,SP,Brasil,66080-460,-23.594757251699516,-46.6230340164425,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Cachoeirinha
+Dr(a). Maria Flor Porto,"Conjunto de Alves, 666, João Paulo Ii",São Paulo,SP,Brasil,20549843,-23.597098667127774,-46.76130601752314,Dermatologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",João Paulo Ii
+Dr(a). Ana Beatriz Oliveira,"Avenida Cecilia Farias, 76, Horto",São Paulo,SP,Brasil,26450882,-23.582741415719788,-46.76841711824661,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Horto
+Dr(a). Arthur Miguel Viana,"Área de Vargas, 27, São Marcos",São Paulo,SP,Brasil,97222686,-23.526608436829743,-46.75581949390953,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Marcos
+Dr(a). Vicente Aragão,"Estrada Guerra, 179, Vila Nova Cachoeirinha 2ª Seção",São Paulo,SP,Brasil,22561-321,-23.582786451811476,-46.7088022745641,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Nova Cachoeirinha 2ª Seção
+Dr(a). Ana Luiza da Luz,"Aeroporto de Fonseca, 7, Planalto",São Paulo,SP,Brasil,26685677,-23.555569003855116,-46.67619206926108,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Planalto
+Dr(a). Guilherme Moraes,"Residencial Sá, 366, Álvaro Camargos",São Paulo,SP,Brasil,10572663,-23.509108270870698,-46.60813617189968,Pediatria,"[""Diamante""]",Álvaro Camargos
+Dr(a). Rhavi Pinto,"Conjunto de Souza, 5, Tupi B",São Paulo,SP,Brasil,56939-806,-23.53437040604549,-46.709345714074,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Tupi B
+Dr(a). Enrico Novais,"Chácara Cunha, 257, Lindéia",São Paulo,SP,Brasil,96581-680,-23.546510291695625,-46.710718459590524,Cardiologia,"[""Ouro"",""Diamante""]",Lindéia
+Dr(a). Maria Isis Aragão,"Esplanada de Farias, 46, Tres Marias",São Paulo,SP,Brasil,62116083,-23.540560964093327,-46.65258638658595,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Tres Marias
+Dr(a). Ana Laura Nogueira,"Quadra de Castro, 69, Graça",São Paulo,SP,Brasil,35776754,-23.503813244093575,-46.70190132852578,Clínico Geral,"[""Diamante""]",Graça
+Dr(a). Diego Marques,"Campo Breno Borges, 76, Mineirão",São Paulo,SP,Brasil,03126-672,-23.550546142953383,-46.629239000960375,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Mineirão
+Dr(a). Enzo Lopes,"Área Pedro Lucas Rezende, 956, Maravilha",São Paulo,SP,Brasil,12485023,-23.540142132481922,-46.73176834349268,Cardiologia,"[""Diamante""]",Maravilha
+Dr(a). Dr. Ravy Borges,"Campo de Rocha, 38, Pindorama",São Paulo,SP,Brasil,04554-217,-23.59435065723091,-46.70058524918323,Pediatria,"[""Ouro"",""Diamante""]",Pindorama
+Dr(a). Maria Luiza Farias,"Travessa Aragão, 97, São Tomaz",São Paulo,SP,Brasil,32417568,-23.578743419663763,-46.696612016187515,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",São Tomaz
+Dr(a). Asafe Cunha,"Vale de Cirino, 93, São Salvador",São Paulo,SP,Brasil,42115476,-23.57759419748551,-46.74318145265411,Cardiologia,"[""Prata"",""Ouro"",""Diamante""]",São Salvador
+Dr(a). Mathias Souza,"Vale Olívia Moraes, 3, Taquaril",São Paulo,SP,Brasil,63693-031,-23.519390101454867,-46.68442977019218,Cardiologia,"[""Diamante""]",Taquaril
+Dr(a). Gustavo Henrique Moura,"Largo Garcia, 96, Nossa Senhora Da Conceição",São Paulo,SP,Brasil,59338352,-23.550973623231148,-46.68847839490751,Pediatria,"[""Ouro"",""Diamante""]",Nossa Senhora Da Conceição
+Dr(a). Hellena da Costa,"Condomínio Almeida, 36, Jardim Montanhês",São Paulo,SP,Brasil,18306-600,-23.576821334052934,-46.75395875611586,Ortopedia,"[""Diamante""]",Jardim Montanhês
+Dr(a). Maria Cecília Porto,"Favela Ana Liz Lopes, 4, Cachoeirinha",São Paulo,SP,Brasil,21635-674,-23.51532040894687,-46.631676111332844,Cardiologia,"[""Ouro"",""Diamante""]",Cachoeirinha
+Dr(a). Oliver Azevedo,"Aeroporto Aylla Cassiano, 50, Renascença",São Paulo,SP,Brasil,36430-403,-23.56942314648307,-46.777925707863425,Clínico Geral,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Renascença
+Dr(a). Clarice Pimenta,"Via Davi Lucas Caldeira, 189, Marieta 2ª Seção",São Paulo,SP,Brasil,80500197,-23.529836373516474,-46.638919499442544,Cardiologia,"[""Diamante""]",Marieta 2ª Seção
+Dr(a). Daniela Sá,"Chácara Duarte, 70, Buritis",São Paulo,SP,Brasil,42368814,-23.57161873881078,-46.6643149482204,Cardiologia,"[""Diamante""]",Buritis
+Dr(a). Sarah Farias,"Avenida Enzo Barbosa, 6, Belvedere",São Paulo,SP,Brasil,94930-998,-23.55542183200617,-46.72701233173028,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Belvedere
+Dr(a). Esther Azevedo,"Recanto de Sales, 4, Boa Esperança",São Paulo,SP,Brasil,66872900,-23.536439193938122,-46.69084860903,Clínico Geral,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Boa Esperança
+Dr(a). Sra. Ana Luiza Barros,"Residencial Andrade, 56, Mariquinhas",São Paulo,SP,Brasil,62697480,-23.578673694106648,-46.750962393935644,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Mariquinhas
+Dr(a). Sr. Bryan Sampaio,"Condomínio de Carvalho, 48, Vila Da Paz",São Paulo,SP,Brasil,20827-484,-23.585327375797686,-46.71466670159465,Cardiologia,"[""Ouro"",""Diamante""]",Vila Da Paz
+Dr(a). Lucas da Cruz,"Passarela Guerra, 72, Alto Vera Cruz",São Paulo,SP,Brasil,17877-445,-23.546419316493914,-46.67838019908484,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Alto Vera Cruz
+Dr(a). Davi Jesus,"Praça de da Mata, 66, Vila Piratininga",São Paulo,SP,Brasil,05574-843,-23.555133891581757,-46.635442451016736,Dermatologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Piratininga
+Dr(a). Dr. Mateus Albuquerque,"Loteamento Lara Ferreira, 79, Petropolis",São Paulo,SP,Brasil,21489-127,-23.585270066132207,-46.60171373456085,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Petropolis
+Dr(a). Marina Viana,"Área de Fernandes, 1, Maravilha",São Paulo,SP,Brasil,36449561,-23.548650532902496,-46.60012398798453,Dermatologia,"[""Ouro"",""Diamante""]",Maravilha
+Dr(a). Júlia Fogaça,"Aeroporto Silva, 8, Itapoa",São Paulo,SP,Brasil,57747483,-23.537223636095273,-46.70852850966476,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Itapoa
+Dr(a). Ian da Luz,"Campo Rezende, 4, Goiania",São Paulo,SP,Brasil,35030180,-23.520259533673375,-46.77266093000881,Dermatologia,"[""Prata"",""Ouro"",""Diamante""]",Goiania
+Dr(a). Sr. Rodrigo Pires,"Rua Asafe Garcia, 39, Ápia",São Paulo,SP,Brasil,47796-233,-23.547077971969802,-46.76387161878325,Ortopedia,"[""Diamante""]",Ápia
+Dr(a). Daniela Lima,"Travessa de Costela, 528, Vila Das Oliveiras",São Paulo,SP,Brasil,41724-461,-23.53653632859415,-46.67843040926524,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Das Oliveiras
+Dr(a). Evelyn Teixeira,"Largo Maria Sophia Porto, 949, Biquinhas",São Paulo,SP,Brasil,67172871,-23.52833375054958,-46.6581455787092,Clínico Geral,"[""Ouro"",""Diamante""]",Biquinhas
+Dr(a). Bella Cardoso,"Ladeira Gustavo Henrique Gomes, 551, Milionario",São Paulo,SP,Brasil,95578588,-23.536090688886787,-46.73069030283664,Ortopedia,"[""Ouro"",""Diamante""]",Milionario
+Dr(a). Alice da Rocha,"Alameda de da Costa, 65, Conjunto Novo Dom Bosco",São Paulo,SP,Brasil,82587-398,-23.558317157573818,-46.69115462015653,Ortopedia,"[""Ouro"",""Diamante""]",Conjunto Novo Dom Bosco
+Dr(a). Juan Abreu,"Praia Jesus, 710, Jardim Dos Comerciarios",São Paulo,SP,Brasil,23477-781,-23.59165902690294,-46.768332794351785,Pediatria,"[""Ouro"",""Diamante""]",Jardim Dos Comerciarios
+Dr(a). Melissa da Costa,"Sítio Ribeiro, 65, Minas Brasil",São Paulo,SP,Brasil,83038-108,-23.52381932654243,-46.62737620194625,Dermatologia,"[""Diamante""]",Minas Brasil
+Dr(a). Sra. Joana Moreira,"Pátio Sales, 8, União",São Paulo,SP,Brasil,98719-092,-23.583508052403413,-46.624734648376226,Ortopedia,"[""Ouro"",""Diamante""]",União
+Dr(a). Antônio Correia,"Fazenda Ryan Moraes, 1, Vila Santo Antônio Barroquinha",São Paulo,SP,Brasil,92659-154,-23.58271587009153,-46.776092602618284,Ortopedia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Santo Antônio Barroquinha
+Dr(a). Dr. Calebe Rodrigues,"Praça de Moreira, 7, Pompéia",São Paulo,SP,Brasil,04764-691,-23.564387512338314,-46.69772138816169,Ortopedia,"[""Prata"",""Ouro"",""Diamante""]",Pompéia
+Dr(a). Eduardo Dias,"Residencial Pinto, 61, Novo Das Industrias",São Paulo,SP,Brasil,95041-380,-23.588574077737462,-46.726645800493515,Cardiologia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Novo Das Industrias
+Dr(a). Vinicius da Mata,"Rua Alice Azevedo, 67, Heliopolis",São Paulo,SP,Brasil,33546060,-23.592751783757485,-46.671598263641904,Clínico Geral,"[""Ouro"",""Diamante""]",Heliopolis
+Dr(a). Anthony Gabriel Teixeira,"Viela de Pimenta, 938, Jardim São José",São Paulo,SP,Brasil,86929-025,-23.58175772412318,-46.723578744342355,Pediatria,"[""Ouro"",""Diamante""]",Jardim São José
+Dr(a). Rael Monteiro,"Vereda Heitor Lima, 148, Serrano",São Paulo,SP,Brasil,01881-813,-23.56710294662298,-46.75041124420419,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Serrano
+Dr(a). Stella Brito,"Esplanada Oliveira, 2, Mariquinhas",São Paulo,SP,Brasil,19328663,-23.59656710785818,-46.61737305412426,Pediatria,"[""Prata"",""Ouro"",""Diamante""]",Mariquinhas
+Dr(a). Dra. Ana Clara Siqueira,"Recanto Gonçalves, 61, Conjunto Celso Machado",São Paulo,SP,Brasil,95449781,-23.5240315566657,-46.708413749973786,Cardiologia,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Conjunto Celso Machado
+Dr(a). João Vitor Rezende,"Aeroporto de Casa Grande, 45, Atila De Paiva",São Paulo,SP,Brasil,55226235,-23.554993188866636,-46.63043353797123,Ortopedia,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",Atila De Paiva
+Dr(a). Helena da Conceição,"Setor Jesus, 7, Vila Esplanada",São Paulo,SP,Brasil,19556-424,-23.542035546052226,-46.61477193564117,Pediatria,"[""Básico"",""Bronze"",""Prata"",""Ouro"",""Diamante""]",Vila Esplanada
+Dr(a). Sr. Theodoro Andrade,"Loteamento Arthur Gabriel Ribeiro, 2, União",São Paulo,SP,Brasil,01808-717,-23.554945515934126,-46.78269432258638,Pediatria,"[""Bronze"",""Prata"",""Ouro"",""Diamante""]",União
+Dr(a). Luiz Felipe Fonseca,"Pátio Brito, 32, Nova Vista",São Paulo,SP,Brasil,97951246,-23.56309941321267,-46.63559355189875,Ortopedia,"[""Ouro"",""Diamante""]",Nova Vista
