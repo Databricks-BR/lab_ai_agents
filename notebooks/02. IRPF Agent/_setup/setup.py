@@ -221,12 +221,10 @@ def display_quota_error(e, ep_name):
 
 # DBTITLE 1,Switch to Specified Catalog and Schema in Databricks
 print(f"Catálogo que você está usando: {catalogo}")
-print(f"Schema criado para você: {schema}")
 
 dbutils.widgets.text("catalogo", catalogo)
 dbutils.widgets.text("schema", schema)
 
-print(f"Link do seu schema: https://{dbutils.notebook.entry_point.getDbutils().notebook().getContext().browserHostName().get()}/explore/data/{catalogo}/{schema}")
 
 spark.sql(f"USE CATALOG {catalogo}")
 spark.sql(f"USE SCHEMA {schema}")
