@@ -5,7 +5,7 @@
 # COMMAND ----------
 
 ##### Preencha com o nome do catálogo
-catalogo = "workshop_databricks_jsf"
+catalogo = "workshop_databricks_"
 
 ##### Preencha com o nome do prefixo do schema
 prefix_db = "ai_"
