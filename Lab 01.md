@@ -16,38 +16,36 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA
 
 ---
 
-## 2. Acessar o notebook 00. Setup
+## 2. Acessar o notebook /notebooks/01. Busca Médico/00. Setup
 
-- Clique em *edit* > *add parameter*
-- Crie um parâmetro chamado **"iniciais"**
-- Na caixa de texto que apareceu, digite as iniciais do seu nome
+- Na caixa de texto chamada **iniciais**, digite as iniciais do seu nome
 - Execute a célula com o SQL
+
+## 3. Faça o download dos arquivos `.csv` que estão no diretório: 
 - Faça o download dos arquivos `.csv` que estão no diretório:
   - `notebooks/01. Busca Médico/data`
 - Faça o upload dos arquivos para o volume `vol_agent`
 
 ---
 
-## 3. Acessar o notebook 01. Preparando os dados
+## 4. Acessar o notebook /notebooks/01. Busca Médico/01. Preparando os dados
 
-- Clique em *edit* > *add parameter*
-- Crie um parâmetro chamado **"iniciais"**
+- Na caixa de texto chamada **iniciais**, digite as iniciais do seu nome
 - Substitua na linha 12 e 23 o `<NOME_DO_SEU_CATALOGO>` pelo nome do seu catálogo
 - Execute o notebook 01
 - Confirme se o resultado informa que há **1.000** registros em cada tabela
 
 ---
 
-## 4. Acessar o notebook 02. Create Functions
+## 5. Acessar o notebook /notebooks/01. Busca Médico/02. Create Functions
 
-- Execute a primeira célula para criar os **parâmetros**
-  - Inclua suas iniciais no parâmetro **"iniciais"**
-  - Execute o comando *Run all*
-  - Verifique se todas as linhas obtiveram sucesso na execução
+ - Inclua suas iniciais no parâmetro **"iniciais"**
+ - Execute o comando *Run all*
+ - Verifique se todas as células obtiveram sucesso na execução
 
 ---
 
-## 5. Acessar o notebook 03. Prompt
+## 6. Acessar o notebook /notebooks/01. Busca Médico/03. Prompt
 
 1. Copie todo o texto da célula
 2. Clique em Playground
