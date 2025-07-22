@@ -8,10 +8,11 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA
 # Lab 01 - Step by step
 
 
-## 1. Faça o download do .zip para sua máquina
+## 1. Crie uma git folder no Databricks
 
-1. [Baixe o arquivo .zip](https://github.com/Databricks-BR/lab_ai_agents/blob/main/notebooks.zip)
-2. Importe o arquivo .zip no Databricks
+1. Clique em workspace no canto superior esquerdo
+2. No canto superior direito, clique em create e selecione "git folder""
+3. Em Git Repository URL, digite -> https://github.com/Databricks-BR/lab_ai_agents/
 
 ---
 
