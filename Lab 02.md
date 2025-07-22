@@ -44,9 +44,11 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA
    5.1. Vá para o Playground e use **Sonnet 3.7** ou **Llama 3.3 70B**
 
    5.2. Adicione seu Vector Search Index como tool
-   5.3. Pergunte: `"Posso declarar a minha sogra no IR?"`
-   5.4. Altere o nome do notebook de driver para `AgentIR`
-   5.5. Altere o nome da pasta para `AgentIR`
-   5.6. Na célula 16, coloque seu catálogo e schema.  
-   5.7. Em `Model Name`, insira:  ```AgentIR_suas_iniciais```
+   5.3. Adicione o seguinte prompt `"Você é um assistente da receita que tira dúvidas sobre o imposto de renda (IR). O VS: workshop_databricks_jsf.agents.figueiro_juliandro_my_vs_index, é retornar a FAQ do IR "`
+   5.4. Pergunte: `"Posso declarar a minha sogra no IR?"`
+   5.5. Altere o nome do notebook de driver para `AgentIR`
+   5.6. Altere o nome da pasta para `AgentIR`
+   5.7. Na célula 16, coloque seu catálogo e schema.  
+   5.8. Em `Model Name`, insira:  ```AgentIR_suas_iniciais```
+
 

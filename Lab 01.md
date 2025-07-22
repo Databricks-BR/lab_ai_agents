@@ -54,7 +54,7 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de IA
 6.6. Selecione:  
    `workshop_databricks_suasIniciais.agents.*`
 6.7. Pergunte:  
-   `"Qual o cardiologista mais perto de mim?"`
+   `"Qual o dermatologista mais perto de mim?"`
 6.8. Clique em **get Code e selecciona Agent Notebook**
 6.9. Altere o nome do notebook do driver para **AgentBuscaMedico**
 6.10. Altere o nome da pasta para **AgentBuscaMedico**
